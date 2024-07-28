@@ -1,4 +1,4 @@
-res_id,Cluster,Block,year_of_inhabited,own_status
+res_id,cluster,block,year_of_inhabited,own_status
 202203A1401484221,Ancol,A14,2022,Owner
 202203B1902780908,Ancol,B19,2022,Rent
 202303C1201119547,Ancol,C12,2023,Owner
