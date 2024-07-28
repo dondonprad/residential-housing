@@ -1,0 +1,790 @@
+res_id,Name,own_status
+202203A1401484221,ridha ulva,Owner
+202203B1902780908,rizqi wahyuningsih,Rent
+202303C1201119547,ruwadi saputra,Owner
+202403D302160049,sugeng hermawan,Rent
+202203C101563316,suliatun,Owner
+202203G1201179026,tomi ismeidianto,Owner
+202303H1201633496,usthalay putra,Owner
+202203G1501690987,winggo aga septian,Owner
+202403D2501171004,yunaldi rizki putra,Owner
+202303G1101892420,arif fasetyo,Owner
+202403B2001196382,arie rahman satria,Owner
+202303D802517421,arinda oktaviana,Rent
+202303H2501280011,asri jakawendra,Owner
+202303H101141935,astri stiawaty,Owner
+202203F101467154,aszani,Owner
+202203A1601285586,boby rahman,Owner
+202203D1801112245,dewi cahyati,Owner
+202303C401133155,dimas aditya perdana,Owner
+202303C802103588,dinda afani,Rent
+202403B1101794392,doni sanjaya,Owner
+202403D2701308369,fitri yanti,Owner
+202203A501112667,hendri eka saputra,Owner
+202403B1701600697,irwan ahmad gafur,Owner
+202203D601240055,isa ismail,Owner
+202303A901220966,kurniawan rosman a,Owner
+202203F501295992,muhammad azmy,Owner
+202203E401265238,muhammad ilham,Owner
+202403B401236420,muhammad sholihan,Owner
+202403H2101178578,novita dewi,Owner
+202403D2401187867,novri sabli saputra,Owner
+202303D1201242806,pajar bahari,Owner
+202403G1601312097,redha fauziah aziz,Owner
+202403D1101263990,ridho,Owner
+202403G901267851,ridho fajri,Owner
+202203H2302381430,ridho rismayanda,Rent
+202203A1001314392,ridwan candra,Owner
+202303H301109854,rosdina,Owner
+202303G601652294,supriadi,Owner
+202203E501134039,suriyani,Owner
+202203B1601208333,tommy zul hidayat,Owner
+202203D1301227936,umi riyani,Owner
+202203D101323962,wiwik sumarmi,Owner
+202303H501220892,yuni dwi hastuti,Owner
+202203B901547192,aulia rahman,Owner
+202203A1201429217,agung kurniawan,Owner
+202403A701848730,ahmad fauzi paturusi,Owner
+202403H2001296930,arie biola gunti masuko,Owner
+202203F901664817,ayu andira,Owner
+202403H2201127609,ayu dwi septiana arta,Owner
+202203H1502921274,azwar anas,Rent
+202203D1401175758,azwir irfan nanda,Owner
+202403E901278975,budi setiawan,Owner
+202303C1301216791,donna febriani,Owner
+202203B501449940,dwi widiastuti,Owner
+202403E302102225,dwiki apsyarin,Rent
+202203C701165915,dwiza indri,Owner
+202303B2101195205,frans b jaya zalukhu,Owner
+202403F201111589,fuad harisfa,Owner
+202403H1402273790,herman efendi,Rent
+202303D1501206345,ichsyan rizky adi p,Owner
+202203C1001133824,ivo oktavianti,Owner
+202403C1601244346,lailatul izzati,Owner
+202403C1402295046,muhammad oki,Rent
+202303H601826045,muhammad ridho ardonis,Owner
+202403D2201135881,muhammad rizqi muttaqin,Owner
+202203D201180421,muhammad setyo,Owner
+202203H702309642,nur aulia hasanah,Rent
+202403D1601803577,nurfatrianti,Owner
+202303A1502209362,pikril islami,Rent
+202403A301475415,rikal,Owner
+202203A1301148997,riyan hidayat,Owner
+202303H1002215830,rizki fatama,Rent
+202403G402335781,rizkie hafizzah,Rent
+202403A101308923,syaiful akbar,Owner
+202403B302280457,nu' in sofyan,Rent
+202403C1501165303,sumirah,Owner
+202203C602480434,ade surahman,Rent
+202303B801972722,kasnanto,Owner
+202303F401246810,sumirah,Owner
+202203H1601108817,teguh wahyudi,Owner
+202203D701987639,sakiyo,Owner
+202203B101246645,dwi kasmini,Owner
+202203B2301133830,laily mufarokah,Owner
+202403B1001120987,sigit nugroho,Owner
+202203B1302147788,linda rusmi wardani,Rent
+202403F1501118123,m. charly iman nugroho,Owner
+202203C1701179846,untung sugiono,Owner
+202203B201109026,sarminah,Owner
+202403A801658283,wiwik purwanti,Owner
+202203H202137999,saputra,Rent
+202403H401873238,sufiyani,Owner
+202303E801272421,zenika pradea,Owner
+202303F1302126183,adelia agustin,Rent
+202403B1501324342,desi aulia rahma,Owner
+202203D501257426,muhammad fajar maulana,Owner
+202203D2001107296,muliadi,Owner
+202203F601243393,nuriyati,Owner
+202203H1802294413,andreyan saputra,Rent
+202203H901431797,afrianda,Owner
+202203A201604186,surya ramadani,Owner
+202403B1201156087,suhendri,Owner
+202203H1901209011,dewi wulan sari,Owner
+202203B1401152918,reza andika ramadhan,Owner
+202303G301213614,slamet,Owner
+202403D1901263826,erna,Owner
+202203G701183988,gilang aditia,Owner
+202403F1001329986,suherianto,Owner
+202303D2301123613,sugianti,Owner
+202203F1401104557,aris pratama putra,Owner
+202403D1001146841,adella,Owner
+202203G1002337595,widyo sudiro,Rent
+202303E102169870,kusniah,Rent
+202203B2401141059,riza feri handoko,Owner
+202303D2802241417,angga adhy surya,Rent
+202203H801263500,nelvin adhy renata,Owner
+202203F1601203366,titis brigida silva,Owner
+202303C201338628,suroso,Owner
+202203E702306142,sukati,Rent
+202303F1101113930,depri selamet ariadi,Owner
+202403G1301219716,isti nurjanah,Owner
+202403H2402144237,ruswantoro,Rent
+202403D1701146338,juli anggraeni,Owner
+202303G501210424,muhammad prayoga winata,Owner
+202403F701840492,heru setyono,Owner
+202203G202891331,sri mulyani,Rent
+202203F801262359,galih subekti,Owner
+202403F301173185,ageng kurniawan,Owner
+202403A401275540,auliya shobrina,Owner
+202203A601206031,slamet,Owner
+202403A1102678244,suparmi,Rent
+202203F1701185213,tri agus susilo,Owner
+202403D902457460,junaeri,Rent
+202303F1801368209,daryono,Owner
+202403B1801149933,poniyem,Owner
+202403D401113526,fajar setiawan,Owner
+202403B2201114740,nabilatul dwi seftiani,Owner
+202303E1001264395,jaimin,Owner
+202403E201571358,rohatun,Owner
+202403C1101101630,dewi safitri,Owner
+202403G101130694,dian elok nur cahyati,Owner
+202303E602303076,m. amrijen nur rohman,Rent
+202203G801100622,rosidin,Owner
+202203D2101228983,suwarti,Owner
+202303G1402245116,krisdan fauzi,Rent
+202203D2601151103,khasanah dwi fauziah,Owner
+202403C901487836,ainun isnaini fauziati,Owner
+202403H1701127409,m. rais tri wahyudi,Owner
+202203B701157125,sri mudrikoh,Owner
+202303F1201241070,ihsan baedowi,Owner
+202203H1301295709,rahmad erwin wibisono,Owner
+202203B601470767,muhamad fiki wahyudi,Owner
+202203C501226794,agus salim,Owner
+202303C301125669,mardiana,Owner
+202203H1102316053,mustika sari,Rent
+202204D1901164765,muhammad zamzari,Owner
+202404F901326641,air murya,Owner
+202404B401216705,sumardi,Owner
+202404H1301215987,surni,Owner
+202404H901425975,wahid suprayitno,Owner
+202204H1501182617,sutramiati,Owner
+202204F801423199,susanti lestari,Owner
+202204B1901256452,rasman,Owner
+202204D601316282,riya ningsih,Owner
+202404G1501462471,uji ifandy saputra,Owner
+202404D2801741030,hana aida sahila,Owner
+202304D2702852366,mufizar ilyas,Rent
+202404C201164310,nora,Owner
+202204B801197239,ulviana agustina,Owner
+202304C1801847516,erina ramadhani,Owner
+202404E401308752,sumono,Owner
+202304F301121757,khoirul zaki,Owner
+202304A401278605,warsini,Owner
+202204E801108719,alif al barrak zaki,Owner
+202304F1201296937,sulistiyono,Owner
+202204C2001148004,jekri wiralis,Owner
+202404B2001268674,nirmanto,Owner
+202304C101147790,rasmini,Owner
+202204E502117549,bejo hutanto,Rent
+202204C901139635,desi tri astuti,Owner
+202304D2001277197,okta ionika,Owner
+202404C502174563,muhyidin,Rent
+202304E701884866,meriyanti,Owner
+202404H1901142516,erna lestari,Owner
+202204G501308149,asef saifulloh,Owner
+202404D2601331110,jonianto,Owner
+202304C702113204,mujiati,Rent
+202204G1801173353,riko hari prasetyo,Owner
+202204C2101131088,diva al farizky,Owner
+202204H2001505193,parjo,Owner
+202404G101282721,rumsiyah,Owner
+202204A601160608,dewi sumarni,Owner
+202204G601297486,efi sulastri,Owner
+202204D401287097,wagimun,Owner
+202304A301887019,girah,Owner
+202404G1101322919,feni safitri,Owner
+202304H601186699,sumarno,Owner
+202404H2201172626,nurimah,Owner
+202204F201271209,noviana anggraeni,Owner
+202404H1101244647,aissyah dwi zhaskia,Owner
+202404H401238752,hariri,Owner
+202204B1501333159,ida budiani,Owner
+202204B2402683619,rizki pratama,Rent
+202404B2201148440,yanto,Owner
+202204G1401291206,puji lestari,Owner
+202204G202152887,dewi wulan ningsih,Rent
+202404H701171834,aril aji alania,Owner
+202204C602223288,amalia chechy anggia,Rent
+202304A702905622,suranto,Rent
+202204H2501185854,suprihatin,Owner
+202204A801315338,bangkit syuhada,Owner
+202304G901425924,tri anindita aurellia,Owner
+202204D701261460,kasturi,Owner
+202204B301179861,epran,Owner
+202204H1701339447,suwarsih,Owner
+202404B101303360,dwi astika sari,Owner
+202404H801186252,trio hamdani,Owner
+202304H1802121540,a. solikhin,Rent
+202304G1601313448,sumiati,Owner
+202404C1201315933,sugiat bagus hermawan,Owner
+202204A201235672,sukma liyana dewi,Owner
+202404E1602247621,dzul helmi affan ridho,Rent
+202204B901173219,nugroho,Owner
+202404A1301275391,kusriyati,Owner
+202404D1001829653,vika apriliana n. a,Owner
+202304C401113416,bela octavia ramadani,Owner
+202204H2301759657,pri santoso,Owner
+202204E1301848777,miyanto,Owner
+202304E101756498,samiyah,Owner
+202404H301954737,wahyu pratama,Owner
+202204A1201201535,devina tria ananda,Owner
+202304D101141035,masruri,Owner
+202404C1101120516,siti romlah,Owner
+202404F1302138965,ricky prayoga,Rent
+202204F1001167407,shafa mutia nurhaliza,Owner
+202204D2401714192,abdul malik,Owner
+202404A901162794,kardi,Owner
+202404B1201319750,sumini,Owner
+202304A1401230276,andika saputra,Owner
+202204H1401266437,habib hidayaturrohman,Owner
+202204E1101238248,wiwik wulandari,Owner
+202204D1702224691,m. souvil anam,Rent
+202404G301688096,anin khamidah,Owner
+202404B202322370,diram,Rent
+202204H501102478,muslimah,Owner
+202204A101183585,eko kurniawan,Owner
+202204C1501285096,romadon nur hidayat,Owner
+202404F502164267,siti masliah,Rent
+202204F1501120952,tri adi eko lestanto,Owner
+202204E1502221383,eva setia ningrum,Rent
+202204D1801293350,suyono,Owner
+202304D501193423,nurtriana yuliastuti,Owner
+202304F401153396,sazim saputra,Owner
+202404F1601237891,rozakiah,Owner
+202304F1701944800,alifia yuliani,Owner
+202304E1001625646,hamzah maulana,Owner
+202404D1401222944,akbar maulana,Owner
+202204G1201140324,supriyadi,Owner
+202204A1701305934,supiyah,Owner
+202404C1701189048,alfajar efendi,Owner
+202404F701387887,ahmad saprudin,Owner
+202404C301161984,anwar sholeh,Owner
+202204C1601627721,umi muslimah,Owner
+202204G1701203205,elisa anjani,Owner
+202404B501297795,meila nurhidayati,Owner
+202404B1401281974,santoso,Owner
+202304A502155370,tumi,Rent
+202204H102127990,mira mustika,Rent
+202204H1201214717,edi suyoto,Owner
+202404B1101150111,rikana nurmala desi,Owner
+202204B1001379337,zidane dhevan pratama,Owner
+202404B1601128953,mariyamah,Owner
+202304C801243624,setiawan,Owner
+202204D2301330384,sutiono,Owner
+202204D201192978,nurhayati,Owner
+202404A1501408083,oki aditia saputra,Owner
+202204F101231580,hendrio junior,Owner
+202404F1101151351,giatno,Owner
+202304D1101972339,siti ngaisah,Owner
+202404A1901780993,ahmad rasyid,Owner
+202204D1601588854,gilang nur bekti,Owner
+202304A1101266245,abas suyatno,Owner
+202204C1901257804,kholipah,Owner
+202404D2501160865,abdul kholik,Owner
+202304B1301147196,dede adiyanto,Owner
+202204H2401196089,handani nurul hidayah,Owner
+202404A1801142793,mustofa,Owner
+202404G1001304833,luhur gunawan,Owner
+202204F601335078,tri mandrasih,Owner
+202304B2301126887,manisem,Owner
+202404D2101228615,r. widodo,Owner
+202204H201323800,ismanto,Owner
+202204E1201247964,tri lestari,Owner
+202304C1001335689,kurniawan zam zami,Owner
+202204D301167570,raditia saputri,Owner
+202204C1301250375,mabruro,Owner
+202304B1702291010,mukaromah,Rent
+202304H1001113075,vina nailatul izzah,Owner
+202204D1301150619,muhammad arwin,Owner
+202204G801309306,ulil amri,Owner
+202304H2101895386,nurul mubarokah,Owner
+202204G401182094,nurisya amara putri,Owner
+202404A1601144037,karno,Owner
+202204D901235040,asmunah,Owner
+202304B2101152066,danang wahyu ananda,Owner
+202204E601281692,syamsul huda,Owner
+202204A1002318087,tumirah,Rent
+202404G702168896,nur qasanah,Rent
+202304D801591748,andika dwi pangestu,Owner
+202404G1301180583,mhd. yunus,Owner
+202304D1201191989,juminah,Owner
+202404B701245270,dwi yuliani,Owner
+202204D2201110048,chyndi erliani,Owner
+202404E201198430,eka putra,Owner
+202404E901328743,sri martini,Owner
+202404C1401481177,fadilla rahmadani,Owner
+202204F1401319546,ananda reyhan pradipta,Owner
+202404E1401224636,masinah,Owner
+202404B1801254349,d. maulana,Owner
+202204B601171832,kasri,Owner
+202204H1601103639,salami,Owner
+202404E301281793,eko rudiyanto,Owner
+202404D1501118793,desi susanti,Owner
+202201C1401853179,hafizhan shidqi,Owner
+202401F601359754,gandhi wibowo,Owner
+202401E201297920,aldio mahendra purwandrarto,Owner
+202401F1401235688,benny putra,Owner
+202401G301101004,vicky vernando dasta,Owner
+202201C801317909,jufianto henri,Owner
+202401A201191724,aan nuraini,Owner
+202301F301188942,abdur rahman,Owner
+202401D1201107894,abdurrahman,Owner
+202201C1202809227,ade indra sukma,Rent
+202201A1201426948,ade irmayani,Owner
+202401B102234701,bakti yoga fiyandana,Rent
+202301D502974343,daniel sepra fatama,Rent
+202301F801276693,dayu m sandro,Owner
+202401E801252445,dean mareti hariani,Owner
+202201F102790146,edi kurniawan wibowo,Rent
+202201C1501199660,fadil rahmat andini,Owner
+202401E1001106670,fahmi iqbal firmananda,Owner
+202301C701179134,fairuzi,Owner
+202301A801904281,gustian,Owner
+202401B1701109505,habil sabilla do'a,Owner
+202401F201202238,hermawan syah,Owner
+202201G202541683,ibnuyohanzah ahmad,Rent
+202201D101158382,lia pertiwi,Owner
+202401F1201779217,muhammad maksum sugondo,Owner
+202201B601106424,muhammad risfandanu,Owner
+202401G801179356,adnil riza,Owner
+202301C201982309,nadia gustiana,Owner
+202401B701695024,nanda aditya,Owner
+202201F902905924,nurgivo alfajri,Rent
+202401E901143075,pita irul sayekti,Owner
+202401D601653378,rahmadi gusri,Owner
+202201B1201113844,rahmat,Owner
+202301B1301213627,sadra wilis,Owner
+202301B201546846,said rio apriadi,Owner
+202201G401244245,tania rahmadhini,Owner
+202201G1301253610,tarikhul mahfudz,Owner
+202201B1001207358,vido idramedi,Owner
+202201D702362677,wahyu darmawan,Rent
+202201G1001608779,yana famana,Owner
+202401G701246853,yusrika dewi,Owner
+202401C401326861,zakiah nurviani,Owner
+202301A1502183388,aditya dwi nugraha,Rent
+202201F701108260,afrian djugi,Owner
+202301G901113940,debby jayadi nugroho,Owner
+202401E101318264,dede dwi arviyanti,Owner
+202401D301150783,della maulina herianda,Owner
+202401B1101243838,deny gustriansyah,Owner
+202301C601327311,desi fitri,Owner
+202401G1201334212,edmund andriano,Owner
+202401A501146235,fajar aulia rahman,Owner
+202201A901507026,fathiya hasyifah sibarani,Owner
+202301F1502154785,fauzar,Rent
+202401A102228816,habzer maisera,Rent
+202201F1101221815,herzavina,Owner
+202401F1301173506,ikbal gazalba,Owner
+202401C1101107649,ikhsan firdaus,Owner
+202301C1002133645,ilda ikhwana lubis,Rent
+202401D1101627363,jayus suryawan,Owner
+202401A1101190007,muhammad bagoes samaron,Owner
+202301D801308666,muhammad hanafi,Owner
+202401A601280325,muhammad ilham akbar khoiri,Owner
+202401E301225335,narendra benny,Owner
+202301G102216110,naufal abiyyu,Rent
+202201D1301145223,nurhikmah,Owner
+202301G501200667,fadana bagus harsono,Owner
+202301B901146591,rahmi omya ulta,Owner
+202401D201540929,rahmi septhianingrum,Owner
+202401B801179872,rangga arief putra,Owner
+202201G1401719738,rangga dwi nugrawan,Owner
+202301A1001253569,saiful wahyudi,Owner
+202401A701148881,sari devia agustina,Owner
+202401C501122022,taufik oktafiyardi,Owner
+202401E601136387,teddy franwijaya,Owner
+202301A401642809,vigo farlandi,Owner
+202401C1302208095,wahyu ernu setiawan,Rent
+202401E501110403,yofaldi laksmana putra,Owner
+202301B301224486,zubaidah,Owner
+202401C301167805,agus faturrahman,Owner
+202301D901176102,agustiando rahmat,Owner
+202201B1401850401,aidil badri,Owner
+202201C901322212,alfajri,Owner
+202201F1001217139,bayu hasan basyir aljawi,Owner
+202401D1001284240,desi fransiska,Owner
+202401B1501205318,desnando,Owner
+202401G601112118,desri ardika,Owner
+202201A301108298,dessy masdianata p,Owner
+202201B1601123726,destria membrane,Owner
+202401G1101107053,eka nur safitri,Owner
+202201E701491693,fauziah,Owner
+202201D401300318,feny afrisilia,Owner
+202201F501115170,hesty afriani srg,Owner
+202401B501203099,ilham afandi aziz,Owner
+202401F401167127,ilham fajri,Owner
+202201G1501107924,indah permata sari,Owner
+202401B401149207,jukhri syahputra,Owner
+202201A1301288974,m. muawam,Owner
+202201E402758418,m. yassir saputra jamina,Rent
+202201C101288165,mardiyyat fadliellah,Owner
+202201A1402124801,mukhtar lutfi,Rent
+202402A201239827,neni anggraeni dalimunthe,Owner
+202202C701229873,nurpauliani dewi n,Owner
+202202D1301552394,rano abdul rahman,Owner
+202402A1701120005,ratih purwasih,Owner
+202302E302100388,raynaldi setiawan,Rent
+202402C1701143547,shynta dwi afitri,Owner
+202402C801265119,siti romlah,Owner
+202302F1302195246,teresno maulana,Rent
+202402D1601872975,tessa eka fatiwi,Owner
+202202D101962373,wendi gusfan hutapea,Owner
+202202C1201172437,yovita sari,Owner
+202402E502319942,zukri adinalta,Rent
+202202F1101424127,alfi sahri,Owner
+202402D1501209193,amalia wulandari,Owner
+202402D1101596820,amelia novrida,Owner
+202202C501800334,andre ganda wilaga putra,Owner
+202402A101166842,andre oktora,Owner
+202202A901138368,benni setiawan,Owner
+202202A701333112,deswanto,Owner
+202202E601336341,desy syahputri,Owner
+202402F1502224143,eka wulandari,Rent
+202302D901324382,ferry ramadhan,Owner
+202302B1701328116,firdaus,Owner
+202302A301633979,hamdani asril,Owner
+202302C601298963,hijrah syahputra,Owner
+202202B601299496,indah rahmawati,Owner
+202402B901239731,indra firman,Owner
+202202C1001505919,indri dian pertiwi,Owner
+202402C901126143,kemal pasha,Owner
+202402D202265966,muhammad sayuti nur nasution,Rent
+202402B801115149,miftahur ridho,Owner
+202402C1801132090,mila yuli yanti,Owner
+202202E201297512,muhammad wendi hidayat,Owner
+202402E101356311,nikawati,Owner
+202402D601307858,nofan widiyarna,Owner
+202402E1001179160,nurudin rahman,Owner
+202202B501290772,puji astuti,Owner
+202302E1301521228,refi delia,Owner
+202202D302657812,reno mulia sari,Rent
+202302A1801927507,resa putri ananda,Owner
+202402B1601131742,resi septiani,Owner
+202402F1201315533,rudi kurniawan,Owner
+202402E901163144,siti zulaiha,Owner
+202202A1501230829,sry dhina pohan,Owner
+202302B1001129721,thovanni jogga,Owner
+202302C1502813393,tian fitra kurniawan,Rent
+202402A1201241707,widya ayu azhari,Owner
+202302F101968479,yudiatma adrion,Owner
+202402D801748886,zukri rahman,Owner
+202402C1102254400,andre saputra,Rent
+202402B201317470,andrianto,Owner
+202202A602207641,andryan dwi cahyono,Rent
+202402B101938680,angga wiratama,Owner
+202302F201244676,anggi desmita arini,Owner
+202302C1401466789,dewi cita rani,Owner
+202302F901987448,dewi kartika sari,Owner
+202202D1401138938,dewi shinta octariati,Owner
+202202B302731350,firdaus,Rent
+202202C102223243,fitra andri gunawan,Rent
+202202C2201217456,indriani saritsha,Owner
+202402D1201767228,inggar wangi r,Owner
+202402E1201290167,mira afriani,Owner
+202402A1901159184,muhammad adri,Owner
+202202A501223919,muhammad alayyubi,Owner
+202402E401651754,nony chrisnayanti,Owner
+202302A801305305,nora ferwati,Owner
+202202A1002110304,nurul gayatri indah reza,Rent
+202302C1901335849,benny yohanes,Owner
+202202B701240388,elennuari,Owner
+202402D2001152626,harika vaizal,Owner
+202202E701236217,hildayanti oktaviana,Owner
+202202A1101302656,khairul fahmi purba,Owner
+202202F802987140,muhammad triyoga sp,Rent
+202402F501168754,putri lia lestari,Owner
+202202C1301286491,resti yulia,Owner
+202402D701299670,reysa hastarimasuci,Owner
+202402D1001178925,reza fahlevi,Owner
+202302A401113504,rhesma naca,Owner
+202402F701162485,rudi wijaya,Owner
+202402C2001275678,suci fahma julia,Owner
+202202B1401226233,suci hijryani fitry,Owner
+202402E1102128092,tika handayani asnur,Rent
+202402B1201279945,tio doli raharjo,Owner
+202202B401384147,winda wahyuti,Owner
+202202F602305637,yulia ningsih,Rent
+202202C2101117723,anggia anfina,Owner
+202302A1401622676,anita pauzia hsb,Owner
+202302C2301320839,annisa julita sari,Owner
+202202C1601195229,boby adi oktarino,Owner
+202202D1701182164,dias marzal fatama,Owner
+202402D2101203838,dicky mahendra,Owner
+202202C301290842,dika aristya linardi,Owner
+202202A1301127511,elvi suryani,Owner
+202202C201250005,fitra miswardi,Owner
+202402E1401327550,fitri meldiani,Owner
+202202F1402326018,husnul habib,Rent
+202202D501219378,irfani dwi ayu riski,Owner
+202202F1001197538,irpandi kurniawan,Owner
+202402D1801213034,kurniawan eka putra,Owner
+202202F402101679,muhammad asri wisnu wardana,Rent
+202402D402143678,muhammad audi reza islami,Rent
+202202B1301492479,muhammad azmeer,Owner
+202402A1601308211,muhammad thoha,Owner
+202302D1901106684,novi gustiana,Owner
+202402F1601271253,novia kumala sari,Owner
+202202C2402312923,padli nofrizal,Rent
+202202B1101246542,putri wahyuni,Owner
+202402B1501327618,rahmat hidayat,Owner
+202402C401424971,rahmi andreni,Owner
+202202F301263245,rian aries fani,Owner
+202202E801189745,riandi selvi,Owner
+202205F1201285985,astriyah,Owner
+202305E1301295371,ikhsan amirrudin,Owner
+202205D2601280272,edi susanto,Owner
+202305A701116633,riswanto,Owner
+202205E1601109221,suwanter,Owner
+202205G1302218270,sutarsih,Rent
+202405D2401218543,eti nurcahyani,Owner
+202305C801166506,eni dwi sundari,Owner
+202205A1902132188,sanmiadi watimin,Rent
+202405F1101100006,sakiyah,Owner
+202405G1101135940,ahmad soleh,Owner
+202405D1301942024,nurfajri,Owner
+202405E601225422,sri kasanah,Owner
+202205B101264950,fauzan nuril kafa,Owner
+202305E1901143096,irhamsyah,Owner
+202405E1801312459,sri yanti,Owner
+202405E2101107242,syaira nada clarissa,Owner
+202405E101509831,faisal,Owner
+202205E1402246535,meysa nasa,Rent
+202305B1301190727,eram,Owner
+202305A1802852992,khotijah,Rent
+202205G1202279697,era satiti,Rent
+202405A1101349923,rina pangastuti,Owner
+202205E801236358,kasman rasim,Owner
+202405D2901241198,marsiti,Owner
+202205D2501144382,susi lestari,Owner
+202205D2701175617,narjam,Owner
+202405G1401159917,tumiati,Owner
+202405D1402221098,wahyu iswan arif,Rent
+202205B701776582,ihwanul muslimin,Owner
+202205A1601283628,chomsin,Owner
+202405C201742307,mutingah,Owner
+202205F1601256348,muhammad khoiron,Owner
+202205F1402314072,zen mahrom,Rent
+202405F101738229,m. husmudin,Owner
+202305D1502256196,siti nur azijah,Rent
+202205F1501284189,agus sugianto,Owner
+202205G801109789,siti umayah,Owner
+202405G101900114,soni haji rifa'i,Owner
+202405E1501336632,munib alwi abdurohman,Owner
+202305F401134483,aliyatul mu'afa,Owner
+202205D2801832921,hasim as'ari,Owner
+202205C501321139,fathi nur sidiq,Owner
+202405G301318301,misdianto,Owner
+202205E1001361193,nopriyadi,Owner
+202205A1502216446,ahmad thoyib,Rent
+202205G602366386,agus ismail,Rent
+202205G201787901,nafiudin,Owner
+202205G1601222543,naimatul masruboh,Owner
+202205A1201200089,siti arifatul fu'adah,Owner
+202205E1101186690,suendik,Owner
+202405B301740155,wiwin herlina,Owner
+202405B501315121,saputra,Owner
+202405G1501196476,romi endika,Owner
+202205B1001253528,imam subaweh,Owner
+202205G1002295821,iswatun chasanah,Rent
+202205G402280480,imam turmudzi,Rent
+202205D601850713,nailul muflihah,Owner
+202305D1701234031,komarudin,Owner
+202305B1501329570,agus riyanto,Owner
+202405E501623818,m. muhsin as ari,Owner
+202205D1101531840,indah kurnia sari,Owner
+202405E401207239,mukhammad 'ainurrido,Owner
+202205D1901102592,imron mahmudi,Owner
+202305A401283221,sumarno,Owner
+202205A301113441,siti khasana,Owner
+202205E901197032,muhammad alfaqih,Owner
+202405C302446920,wagiyo,Rent
+202405C701140964,widi yanti,Owner
+202205F301332759,fitria lestari,Owner
+202205B801111631,muji astuti,Owner
+202205A1701526396,nurdiana saputri,Owner
+202305A101308240,saim,Owner
+202405E202112760,supingatun,Rent
+202205E1701140408,indra yani,Owner
+202205D1001560152,munawaroh,Owner
+202405G1701145656,sanadi saleh,Owner
+202305D1601150735,musaadah,Owner
+202405A802133750,jurianto,Rent
+202405D2002141807,sri wahyuni,Rent
+202405F901292073,pratama ade kurniawan,Owner
+202405D2302117470,erianto,Rent
+202205D301288532,tuti rahayu,Owner
+202205C1001480756,apri ayu angelica,Owner
+202405A501461539,muhammad rizky aprianto,Owner
+202205D2101461062,ahmad zainuri,Owner
+202305F201111697,ari sarianto,Owner
+202205F1301207251,hasyim asy'ari,Owner
+202405C1401265608,suritno,Owner
+202305B1402169207,susanti,Rent
+202405G1802152074,m. sarengat,Rent
+202305A601188975,sumari,Owner
+202205B201199793,suminten,Owner
+202405B1601121577,susi susanti,Owner
+202305G901277825,bagus suryanto,Owner
+202305G701174259,umi naviah,Owner
+202305E2001336624,aqra nabiha anindita,Owner
+202305C101495013,mursino,Owner
+202205F802178239,kasyani,Rent
+202405F501327312,m. arif harfiyanto,Owner
+202305C1101330232,novia nurhayati,Owner
+202305C601277661,mansyur,Owner
+202405C401119285,giarsih,Owner
+202205A901273746,viki kumala putri,Owner
+202405F602312162,vika kumala putri,Rent
+202205D701240051,muhamat saiful safi'i,Owner
+202305D1801316217,warsini,Owner
+202405B1701321590,dimaz reza ramadhan,Owner
+202305D902220197,miseri,Rent
+202205B1201263787,wartinah,Owner
+202405C1301493744,agus nuryanto,Owner
+202405A1001116809,syahrul widianto,Owner
+202405F1702232944,alif ardana,Rent
+202205B601145862,mujianto,Owner
+202205C901167922,puji astuti,Owner
+202305E301366610,ahmad aji supriono,Owner
+202205D801632854,rifa'i dwi cahyo,Owner
+202305D1201575549,ayla amelia nur,Owner
+202305A1401246523,karmidi,Owner
+202405A1301163228,wilmaini,Owner
+202405F1001240087,debyo widya anggara,Owner
+202205D2202159875,silvi widya pangesti,Rent
+202405B1101324358,auliya nur syahidah,Owner
+202305E701166824,azzah rotun nisa almufidah,Owner
+202205B401648434,sariman,Owner
+202205D201232212,parni,Owner
+202205C1201237014,haspar sutedi,Owner
+202405D101234747,sudarmi,Owner
+202405F701297344,suparno,Owner
+202205G501188148,dewi fitria,Owner
+202205E1201125278,hadista nadratul zanah,Owner
+202305A2001271174,rafkan djovanka al fariz,Owner
+202405D502112396,volint,Rent
+202405B1801142744,sri natalia,Owner
+202405A201105583,virly karista balqis,Owner
+202205B901102355,wasyaraffa al hafiz,Owner
+202405D401187664,nur sodik,Owner
+202206C202130077,nadhirotul khusniah,Rent
+202206D2901210426,dewi masitoh,Owner
+202206E1702128836,ach. moehaimin alwi,Rent
+202206E901169493,siti aisyah,Owner
+202406A201144730,muhammad faizin alwi,Owner
+202306A601106544,sarno,Owner
+202306A501336471,giyem,Owner
+202206D702780727,siti khasanah,Rent
+202206C101559067,andrianto,Owner
+202406E602319818,tri purwanti,Rent
+202206B901124420,fajri syahdan naufal,Owner
+202406E1601259473,wahidi,Owner
+202206A1501283043,jasiah,Owner
+202306D1001176872,eliyuswisnawaty,Owner
+202206A1102254803,sukijan,Rent
+202406E1301239003,sudarmi,Owner
+202206B401226126,siti zaenap,Owner
+202406F801229024,sodikin,Owner
+202406D2702336165,mas' ud,Rent
+202406E1801595594,sutinem,Owner
+202406D1801201195,ahmad safi'i,Owner
+202406D1501233222,habibi nurrohim,Owner
+202406E1401186634,sulasikin nasukah,Owner
+202306B1101122700,jamilatun azizah,Owner
+202306C801324025,suparlan,Owner
+202206A701138450,sulastri,Owner
+202406D1301203708,widyo wati,Owner
+202206F1201303738,wiwit widia wati,Owner
+202206D1201923432,wulandari,Owner
+202406E1901234715,kirno yudi,Owner
+202406A301778260,lilik mujiati,Owner
+202306D2001184176,shofiyyatun dzakiroh,Owner
+202406E102237069,wulan maratussholikha,Rent
+202206E1502287930,aris tiono,Rent
+202406C501192063,sitti julaeha,Owner
+202206E201339961,ibnu mirza hamizan alfaeyza,Owner
+202206C401350998,apri hantoro,Owner
+202206D801254703,suratman,Owner
+202206E701171270,mucharomatun,Owner
+202206D501839185,rensy herwinda,Owner
+202206A802223259,sukarmin,Rent
+202406B1701679487,saniri,Owner
+202206D2601316002,firda ramadan,Owner
+202406A1201167551,fauzi hidayat,Owner
+202406C901313408,ahmad suyadi,Owner
+202206A1301465933,nuriah,Owner
+202206D2302190663,irma lestari,Rent
+202206A901269732,nur kholifah,Owner
+202406A2001143554,muhammad abdul rohman,Owner
+202206F901264793,yendra putra,Owner
+202206F1102132096,reni sriyati,Rent
+202406E1201136649,rudi saputra,Owner
+202206B1502254951,ervi lidya wati,Rent
+202206D1101114395,agus setiawan,Owner
+202406E2101215629,tesa rismiani,Owner
+202306E1101201702,ellenna yuliani putri. s,Owner
+202206B1302154200,saiman,Rent
+202306E1001202558,surti,Owner
+202406A1701251650,pirawati,Owner
+202206A1601925302,triani,Owner
+202206E2001801822,darma sahputra,Owner
+202406C1401172450,supriani,Owner
+202406D2501255607,rhamasya damar,Owner
+202206D102117970,supratman,Rent
+202406B1201104445,nanang mujahid,Owner
+202306F301272813,siti imaroh,Owner
+202206D1601169629,rizal kurniawan,Owner
+202306C1201110502,nur laila,Owner
+202406F502120811,hamdan muzakir,Rent
+202206B801308195,hadi mardiansah,Owner
+202406F1001214014,aziz,Owner
+202206B601226954,suyoto,Owner
+202406B501144336,binar,Owner
+202206F101329788,alek susanto,Owner
+202206A1401338695,aris setianto,Owner
+202206B201218297,siti zaenab,Owner
+202406D201148732,teguh adi wijaya,Owner
+202206F1302338233,suwarmin,Rent
+202406A1901177085,wulandari,Owner
+202306C302955398,iqbal akbar ghofur,Rent
+202206E801280652,mardani satra,Owner
+202406D2801403533,fitria wulandari,Owner
+202406F401113300,bastiur,Owner
+202206C701571492,endah susanti,Owner
+202206C1001297572,olivvia febby santika,Owner
+202306B1601181587,al hakim januario barens,Owner
+202306C1101653287,amal fatullah,Owner
+202306D2201203796,ayu kusmini,Owner
+202206D901196388,yusman,Owner
+202406A1801210953,alfia santi sahputri,Owner
+202306D301735124,waluyo,Owner
+202406D1901170712,nuraini,Owner
+202206D2401226968,madha leli,Owner
+202206B301294309,rudianto,Owner
+202206E401708348,istiani,Owner
+202206D601191240,vega miftaqul rizka,Owner
+202206F201195965,meilany putri sakinah,Owner
+202206B1801196806,akbar rizki saputra,Owner
+202206B1001110151,safira cantika fitriani,Owner
+202206E501337440,slamet teguh santoso,Owner
+202406F601263064,solehan,Owner
+202306D401115813,komsidah,Owner
+202406B101897168,yuli adi putra,Owner
+202406D1701301372,ria rasela,Owner
+202406D2101241196,solehan,Owner
+202206F1702240926,suryani,Rent
+202406F1401144992,muhammad ahsanul mubtadi'in,Owner
+202206E301202951,muhammad rifki irawan,Owner
+202206C1301284351,intan nurul aini,Owner
+202406A401298954,sarno,Owner
+202306F701120139,rubini,Owner
+202406A102244727,pursito,Rent
+202306F1601599036,rita fitri mulyasih,Owner
+202206B701220346,saikun,Owner
+202306C601771793,sutiti,Owner
+202206F1501125594,jefri setiadi,Owner
+202306A1001204032,dwi maryani,Owner
+202206B1401296048,krisno tri widodo,Owner
+202306D1402203158,katiman,Rent
