@@ -1,0 +1,501 @@
+res_id,age,work_field,occupation,title,income,work_loc,work_dist,work_by
+2024000000335390,29,hukum,pengacara,leader,7116606,Kab Tengerang,17,mobil
+2024000000772349,42,properti,PNS,direktur,45939759,Tangerang,22,transportasi umum
+2024000000104763,23,properti,wirausaha,owner,13416946,Kab Tengerang,17,mobil
+2024000000277479,34,perkebunan,wirausaha,owner,14814990,Kab Tengerang,17,transportasi umum
+2024000000231713,29,"aktifitas profesional, ilmiah, dan teknis",wirausaha,owner,13227203,Tangerang,10,motor
+2024000000186891,47,teknologi dan informasi,wirausaha,owner,12899002,Tangerang Selatan,18,transportasi umum
+2024000000279430,51,Administasi dan manajemen,pegawai BUMN,direktur,39244178,Tangerang Selatan,48,motor
+2024000000128683,28,keuangan dan asuransi,karyawan swasta,leader,7461465,Tangerang,45,transport umum
+2024000000879619,42,"pertambangan, minyak, dan gas",pegawai BUMN,senior manager,14796740,Kab Tengerang,18,mobil
+2024000000109060,45,pengolahan industri,wirausaha,owner,15133185,Tangerang,18,transport umum
+2024000000614085,50,Administasi dan manajemen,pegawai BUMN,direktur,30199012,Tangerang,17,transport umum
+2024000000141942,50,pengolahan industri,karyawan swasta,senior manager,15454193,Kab Tengerang,18,transportasi umum
+2024000000167763,27,Administasi dan manajemen,pegawai BUMN,leader,7780990,Tangerang Selatan,45,transportasi umum
+2024000000226614,36,perikanan dan peternakan,karyawan swasta,leader,6661979,Kab Tengerang,17,mobil
+2024000000294414,34,Administasi dan manajemen,PNS,staff,4750954,Tangerang Selatan,22,mobil
+2024000000325947,34,pendidikan,karyawan swasta,staff,5142368,Tangerang Selatan,18,motor
+2024000000173592,23,perdagangan umum,pegawai BUMN,leader,7534232,Kab Tengerang,17,mobil
+2024000000812538,44,properti,wirausaha,owner,13275537,Tangerang,18,motor
+2024000000770918,45,keuangan dan asuransi,karyawan swasta,direktur,42593068,Kab Tengerang,17,motor
+2024000000209278,49,hukum,karyawan swasta,direktur,28085313,Tangerang Selatan,18,transportasi umum
+2024000000884925,37,"pertambangan, minyak, dan gas",pegawai BUMN,manager,11772829,Kab Tengerang,17,motor
+2024000000220545,37,transportasi,wirausaha,owner,12902989,Kab Tengerang,22,mobil
+2024000000241742,33,properti,PNS,staff,6161066,Tangerang,29,transport umum
+2024000000160785,42,teknologi dan informasi,PNS,direktur,32068254,Kab Tengerang,45,transportasi umum
+2024000000107685,37,properti,PNS,leader,7269593,Kab Tengerang,45,motor
+2024000000378938,36,teknologi dan informasi,PNS,leader,7495944,Tangerang Selatan,48,transportasi umum
+2024000000293939,50,teknologi dan informasi,karyawan swasta,senior manager,15304143,Tangerang,29,transportasi umum
+2024000000147805,48,teknologi dan informasi,pegawai BUMN,direktur,16120981,Tangerang,17,transportasi umum
+2024000000201678,32,pendidikan,guru,leader,8244341,Tangerang Selatan,22,motor
+2024000000280518,38,properti,wirausaha,owner,15418151,Tangerang,17,transportasi umum
+2024000000194674,41,hukum,karyawan swasta,senior manager,13808500,Kab Tengerang,10,mobil
+2024000000621367,48,pengolahan industri,wirausaha,owner,15418272,Kab Tengerang,22,transportasi umum
+2024000000293900,27,properti,PNS,leader,7073379,Kab Tengerang,45,mobil
+2024000000259789,46,konstruksi,pegawai BUMN,direktur,30013244,Tangerang Selatan,29,transport umum
+2024000000128207,40,"pertambangan, minyak, dan gas",pegawai BUMN,leader,8183062,Kab Tengerang,17,mobil
+2024000000322434,46,properti,karyawan swasta,senior manager,13812136,Tangerang Selatan,17,mobil
+2024000000786666,27,properti,wirausaha,owner,15266139,Kab Tengerang,18,transport umum
+2024000000293010,24,teknologi dan informasi,wirausaha,owner,14278175,Kab Tengerang,18,motor
+2024000000223348,51,pengolahan industri,pegawai BUMN,senior manager,14474492,Tangerang Selatan,17,transport umum
+2024000000286334,44,properti,PNS,direktur,19541671,Tangerang Selatan,10,mobil
+2024000000246800,39,Administasi dan manajemen,PNS,manager,11428206,Kab Tengerang,29,motor
+2024000000191286,32,Administasi dan manajemen,karyawan swasta,staff,5340162,Tangerang,48,mobil
+2024000000109752,45,hukum,pengacara,direktur,18718241,Tangerang,17,transport umum
+2024000000275525,51,teknologi dan informasi,wirausaha,owner,13839675,Kab Tengerang,29,transportasi umum
+2024000000313688,47,Administasi dan manajemen,pegawai BUMN,direktur,24267392,Tangerang Selatan,48,motor
+2024000000248839,51,"aktifitas profesional, ilmiah, dan teknis",karyawan swasta,direktur,42325873,Kab Tengerang,18,mobil
+2024000000325500,26,logistik,pegawai BUMN,staff,4451439,Tangerang Selatan,22,transportasi umum
+2024000000289560,42,hukum,karyawan swasta,senior manager,13867947,Tangerang Selatan,17,transport umum
+2024000000222844,28,keuangan dan asuransi,karyawan swasta,staff,6292233,Kab Tengerang,45,transportasi umum
+2024000000140086,23,pengolahan industri,karyawan swasta,leader,8247600,Kab Tengerang,48,motor
+2024000000261499,43,Administasi dan manajemen,PNS,direktur,30832471,Kab Tengerang,18,motor
+2024000000307737,36,perdagangan umum,pegawai BUMN,leader,7974884,Kab Tengerang,22,mobil
+2024000000334906,34,perdagangan umum,pegawai BUMN,leader,8369303,Tangerang,18,mobil
+2024000000146928,32,properti,karyawan swasta,staff,4000788,Tangerang Selatan,17,mobil
+2024000000824614,35,teknologi dan informasi,PNS,leader,7381913,Tangerang Selatan,22,transportasi umum
+2024000000281053,29,perkebunan,wirausaha,owner,15484787,Tangerang Selatan,18,mobil
+2024000000222628,47,keuangan dan asuransi,PNS,direktur,32047644,Tangerang Selatan,22,motor
+2024000000298593,36,keuangan dan asuransi,PNS,spv,9329387,Tangerang,17,transportasi umum
+2024000000848190,28,"pertambangan, minyak, dan gas",pegawai BUMN,staff,4050080,Kab Tengerang,18,mobil
+2024000000719752,33,hukum,pengacara,leader,7176771,Tangerang Selatan,17,transportasi umum
+2024000000457765,36,keuangan dan asuransi,karyawan swasta,manager,10898923,Kab Tengerang,18,transport umum
+2024000000936163,33,transportasi,pegawai BUMN,staff,5536089,Kab Tengerang,18,motor
+2024000000641330,23,media,karyawan swasta,leader,7838525,Kab Tengerang,48,mobil
+2024000000266776,35,teknologi dan informasi,wirausaha,owner,12356421,Tangerang Selatan,17,mobil
+2024000000101919,48,teknologi dan informasi,pegawai BUMN,direktur,46401297,Kab Tengerang,17,transportasi umum
+2024000000114037,32,transportasi,wirausaha,owner,15154382,Tangerang Selatan,17,mobil
+2024000000149750,43,pengolahan industri,pegawai BUMN,senior manager,13879598,Tangerang Selatan,17,transport umum
+2024000000293409,37,"aktifitas profesional, ilmiah, dan teknis",wirausaha,owner,12622104,Tangerang,17,motor
+2024000000372269,28,properti,PNS,leader,8455278,Tangerang Selatan,10,transport umum
+2024000000280462,25,keuangan dan asuransi,PNS,staff,5621862,Tangerang Selatan,45,motor
+2024000000316955,34,teknologi dan informasi,karyawan swasta,leader,7306602,Tangerang Selatan,17,motor
+2024000000164714,45,otomotif,karyawan swasta,direktur,37931367,Kab Tengerang,17,transport umum
+2024000000576220,34,properti,karyawan swasta,leader,8458845,Tangerang,17,motor
+2024000000187195,35,teknologi dan informasi,wirausaha,owner,13137293,Tangerang,17,transportasi umum
+2024000000320786,38,perdagangan umum,karyawan swasta,manager,11653702,Tangerang,45,transport umum
+2024000000147618,43,pengolahan industri,wirausaha,owner,14637365,Tangerang Selatan,10,transportasi umum
+2024000000708196,27,transportasi,wirausaha,owner,14702981,Tangerang,29,mobil
+2024000000222818,41,perikanan dan peternakan,PNS,direktur,41728349,Tangerang,17,transport umum
+2024000000137874,42,Administasi dan manajemen,PNS,senior manager,15298079,Tangerang Selatan,48,motor
+2024000000129718,33,Administasi dan manajemen,PNS,staff,5826786,Tangerang,18,transportasi umum
+2024000000382639,33,pendidikan,karyawan swasta,leader,6955414,Kab Tengerang,48,motor
+2024000000327905,33,properti,wirausaha,owner,14423203,Kab Tengerang,48,mobil
+2024000000113381,36,perikanan dan peternakan,wirausaha,owner,15480488,Kab Tengerang,17,transportasi umum
+2024000000243696,38,teknologi dan informasi,PNS,leader,8082422,Tangerang Selatan,48,mobil
+2024000000650052,24,perdagangan umum,wirausaha,owner,14739206,Tangerang,18,transport umum
+2024000000174589,46,teknologi dan informasi,pegawai BUMN,senior manager,14099767,Kab Tengerang,17,mobil
+2024000000950185,49,konstruksi,pegawai BUMN,direktur,44114562,Tangerang Selatan,17,transport umum
+2024000000175127,49,otomotif,wirausaha,owner,15045506,Tangerang,29,mobil
+2024000000287696,37,keuangan dan asuransi,wirausaha,owner,15307452,Tangerang,29,transport umum
+2024000000955122,41,perikanan dan peternakan,karyawan swasta,senior manager,12260714,Tangerang,18,transportasi umum
+2024000000371526,38,Administasi dan manajemen,karyawan swasta,spv,9893659,Tangerang,10,mobil
+2024000000157919,32,Administasi dan manajemen,PNS,staff,4478558,Tangerang Selatan,18,mobil
+2024000000414542,47,hukum,pengacara,senior manager,12127822,Tangerang Selatan,18,mobil
+2024000000209075,26,properti,wirausaha,owner,13995401,Kab Tengerang,10,motor
+2024000000861643,50,Administasi dan manajemen,pegawai BUMN,direktur,24304933,Tangerang,18,motor
+2024000000331699,28,properti,wirausaha,owner,14544652,Tangerang Selatan,45,mobil
+2024000000221530,27,properti,PNS,leader,8460109,Tangerang Selatan,48,motor
+2024000000908632,33,hiburan dan hospitality,karyawan swasta,staff,4057895,Kab Tengerang,17,transportasi umum
+2024000000333396,30,Administasi dan manajemen,pegawai BUMN,leader,7525557,Kab Tengerang,17,mobil
+2024000000648305,33,teknologi dan informasi,PNS,leader,7335907,Tangerang,17,mobil
+2024000000388328,24,Administasi dan manajemen,PNS,staff,4809086,Tangerang,48,motor
+2024000000148776,31,properti,PNS,staff,4426890,Tangerang,17,transportasi umum
+2024000000216255,44,Administasi dan manajemen,karyawan swasta,senior manager,13547598,Tangerang Selatan,29,transportasi umum
+2024000000431063,37,otomotif,karyawan swasta,spv,9041091,Kab Tengerang,45,mobil
+2024000000285662,23,Administasi dan manajemen,karyawan swasta,leader,6961536,Tangerang Selatan,10,mobil
+2024000000284053,33,teknologi dan informasi,wirausaha,owner,14526025,Tangerang,18,mobil
+2024000000211180,31,pendidikan,guru,staff,4904476,Tangerang Selatan,17,transport umum
+2024000000318461,48,Administasi dan manajemen,PNS,direktur,48322850,Tangerang,17,motor
+2024000000332297,45,logistik,pegawai BUMN,direktur,40693670,Tangerang Selatan,45,motor
+2024000000177173,39,keuangan dan asuransi,wirausaha,owner,14445325,Tangerang,18,motor
+2024000000253036,35,Administasi dan manajemen,karyawan swasta,spv,9009920,Tangerang Selatan,48,transportasi umum
+2024000000317411,31,keuangan dan asuransi,karyawan swasta,staff,4263708,Tangerang Selatan,10,mobil
+2024000000101494,34,properti,karyawan swasta,staff,4321458,Kab Tengerang,18,motor
+2024000000321681,47,"pertambangan, minyak, dan gas",PNS,direktur,26863887,Kab Tengerang,29,transport umum
+2024000000105012,48,properti,PNS,senior manager,14694677,Tangerang Selatan,17,transport umum
+2024000000128047,35,keuangan dan asuransi,wirausaha,owner,14057499,Tangerang Selatan,18,transportasi umum
+2024000000107433,35,teknologi dan informasi,wirausaha,owner,15168434,Tangerang,22,motor
+2024000000133081,36,properti,PNS,spv,9945158,Tangerang Selatan,17,transport umum
+2024000000787095,22,keuangan dan asuransi,PNS,staff,5612576,Tangerang Selatan,22,transportasi umum
+2024000000280205,24,pendidikan,guru,leader,7058182,Kab Tengerang,48,transportasi umum
+2024000000639736,25,"pertambangan, minyak, dan gas",pegawai BUMN,staff,4598755,Tangerang Selatan,17,mobil
+2024000000113243,43,Administasi dan manajemen,pegawai BUMN,direktur,29006357,Tangerang,18,mobil
+2024000000175552,24,Administasi dan manajemen,PNS,leader,8030338,Tangerang,18,motor
+2024000000318818,27,pengolahan industri,karyawan swasta,staff,5942321,Tangerang,17,transport umum
+2024000000786982,26,perkebunan,PNS,staff,4515641,Tangerang,17,transportasi umum
+2024000000155174,25,otomotif,karyawan swasta,staff,5937651,Tangerang,17,motor
+2024000000249154,31,hukum,PNS,staff,5172662,Kab Tengerang,17,transport umum
+2024000000152844,38,pendidikan,guru,leader,8264755,Kab Tengerang,10,transportasi umum
+2024000000277813,51,pendidikan,guru,direktur,46949504,Tangerang,22,transportasi umum
+2024000000281225,49,Administasi dan manajemen,karyawan swasta,senior manager,14405416,Tangerang,17,transportasi umum
+2024000000240110,34,properti,wirausaha,owner,13746655,Kab Tengerang,17,mobil
+2024000000199140,46,transportasi,pegawai BUMN,senior manager,14404224,Tangerang,17,mobil
+2024000000318868,43,teknologi dan informasi,karyawan swasta,direktur,20718848,Kab Tengerang,22,transportasi umum
+2024000000245292,48,pengolahan industri,wirausaha,owner,14455591,Tangerang,48,transport umum
+2024000000273656,32,teknologi dan informasi,pegawai BUMN,staff,4650304,Kab Tengerang,17,transport umum
+2024000000290291,48,Administasi dan manajemen,karyawan swasta,direktur,31860453,Tangerang Selatan,22,mobil
+2024000000331865,46,hukum,pegawai BUMN,direktur,34661720,Tangerang Selatan,45,motor
+2024000000278043,50,Administasi dan manajemen,PNS,direktur,30967391,Tangerang,17,transportasi umum
+2024000000188126,29,pengolahan industri,pegawai BUMN,leader,8238144,Kab Tengerang,45,transportasi umum
+2024000000172101,32,perdagangan umum,karyawan swasta,staff,5507059,Kab Tengerang,48,mobil
+2024000000152531,48,keuangan dan asuransi,pegawai BUMN,direktur,39262590,Tangerang Selatan,22,transportasi umum
+2024000000770876,40,hukum,karyawan swasta,manager,11364621,Kab Tengerang,22,motor
+2024000000147496,50,pendidikan,karyawan swasta,senior manager,13297529,Tangerang Selatan,18,motor
+2024000000140223,36,teknologi dan informasi,karyawan swasta,leader,7170082,Kab Tengerang,18,mobil
+2024000000500571,26,pengolahan industri,pegawai BUMN,staff,6411969,Tangerang Selatan,29,mobil
+2024000000583312,40,Administasi dan manajemen,PNS,manager,11628489,Kab Tengerang,48,motor
+2024000000368007,50,properti,PNS,senior manager,13108563,Kab Tengerang,18,transport umum
+2024000000307679,49,Administasi dan manajemen,PNS,senior manager,14235163,Kab Tengerang,45,transport umum
+2024000000295111,30,hukum,pegawai BUMN,leader,6679596,Tangerang Selatan,22,mobil
+2024000000240199,23,perdagangan umum,karyawan swasta,leader,7734429,Kab Tengerang,45,transportasi umum
+2024000000285314,48,keuangan dan asuransi,pegawai BUMN,senior manager,15353824,Tangerang,18,mobil
+2024000000115037,23,perikanan dan peternakan,karyawan swasta,staff,5629278,Kab Tengerang,17,transportasi umum
+2024000000308531,39,hukum,pegawai BUMN,spv,9757103,Tangerang,22,transportasi umum
+2024000000322128,36,"pertambangan, minyak, dan gas",karyawan swasta,spv,8803280,Tangerang,10,transport umum
+2024000000198889,23,pendidikan,karyawan swasta,leader,8465870,Tangerang,18,transport umum
+2024000000355761,48,kesehatan,PNS,direktur,20117027,Tangerang Selatan,45,mobil
+2024000000877519,39,teknologi dan informasi,karyawan swasta,leader,7305278,Tangerang Selatan,22,mobil
+2024000000173073,45,otomotif,karyawan swasta,senior manager,13105464,Tangerang,17,transportasi umum
+2024000000311480,39,media,karyawan swasta,spv,9289480,Kab Tengerang,17,motor
+2024000000879282,32,properti,karyawan swasta,leader,7213233,Tangerang,29,mobil
+2024000000105578,27,Administasi dan manajemen,PNS,staff,6450902,Tangerang Selatan,45,motor
+2024000000948704,45,Administasi dan manajemen,karyawan swasta,senior manager,13027254,Kab Tengerang,17,mobil
+2024000000297710,51,Administasi dan manajemen,karyawan swasta,senior manager,13846148,Tangerang,17,mobil
+2024000000218080,22,transportasi,wirausaha,owner,14252972,Tangerang Selatan,18,transport umum
+2024000000285934,42,hukum,pengacara,direktur,41602900,Kab Tengerang,17,transportasi umum
+2024000000192716,24,Administasi dan manajemen,karyawan swasta,leader,7768798,Tangerang,17,motor
+2024000000763424,24,hukum,PNS,staff,5581077,Tangerang,18,motor
+2024000000127103,50,perikanan dan peternakan,karyawan swasta,senior manager,15186375,Kab Tengerang,48,transport umum
+2024000000336819,42,keuangan dan asuransi,pegawai BUMN,senior manager,14607424,Kab Tengerang,22,transportasi umum
+2024000000183048,48,hukum,karyawan swasta,direktur,40591989,Tangerang,17,motor
+2024000000146104,49,teknologi dan informasi,PNS,direktur,33147814,Kab Tengerang,18,transportasi umum
+2024000000253429,33,keuangan dan asuransi,PNS,leader,7926030,Kab Tengerang,45,motor
+2024000000663870,41,teknologi dan informasi,pegawai BUMN,senior manager,13375975,Kab Tengerang,17,transport umum
+2024000000812535,34,"pertambangan, minyak, dan gas",PNS,staff,4163631,Tangerang Selatan,18,transportasi umum
+2024000000340150,25,keuangan dan asuransi,pegawai BUMN,leader,8194763,Kab Tengerang,17,mobil
+2024000000504760,40,teknologi dan informasi,pegawai BUMN,spv,9429196,Tangerang,17,transportasi umum
+2024000000670168,48,keuangan dan asuransi,karyawan swasta,senior manager,14999948,Tangerang,17,mobil
+2024000000226973,36,hukum,karyawan swasta,spv,8668688,Tangerang Selatan,17,transportasi umum
+2024000000380731,24,pengolahan industri,pegawai BUMN,staff,6255377,Kab Tengerang,29,transportasi umum
+2024000000280673,42,perikanan dan peternakan,karyawan swasta,senior manager,12272272,Tangerang,18,transportasi umum
+2024000000123149,39,teknologi dan informasi,karyawan swasta,leader,8307057,Tangerang Selatan,18,transportasi umum
+2024000000292916,32,keuangan dan asuransi,pegawai BUMN,leader,7572529,Tangerang Selatan,17,mobil
+2024000000197324,41,logistik,karyawan swasta,senior manager,13652268,Tangerang,22,mobil
+2024000000140700,44,keuangan dan asuransi,wirausaha,owner,13853976,Tangerang Selatan,17,transportasi umum
+2024000000341213,40,properti,karyawan swasta,leader,8450698,Tangerang Selatan,18,motor
+2024000000270495,32,pengolahan industri,wirausaha,owner,14785747,Kab Tengerang,17,transportasi umum
+2024000000607031,38,Administasi dan manajemen,karyawan swasta,leader,7667094,Tangerang Selatan,18,mobil
+2024000000603603,25,keuangan dan asuransi,wirausaha,owner,13132348,Tangerang Selatan,10,transport umum
+2024000000134371,47,teknologi dan informasi,karyawan swasta,senior manager,12896387,Tangerang Selatan,29,transport umum
+2024000000187674,35,perdagangan umum,karyawan swasta,leader,8062237,Tangerang,10,transport umum
+2024000000500384,46,pendidikan,karyawan swasta,direktur,16517370,Kab Tengerang,17,motor
+2024000000171494,38,konstruksi,karyawan swasta,manager,11435896,Tangerang,45,motor
+2024000000493158,30,hukum,PNS,leader,7212516,Kab Tengerang,18,transportasi umum
+2024000000223849,47,teknologi dan informasi,pegawai BUMN,senior manager,14025293,Tangerang Selatan,18,transport umum
+2024000000687788,34,perkebunan,pegawai BUMN,staff,6001109,Tangerang Selatan,22,transportasi umum
+2024000000581165,30,teknologi dan informasi,karyawan swasta,staff,4154658,Tangerang,29,mobil
+2024000000306283,23,hiburan dan hospitality,karyawan swasta,staff,6092825,Tangerang Selatan,17,transport umum
+2024000000306306,51,konstruksi,karyawan swasta,direktur,15614747,Tangerang Selatan,18,motor
+2024000000321687,46,pengolahan industri,pegawai BUMN,senior manager,14387388,Tangerang,17,transportasi umum
+2024000000714069,33,keuangan dan asuransi,karyawan swasta,leader,8010654,Tangerang,48,transport umum
+2024000000716361,48,logistik,pegawai BUMN,direktur,32266806,Tangerang,45,mobil
+2024000000235434,29,"pertambangan, minyak, dan gas",PNS,staff,5787386,Tangerang,17,mobil
+2024000000566032,34,pengolahan industri,karyawan swasta,leader,7401619,Tangerang,29,mobil
+2024000000177997,42,pendidikan,karyawan swasta,senior manager,12160294,Tangerang Selatan,17,mobil
+2024000000444692,49,properti,PNS,direktur,31367787,Tangerang Selatan,18,mobil
+2024000000915137,48,hukum,pegawai BUMN,senior manager,15143982,Tangerang Selatan,17,transportasi umum
+2024000000340045,41,Administasi dan manajemen,pegawai BUMN,senior manager,13482598,Kab Tengerang,17,mobil
+2024000000834687,40,keuangan dan asuransi,karyawan swasta,spv,9298526,Tangerang,10,motor
+2024000000686034,29,perdagangan umum,wirausaha,owner,13339224,Tangerang,48,mobil
+2024000000875114,32,properti,PNS,staff,4479080,Kab Tengerang,22,transportasi umum
+2024000000158999,28,pengolahan industri,pegawai BUMN,leader,7204080,Kab Tengerang,29,transportasi umum
+2024000000790197,42,pengolahan industri,karyawan swasta,senior manager,14442466,Tangerang,29,motor
+2024000000578022,27,keuangan dan asuransi,karyawan swasta,leader,7431161,Tangerang,22,mobil
+2024000000109078,40,teknologi dan informasi,karyawan swasta,leader,7971023,Kab Tengerang,17,transport umum
+2024000000231405,45,pendidikan,karyawan swasta,direktur,32315299,Tangerang Selatan,45,transportasi umum
+2024000000168948,49,keuangan dan asuransi,PNS,direktur,23289247,Tangerang,48,transport umum
+2024000000138627,32,hukum,pengacara,staff,4987010,Kab Tengerang,29,transportasi umum
+2024000000202151,45,teknologi dan informasi,PNS,direktur,28460086,Tangerang,29,transport umum
+2024000000156635,22,properti,PNS,staff,4270805,Tangerang,17,mobil
+2024000000295461,47,"aktifitas profesional, ilmiah, dan teknis",karyawan swasta,senior manager,15214313,Kab Tengerang,17,transportasi umum
+2024000000120713,22,teknologi dan informasi,PNS,leader,6792734,Tangerang Selatan,29,motor
+2024000000121146,35,teknologi dan informasi,karyawan swasta,leader,8082414,Tangerang Selatan,45,transportasi umum
+2024000000290534,38,teknologi dan informasi,PNS,spv,10196917,Kab Tengerang,18,transport umum
+2024000000273484,46,Administasi dan manajemen,pegawai BUMN,direktur,44782065,Kab Tengerang,17,transport umum
+2024000000105889,41,keuangan dan asuransi,karyawan swasta,senior manager,14987301,Tangerang Selatan,18,transportasi umum
+2024000000185136,33,teknologi dan informasi,pegawai BUMN,leader,6786567,Kab Tengerang,29,transportasi umum
+2024000000331167,23,"pertambangan, minyak, dan gas",PNS,leader,8296462,Tangerang,17,transport umum
+2024000000212280,45,teknologi dan informasi,karyawan swasta,senior manager,14566868,Tangerang Selatan,17,mobil
+2024000000100579,42,pengolahan industri,karyawan swasta,senior manager,14088207,Tangerang Selatan,10,mobil
+2024000000195219,33,otomotif,karyawan swasta,staff,6596953,Tangerang,10,motor
+2024000000154734,24,hiburan dan hospitality,wirausaha,owner,12096947,Tangerang Selatan,45,mobil
+2024000000939806,31,otomotif,karyawan swasta,staff,4975577,Tangerang Selatan,22,transport umum
+2024000000128552,29,Administasi dan manajemen,karyawan swasta,staff,5619730,Kab Tengerang,22,mobil
+2024000000285118,42,keuangan dan asuransi,karyawan swasta,senior manager,14685877,Tangerang,18,motor
+2024000000960512,30,Administasi dan manajemen,pegawai BUMN,leader,7975501,Kab Tengerang,17,mobil
+2024000000212127,38,hukum,PNS,manager,11313654,Kab Tengerang,10,transport umum
+2024000000137007,30,Administasi dan manajemen,PNS,staff,6256727,Kab Tengerang,10,transportasi umum
+2024000000790281,34,otomotif,karyawan swasta,leader,7108413,Tangerang Selatan,22,transportasi umum
+2024000000261381,36,teknologi dan informasi,karyawan swasta,manager,11448867,Kab Tengerang,17,transport umum
+2024000000539811,34,Administasi dan manajemen,karyawan swasta,leader,8376217,Kab Tengerang,22,mobil
+2024000000185188,40,media,karyawan swasta,manager,10905052,Tangerang,45,mobil
+2024000000310297,49,Administasi dan manajemen,pegawai BUMN,senior manager,12012530,Tangerang,17,transport umum
+2024000000250303,25,"pertambangan, minyak, dan gas",pegawai BUMN,staff,4575517,Tangerang,18,transport umum
+2024000000214088,40,otomotif,wirausaha,owner,14917017,Tangerang Selatan,10,motor
+2024000000659169,28,media,wartawan,leader,7577049,Kab Tengerang,45,motor
+2024000000144842,23,properti,PNS,staff,4959007,Kab Tengerang,10,mobil
+2024000000166045,29,keuangan dan asuransi,pegawai BUMN,leader,7502897,Tangerang,10,motor
+2024000000324720,50,Administasi dan manajemen,karyawan swasta,senior manager,15366337,Kab Tengerang,45,transportasi umum
+2024000000333142,40,keuangan dan asuransi,pegawai BUMN,spv,8816609,Kab Tengerang,22,mobil
+2024000000338191,29,perdagangan umum,pegawai BUMN,leader,7060084,Tangerang,45,transportasi umum
+2024000000115973,49,properti,karyawan swasta,senior manager,12655517,Tangerang,18,motor
+2024000000336458,43,Administasi dan manajemen,karyawan swasta,senior manager,12277644,Tangerang,22,mobil
+2024000000270179,22,keuangan dan asuransi,pegawai BUMN,staff,5049063,Kab Tengerang,18,transportasi umum
+2024000000123962,43,hukum,pegawai BUMN,senior manager,15277068,Tangerang Selatan,10,transport umum
+2024000000276568,47,teknologi dan informasi,pegawai BUMN,direktur,17513483,Tangerang Selatan,45,transportasi umum
+2024000000217575,44,pengolahan industri,pegawai BUMN,senior manager,12227168,Kab Tengerang,29,transport umum
+2024000000123645,42,konstruksi,pegawai BUMN,senior manager,15064973,Tangerang,29,mobil
+2024000000375716,23,"aktifitas profesional, ilmiah, dan teknis",karyawan swasta,staff,5676762,Tangerang,17,mobil
+2024000000103898,41,transportasi,wirausaha,owner,12366611,Tangerang,10,transportasi umum
+2024000000199239,49,keuangan dan asuransi,pegawai BUMN,direktur,28976450,Tangerang,17,transportasi umum
+2024000000306418,38,teknologi dan informasi,karyawan swasta,manager,11245116,Tangerang Selatan,17,mobil
+2024000000792641,34,otomotif,karyawan swasta,staff,6568720,Kab Tengerang,48,transportasi umum
+2024000000116404,51,teknologi dan informasi,pegawai BUMN,senior manager,14888799,Tangerang,48,motor
+2024000000302967,32,Administasi dan manajemen,karyawan swasta,staff,4329644,Kab Tengerang,18,mobil
+2024000000254294,43,"aktifitas profesional, ilmiah, dan teknis",karyawan swasta,direktur,23310894,Tangerang,18,motor
+2024000000226965,28,hukum,karyawan swasta,leader,7328158,Kab Tengerang,17,mobil
+2024000000263146,36,Administasi dan manajemen,pegawai BUMN,manager,11649050,Tangerang Selatan,17,motor
+2024000000144216,32,Administasi dan manajemen,karyawan swasta,staff,4790591,Kab Tengerang,48,transport umum
+2024000000740450,22,hiburan dan hospitality,karyawan swasta,leader,6610162,Tangerang,10,transportasi umum
+2024000000265745,22,perdagangan umum,wirausaha,owner,12855230,Tangerang,22,transportasi umum
+2024000000136564,34,hukum,PNS,leader,6946644,Tangerang Selatan,10,motor
+2024000000274900,44,perdagangan umum,wirausaha,owner,14415234,Kab Tengerang,45,motor
+2024000000297682,30,hukum,pengacara,leader,7792016,Tangerang,45,mobil
+2024000000440214,34,keuangan dan asuransi,pegawai BUMN,staff,5213303,Kab Tengerang,29,transportasi umum
+2024000000276045,23,keuangan dan asuransi,karyawan swasta,staff,4186422,Kab Tengerang,17,motor
+2024000000247371,23,logistik,karyawan swasta,leader,7171853,Kab Tengerang,17,transportasi umum
+2024000000250925,48,hukum,PNS,senior manager,14650934,Tangerang Selatan,17,mobil
+2024000000100301,24,pengolahan industri,pegawai BUMN,leader,6714088,Kab Tengerang,29,transportasi umum
+2024000000317203,37,keuangan dan asuransi,karyawan swasta,manager,11291568,Tangerang,18,transport umum
+2024000000661189,34,otomotif,karyawan swasta,leader,7063078,Tangerang Selatan,29,transportasi umum
+2024000000143278,29,hukum,pengacara,staff,4364845,Kab Tengerang,17,transportasi umum
+2024000000737030,34,teknologi dan informasi,karyawan swasta,leader,8360870,Kab Tengerang,45,mobil
+2024000000243224,34,hukum,pegawai BUMN,leader,6968415,Tangerang,22,motor
+2024000000106687,31,pengolahan industri,wirausaha,owner,13018666,Tangerang,17,transportasi umum
+2024000000285656,49,media,wartawan,senior manager,13466774,Kab Tengerang,18,transport umum
+2024000000529296,33,perdagangan umum,pegawai BUMN,leader,8283056,Kab Tengerang,18,transportasi umum
+2024000000336604,36,properti,wirausaha,owner,14896181,Tangerang Selatan,17,transportasi umum
+2024000000245561,46,keuangan dan asuransi,karyawan swasta,senior manager,14401990,Kab Tengerang,29,motor
+2024000000266830,24,media,wartawan,staff,6277878,Kab Tengerang,45,transportasi umum
+2024000000152869,30,keuangan dan asuransi,pegawai BUMN,leader,8278479,Tangerang,17,transport umum
+2024000000203262,32,teknologi dan informasi,pegawai BUMN,leader,8457085,Tangerang,17,transport umum
+2024000000188161,51,perdagangan umum,pegawai BUMN,senior manager,12028444,Tangerang,45,transport umum
+2024000000893769,31,perdagangan umum,wirausaha,owner,12662292,Tangerang Selatan,29,transportasi umum
+2024000000320478,43,logistik,karyawan swasta,direktur,22623225,Tangerang,29,transportasi umum
+2024000000844783,48,pengolahan industri,pegawai BUMN,direktur,49242256,Kab Tengerang,17,mobil
+2024000000317331,42,hukum,karyawan swasta,senior manager,14022609,Tangerang Selatan,18,mobil
+2024000000101381,30,teknologi dan informasi,PNS,staff,4867884,Tangerang,17,motor
+2024000000556879,45,hukum,karyawan swasta,direktur,23552679,Tangerang,48,motor
+2024000000148000,26,kesehatan,perawat,staff,5057452,Tangerang,10,transportasi umum
+2024000000163059,37,"pertambangan, minyak, dan gas",karyawan swasta,leader,7110241,Tangerang Selatan,48,mobil
+2024000000643158,25,teknologi dan informasi,PNS,leader,8265176,Tangerang Selatan,45,mobil
+2024000000114626,25,keuangan dan asuransi,PNS,staff,5923056,Tangerang Selatan,48,motor
+2024000000230907,33,konstruksi,pegawai BUMN,leader,7458281,Tangerang,10,mobil
+2024000000224725,31,transportasi,wirausaha,owner,15265935,Tangerang,45,mobil
+2024000000365428,41,"pertambangan, minyak, dan gas",PNS,direktur,17057060,Kab Tengerang,45,transport umum
+2024000000703325,30,teknologi dan informasi,karyawan swasta,staff,4356295,Tangerang,17,motor
+2024000000686792,49,otomotif,karyawan swasta,senior manager,13095626,Kab Tengerang,45,motor
+2024000000285646,26,keuangan dan asuransi,pegawai BUMN,staff,4176537,Tangerang Selatan,10,transportasi umum
+2024000000274971,28,keuangan dan asuransi,karyawan swasta,leader,7664032,Kab Tengerang,48,mobil
+2024000000114983,50,teknologi dan informasi,PNS,senior manager,13253526,Tangerang,17,transportasi umum
+2024000000250553,37,properti,wirausaha,owner,13134483,Tangerang,17,transport umum
+2024000000892291,30,pengolahan industri,wirausaha,owner,15051685,Tangerang Selatan,29,mobil
+2024000000140970,38,perdagangan umum,karyawan swasta,spv,8500115,Tangerang,17,transportasi umum
+2024000000249387,47,"pertambangan, minyak, dan gas",karyawan swasta,senior manager,14045393,Tangerang Selatan,18,motor
+2024000000493247,48,properti,PNS,direktur,29244607,Tangerang Selatan,17,motor
+2024000000218707,27,pengolahan industri,wirausaha,owner,13094772,Tangerang Selatan,17,transportasi umum
+2024000000275964,41,properti,PNS,senior manager,12046799,Kab Tengerang,18,motor
+2024000000324382,29,teknologi dan informasi,karyawan swasta,staff,4295537,Kab Tengerang,18,mobil
+2024000000336757,23,Administasi dan manajemen,pegawai BUMN,leader,7258383,Kab Tengerang,18,transportasi umum
+2024000000460112,28,perdagangan umum,pegawai BUMN,staff,6484533,Tangerang Selatan,18,motor
+2024000000327855,33,hukum,pengacara,leader,7994985,Tangerang Selatan,18,transportasi umum
+2024000000300775,39,keuangan dan asuransi,PNS,leader,7529851,Tangerang Selatan,17,transportasi umum
+2024000000251304,23,keuangan dan asuransi,wirausaha,owner,14798696,Tangerang Selatan,18,mobil
+2024000000252276,26,properti,PNS,staff,6302998,Tangerang,29,motor
+2024000000890499,39,pengolahan industri,karyawan swasta,leader,7564811,Kab Tengerang,17,motor
+2024000000235365,44,teknologi dan informasi,karyawan swasta,direktur,34177603,Tangerang,17,transport umum
+2024000000137737,48,kesehatan,PNS,senior manager,13126292,Kab Tengerang,45,transportasi umum
+2024000000529004,26,properti,PNS,staff,5634413,Tangerang,22,transportasi umum
+2024000000686909,24,keuangan dan asuransi,karyawan swasta,leader,6967665,Tangerang Selatan,29,motor
+2024000000155719,37,Administasi dan manajemen,karyawan swasta,leader,7110016,Kab Tengerang,18,mobil
+2024000000449166,31,hiburan dan hospitality,karyawan swasta,staff,5507531,Tangerang,17,motor
+2024000000226515,42,media,karyawan swasta,direktur,43917189,Tangerang,18,transportasi umum
+2024000000294774,30,teknologi dan informasi,PNS,leader,8051532,Kab Tengerang,17,mobil
+2024000000267687,43,teknologi dan informasi,pegawai BUMN,direktur,47509000,Tangerang Selatan,17,motor
+2024000000211887,25,Administasi dan manajemen,karyawan swasta,leader,8389557,Tangerang,17,mobil
+2024000000161783,43,pengolahan industri,karyawan swasta,senior manager,13010154,Kab Tengerang,17,mobil
+2024000000285476,38,properti,karyawan swasta,spv,9384504,Tangerang Selatan,17,mobil
+2024000000292951,44,"aktifitas profesional, ilmiah, dan teknis",wirausaha,owner,14561267,Kab Tengerang,18,mobil
+2024000000281731,49,hukum,karyawan swasta,direktur,17850200,Kab Tengerang,10,transport umum
+2024000000315486,27,properti,wirausaha,owner,14832477,Kab Tengerang,17,mobil
+2024000000157171,30,Administasi dan manajemen,karyawan swasta,staff,4062143,Tangerang,18,transport umum
+2024000000254102,51,keuangan dan asuransi,wirausaha,owner,13618587,Tangerang,17,transportasi umum
+2024000000411643,38,"pertambangan, minyak, dan gas",PNS,leader,8338421,Tangerang Selatan,45,transport umum
+2024000000145788,22,perikanan dan peternakan,wirausaha,owner,14967419,Kab Tengerang,45,motor
+2024000000143447,23,teknologi dan informasi,wirausaha,owner,13804742,Tangerang,10,mobil
+2024000000133474,44,konstruksi,karyawan swasta,senior manager,12994414,Tangerang,18,mobil
+2024000000278128,31,hiburan dan hospitality,wirausaha,owner,13242141,Tangerang,18,transport umum
+2024000000181770,35,media,wartawan,leader,6736628,Kab Tengerang,17,transport umum
+2024000000918525,33,teknologi dan informasi,wirausaha,owner,15257996,Kab Tengerang,17,mobil
+2024000000541028,22,perikanan dan peternakan,PNS,staff,5110483,Tangerang Selatan,17,mobil
+2024000000165286,41,hukum,PNS,senior manager,15324293,Kab Tengerang,17,mobil
+2024000000168448,22,keuangan dan asuransi,wirausaha,owner,15198875,Tangerang Selatan,17,mobil
+2024000000280999,35,properti,wirausaha,owner,13720774,Tangerang,17,transport umum
+2024000000278632,50,pendidikan,karyawan swasta,senior manager,14954362,Tangerang Selatan,17,mobil
+2024000000483883,28,pendidikan,karyawan swasta,leader,6959703,Kab Tengerang,48,motor
+2024000000254451,41,pendidikan,karyawan swasta,senior manager,12307085,Kab Tengerang,18,mobil
+2024000000224483,34,otomotif,wirausaha,owner,13473678,Kab Tengerang,45,motor
+2024000000233081,30,hukum,pegawai BUMN,leader,6985691,Tangerang,17,transportasi umum
+2024000000110276,25,"pertambangan, minyak, dan gas",karyawan swasta,staff,4635196,Tangerang Selatan,17,mobil
+2024000000554072,43,keuangan dan asuransi,wirausaha,owner,15013020,Tangerang Selatan,18,mobil
+2024000000306754,35,keuangan dan asuransi,wirausaha,owner,13289179,Tangerang,17,transport umum
+2024000000335264,33,properti,wirausaha,owner,13919031,Kab Tengerang,29,motor
+2024000000325528,48,properti,karyawan swasta,direktur,19565494,Tangerang,10,transport umum
+2024000000324963,42,teknologi dan informasi,pegawai BUMN,direktur,17031774,Tangerang,48,mobil
+2024000000285416,49,teknologi dan informasi,PNS,direktur,24903522,Kab Tengerang,22,transportasi umum
+2024000000265865,49,"pertambangan, minyak, dan gas",PNS,direktur,44769958,Tangerang,18,mobil
+2024000000630903,28,hukum,karyawan swasta,staff,5675452,Kab Tengerang,45,transportasi umum
+2024000000198518,29,otomotif,wirausaha,owner,12080262,Kab Tengerang,18,transportasi umum
+2024000000280513,43,pengolahan industri,wirausaha,owner,13726578,Tangerang Selatan,22,mobil
+2024000000214012,27,teknologi dan informasi,karyawan swasta,staff,5946596,Tangerang Selatan,22,transportasi umum
+2024000000934522,33,pendidikan,guru,leader,6751547,Kab Tengerang,48,motor
+2024000000271363,48,teknologi dan informasi,pegawai BUMN,senior manager,14958389,Tangerang Selatan,45,transportasi umum
+2024000000675559,34,teknologi dan informasi,PNS,staff,5178217,Tangerang,10,transportasi umum
+2024000000137369,51,teknologi dan informasi,wirausaha,owner,13432453,Tangerang,45,motor
+2024000000711733,24,transportasi,pegawai BUMN,staff,4425788,Kab Tengerang,17,motor
+2024000000309777,43,"pertambangan, minyak, dan gas",karyawan swasta,direktur,19493956,Tangerang Selatan,48,transportasi umum
+2024000000189036,28,keuangan dan asuransi,PNS,leader,8258741,Tangerang,17,motor
+2024000000302117,48,keuangan dan asuransi,wirausaha,owner,14739731,Kab Tengerang,10,transportasi umum
+2024000000270368,35,keuangan dan asuransi,pegawai BUMN,spv,9887477,Kab Tengerang,22,transportasi umum
+2024000000869088,38,Administasi dan manajemen,PNS,leader,6793302,Kab Tengerang,29,transportasi umum
+2024000000132775,25,keuangan dan asuransi,karyawan swasta,staff,5547698,Tangerang Selatan,18,motor
+2024000000159752,33,"pertambangan, minyak, dan gas",karyawan swasta,leader,7645004,Tangerang,10,mobil
+2024000000105075,48,hukum,pengacara,direktur,39637184,Kab Tengerang,17,transport umum
+2024000000241383,25,pengolahan industri,pegawai BUMN,staff,6441658,Tangerang,17,transport umum
+2024000000232039,26,Administasi dan manajemen,pegawai BUMN,leader,8009158,Kab Tengerang,48,transportasi umum
+2024000000536092,29,Administasi dan manajemen,pegawai BUMN,leader,7530349,Tangerang,18,transport umum
+2024000000263331,24,keuangan dan asuransi,wirausaha,owner,14664370,Kab Tengerang,17,mobil
+2024000000888447,25,hukum,PNS,staff,5099460,Kab Tengerang,18,mobil
+2024000000300074,40,Administasi dan manajemen,PNS,leader,8281287,Tangerang,18,motor
+2024000000967562,31,properti,wirausaha,owner,12377823,Kab Tengerang,18,motor
+2024000000132078,50,pengolahan industri,pegawai BUMN,senior manager,12079090,Kab Tengerang,45,mobil
+2024000000477217,31,perikanan dan peternakan,PNS,staff,6520716,Tangerang,29,transportasi umum
+2024000000993166,34,perdagangan umum,wirausaha,owner,13803469,Tangerang Selatan,18,transport umum
+2024000000246801,47,teknologi dan informasi,karyawan swasta,direktur,16660118,Tangerang,22,transportasi umum
+2024000000326346,31,"aktifitas profesional, ilmiah, dan teknis",karyawan swasta,staff,4489548,Tangerang,45,transport umum
+2024000000230887,44,transportasi,pegawai BUMN,direktur,17667496,Tangerang,48,mobil
+2024000000183660,44,properti,wirausaha,owner,15368510,Kab Tengerang,17,motor
+2024000000281239,43,media,wartawan,direktur,21290943,Kab Tengerang,10,mobil
+2024000000288102,26,keuangan dan asuransi,pegawai BUMN,leader,7387018,Kab Tengerang,17,transportasi umum
+2024000000363071,51,perikanan dan peternakan,PNS,senior manager,15192129,Tangerang Selatan,18,transport umum
+2024000000338784,44,pendidikan,karyawan swasta,direktur,41603013,Tangerang Selatan,17,mobil
+2024000000578537,42,teknologi dan informasi,wirausaha,owner,12172846,Kab Tengerang,17,transportasi umum
+2024000000136105,35,pendidikan,karyawan swasta,leader,7775954,Tangerang,22,transport umum
+2024000000252595,46,"pertambangan, minyak, dan gas",karyawan swasta,direktur,34742682,Kab Tengerang,18,transportasi umum
+2024000000367561,45,hukum,pegawai BUMN,direktur,42111821,Tangerang,10,mobil
+2024000000304935,28,keuangan dan asuransi,wirausaha,owner,12869962,Tangerang Selatan,45,motor
+2024000000319278,46,pengolahan industri,pegawai BUMN,direktur,19772753,Tangerang Selatan,22,mobil
+2024000000306324,33,pendidikan,guru,staff,6334375,Kab Tengerang,48,transportasi umum
+2024000000132892,24,properti,PNS,staff,4103213,Kab Tengerang,17,transport umum
+2024000000271410,30,pengolahan industri,karyawan swasta,staff,6126676,Tangerang Selatan,48,mobil
+2024000000801121,23,properti,PNS,staff,6539027,Tangerang,10,mobil
+2024000000163525,25,konstruksi,karyawan swasta,leader,8162857,Tangerang,45,transportasi umum
+2024000000213148,45,konstruksi,PNS,senior manager,14453010,Tangerang,22,mobil
+2024000000233739,42,keuangan dan asuransi,PNS,direktur,40017649,Tangerang,22,transport umum
+2024000000154077,48,hukum,karyawan swasta,senior manager,13178239,Tangerang Selatan,48,transportasi umum
+2024000000123162,27,teknologi dan informasi,karyawan swasta,leader,7239716,Tangerang,17,mobil
+2024000000811558,38,media,karyawan swasta,manager,11228939,Tangerang Selatan,45,transport umum
+2024000000149224,49,perdagangan umum,wirausaha,owner,14074755,Tangerang Selatan,18,transport umum
+2024000000293071,48,keuangan dan asuransi,pegawai BUMN,direktur,39901486,Tangerang Selatan,18,mobil
+2024000000221923,42,pengolahan industri,wirausaha,owner,14796360,Tangerang Selatan,18,motor
+2024000000255168,36,properti,karyawan swasta,spv,8741360,Tangerang Selatan,17,transport umum
+2024000000157085,36,keuangan dan asuransi,pegawai BUMN,manager,10726501,Tangerang,18,mobil
+2024000000116385,27,pengolahan industri,pegawai BUMN,staff,6190828,Tangerang,22,mobil
+2024000000103605,41,teknologi dan informasi,wirausaha,owner,12649467,Tangerang,17,transportasi umum
+2024000000272351,37,teknologi dan informasi,pegawai BUMN,spv,10385729,Kab Tengerang,29,transportasi umum
+2024000000112969,31,teknologi dan informasi,PNS,staff,6310923,Tangerang,10,mobil
+2024000000270652,48,"aktifitas profesional, ilmiah, dan teknis",wirausaha,owner,15047519,Tangerang,22,mobil
+2024000000167698,47,properti,PNS,direktur,30243975,Tangerang,17,transport umum
+2024000000656569,47,properti,karyawan swasta,direktur,42065001,Tangerang,18,mobil
+2024000000228448,45,konstruksi,wirausaha,owner,14394789,Tangerang,48,motor
+2024000000236600,33,teknologi dan informasi,pegawai BUMN,leader,7151462,Tangerang Selatan,10,motor
+2024000000111050,41,teknologi dan informasi,wirausaha,owner,14624612,Kab Tengerang,17,motor
+2024000000229259,37,hukum,PNS,leader,6755808,Tangerang Selatan,17,transportasi umum
+2024000000143083,24,Administasi dan manajemen,karyawan swasta,staff,4713456,Kab Tengerang,17,motor
+2024000000118279,41,media,karyawan swasta,direktur,18669354,Kab Tengerang,48,transport umum
+2024000000123963,22,perdagangan umum,karyawan swasta,leader,6949334,Tangerang Selatan,22,transport umum
+2024000000477406,25,otomotif,karyawan swasta,staff,5484270,Tangerang Selatan,10,transport umum
+2024000000323008,41,properti,PNS,direktur,49179515,Tangerang,48,transport umum
+2024000000554343,37,pengolahan industri,pegawai BUMN,spv,8511797,Kab Tengerang,29,mobil
+2024000000310296,48,keuangan dan asuransi,karyawan swasta,senior manager,12870322,Tangerang,18,mobil
+2024000000266389,44,perdagangan umum,pegawai BUMN,senior manager,13926543,Kab Tengerang,45,transport umum
+2024000000105220,31,pengolahan industri,pegawai BUMN,leader,7133435,Tangerang,17,transport umum
+2024000000100456,44,keuangan dan asuransi,karyawan swasta,senior manager,13641803,Kab Tengerang,10,mobil
+2024000000998522,29,hukum,pengacara,leader,8324448,Kab Tengerang,45,transport umum
+2024000000232065,29,Administasi dan manajemen,pegawai BUMN,staff,6254566,Tangerang Selatan,17,transportasi umum
+2024000000191688,41,media,wartawan,direktur,30772478,Tangerang Selatan,18,motor
+2024000000339602,45,pengolahan industri,pegawai BUMN,direktur,23141292,Tangerang Selatan,45,motor
+2024000000569466,50,"pertambangan, minyak, dan gas",karyawan swasta,senior manager,12346803,Kab Tengerang,29,mobil
+2024000000609420,27,properti,wirausaha,owner,13049786,Kab Tengerang,45,transport umum
+2024000000187840,40,media,karyawan swasta,spv,10396272,Tangerang Selatan,48,transport umum
+2024000000339933,23,keuangan dan asuransi,pegawai BUMN,staff,5746855,Tangerang,18,transportasi umum
+2024000000915867,32,perdagangan umum,karyawan swasta,leader,7373468,Tangerang Selatan,18,mobil
+2024000000262125,50,media,wartawan,direktur,43454130,Tangerang Selatan,48,mobil
+2024000000198144,43,"aktifitas profesional, ilmiah, dan teknis",karyawan swasta,direktur,40183828,Tangerang Selatan,17,transport umum
+2024000000170499,44,transportasi,wirausaha,owner,12457201,Tangerang,22,mobil
+2024000000309946,50,kesehatan,PNS,direktur,20069827,Tangerang Selatan,18,transportasi umum
+2024000000269039,40,perdagangan umum,karyawan swasta,spv,8696746,Tangerang,17,mobil
+2024000000158827,38,pengolahan industri,wirausaha,owner,13095134,Tangerang Selatan,18,transport umum
+2024000000325601,33,Administasi dan manajemen,PNS,leader,7003615,Kab Tengerang,22,transport umum
+2024000000928299,39,perdagangan umum,wirausaha,owner,15363135,Kab Tengerang,10,transport umum
+2024000000255929,42,kesehatan,pegawai BUMN,direktur,46202890,Tangerang Selatan,10,motor
+2024000000128094,25,pengolahan industri,wirausaha,owner,13307566,Tangerang Selatan,45,mobil
+2024000000584317,49,"pertambangan, minyak, dan gas",pegawai BUMN,direktur,48414717,Tangerang,22,transportasi umum
+2024000000339615,44,hukum,pegawai BUMN,senior manager,12535548,Kab Tengerang,45,transportasi umum
+2024000000335238,38,Administasi dan manajemen,PNS,manager,11996759,Tangerang,18,transport umum
+2024000000140631,38,teknologi dan informasi,PNS,spv,8832552,Kab Tengerang,29,mobil
+2024000000172722,39,keuangan dan asuransi,pegawai BUMN,manager,11874409,Tangerang,17,transportasi umum
+2024000000303436,50,hukum,PNS,senior manager,12513383,Kab Tengerang,17,mobil
+2024000000126826,34,perdagangan umum,pegawai BUMN,leader,7022431,Tangerang Selatan,48,mobil
+2024000000286889,33,kesehatan,pegawai BUMN,staff,5690358,Tangerang,17,mobil
+2024000000296322,43,teknologi dan informasi,wirausaha,owner,15120592,Tangerang Selatan,18,transportasi umum
+2024000000208335,48,hiburan dan hospitality,wirausaha,owner,12771164,Tangerang Selatan,17,transportasi umum
+2024000000182947,32,konstruksi,PNS,staff,5500227,Kab Tengerang,10,mobil
+2024000000137373,31,teknologi dan informasi,wirausaha,owner,12451246,Tangerang,10,mobil
+2024000000336752,27,properti,wirausaha,owner,12906405,Kab Tengerang,48,mobil
+2024000000325633,29,perkebunan,wirausaha,owner,14766354,Kab Tengerang,48,transportasi umum
+2024000000116770,40,keuangan dan asuransi,karyawan swasta,leader,7425007,Tangerang,48,transportasi umum
+2024000000100760,41,keuangan dan asuransi,wirausaha,owner,14504273,Tangerang Selatan,45,transport umum
+2024000000127877,25,keuangan dan asuransi,PNS,leader,7883176,Kab Tengerang,22,transport umum
+2024000000142040,42,konstruksi,PNS,direktur,46502753,Kab Tengerang,17,motor
+2024000000101103,34,konstruksi,PNS,leader,6625380,Kab Tengerang,17,transportasi umum
+2024000000316473,36,keuangan dan asuransi,karyawan swasta,spv,10029375,Kab Tengerang,45,motor
+2024000000103995,46,keuangan dan asuransi,PNS,direktur,36934968,Tangerang,10,transportasi umum
+2024000000154249,27,pendidikan,guru,leader,8113038,Tangerang Selatan,18,transport umum
+2024000000806914,26,keuangan dan asuransi,wirausaha,owner,14970101,Tangerang Selatan,17,transportasi umum
+2024000000281204,51,properti,PNS,senior manager,14164244,Tangerang Selatan,18,transport umum
+2024000000177734,43,Administasi dan manajemen,pegawai BUMN,direktur,16958602,Kab Tengerang,45,transportasi umum
+2024000000129968,25,Administasi dan manajemen,pegawai BUMN,leader,7704118,Kab Tengerang,22,motor
+2024000000110825,26,logistik,karyawan swasta,staff,6342604,Tangerang Selatan,17,transport umum
+2024000000205500,50,teknologi dan informasi,pegawai BUMN,direktur,37141127,Tangerang,17,mobil
+2024000000211096,41,properti,wirausaha,owner,14933630,Tangerang Selatan,17,motor
+2024000000152594,29,hiburan dan hospitality,karyawan swasta,leader,8151138,Tangerang Selatan,10,transportasi umum
+2024000000297616,32,hukum,pengacara,leader,7128265,Kab Tengerang,18,mobil
+2024000000104807,39,Administasi dan manajemen,pegawai BUMN,spv,9384852,Tangerang,48,motor
+2024000000171820,35,perdagangan umum,pegawai BUMN,manager,10773792,Tangerang Selatan,10,motor
+2024000000140030,28,hukum,karyawan swasta,leader,6817543,Tangerang Selatan,29,motor
+2024000000958691,30,"pertambangan, minyak, dan gas",pegawai BUMN,staff,4786813,Kab Tengerang,17,mobil
+2024000000952128,32,keuangan dan asuransi,pegawai BUMN,leader,8277365,Tangerang Selatan,17,mobil
+2024000000248186,42,teknologi dan informasi,PNS,direktur,16407999,Tangerang,22,transportasi umum
+2024000000281428,23,"pertambangan, minyak, dan gas",pegawai BUMN,staff,5380309,Kab Tengerang,17,transport umum

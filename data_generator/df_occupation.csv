@@ -1,0 +1,790 @@
+res_id,age,work_field,occupation,title,income,location,work_dist,work_by
+202203A1401484221,31,pengolahan industri,pegawai BUMN,staff,5874514,Tangerang Selatan,10,mobil
+202203B1902780908,30,Administasi dan manajemen,pegawai BUMN,staff,5961722,Tangerang Selatan,10,transportasi umum
+202303C1201119547,39,teknologi dan informasi,pegawai BUMN,spv,10421744,Tangerang,8,motor
+202403D302160049,30,teknologi dan informasi,wirausaha,leader,8113180,Jakarta Timur,37,transport umum
+202203C101563316,25,otomotif,karyawan swasta,staff,4528609,Jakarta Pusat,17,motor
+202203G1201179026,30,kesehatan,pegawai BUMN,staff,4249182,Bekasi,26,motor
+202303H1201633496,25,Administasi dan manajemen,pegawai BUMN,staff,5754348,Jakarta Pusat,17,transportasi umum
+202203G1501690987,26,Administasi dan manajemen,PNS,staff,5343761,Kabupaten Bekasi,43,transportasi umum
+202403D2501171004,33,teknologi dan informasi,wirausaha,leader,8138528,Jakarta Timur,37,transport umum
+202303G1101892420,28,keuangan dan asuransi,karyawan swasta,leader,7317299,Jakarta Pusat,17,motor
+202403B2001196382,35,perdagangan umum,wirausaha,spv,8712206,Jakarta Pusat,17,transportasi umum
+202303D802517421,41,perdagangan umum,karyawan swasta,direktur,21853610,Tangerang,8,transportasi umum
+202303H2501280011,43,keuangan dan asuransi,PNS,direktur,19375143,Kab Tengerang,19,motor
+202303H101141935,44,perdagangan umum,wirausaha,direktur,15841086,Jakarta Barat,28,mobil
+202203F101467154,34,teknologi dan informasi,wirausaha,staff,5614646,Kabupaten Bekasi,43,transportasi umum
+202203A1601285586,35,kesehatan,PNS,manager,11561135,Jakarta Pusat,17,transport umum
+202203D1801112245,27,keuangan dan asuransi,pegawai BUMN,staff,6314300,Jakarta Pusat,17,motor
+202303C401133155,38,perdagangan umum,karyawan swasta,spv,8661769,Jakarta Barat,28,transportasi umum
+202303C802103588,42,teknologi dan informasi,wirausaha,senior manager,13013520,Jakarta Barat,28,motor
+202403B1101794392,42,Administasi dan manajemen,PNS,direktur,45421288,Bekasi,26,motor
+202403D2701308369,37,konstruksi,wirausaha,spv,10314900,Jakarta Timur,37,transport umum
+202203A501112667,43,properti,karyawan swasta,senior manager,13246746,Jakarta Barat,28,transportasi umum
+202403B1701600697,30,perkebunan,pegawai BUMN,staff,5658534,Jakarta Selatan,25,mobil
+202203D601240055,41,teknologi dan informasi,pegawai BUMN,direktur,20691613,Jakarta Barat,28,transportasi umum
+202303A901220966,42,pendidikan,karyawan swasta,direktur,16936498,Jakarta Pusat,17,mobil
+202203F501295992,43,teknologi dan informasi,wirausaha,senior manager,14289594,Kabupaten Bekasi,43,mobil
+202203E401265238,42,properti,karyawan swasta,direktur,15507534,Kab Tengerang,19,mobil
+202403B401236420,33,"pertambangan, minyak, dan gas",karyawan swasta,staff,6320837,Tangerang Selatan,10,transport umum
+202403H2101178578,31,keuangan dan asuransi,PNS,leader,8055241,Tangerang Selatan,10,transport umum
+202403D2401187867,30,media,wartawan,leader,7757157,Jakarta Timur,37,mobil
+202303D1201242806,43,Administasi dan manajemen,karyawan swasta,senior manager,12923653,Jakarta Barat,28,transportasi umum
+202403G1601312097,26,teknologi dan informasi,karyawan swasta,staff,4243928,Tangerang,8,motor
+202403D1101263990,32,teknologi dan informasi,pegawai BUMN,staff,4812018,Kab Tengerang,19,transport umum
+202403G901267851,27,kesehatan,dokter,staff,5449058,Jakarta Pusat,17,mobil
+202203H2302381430,29,transportasi,wirausaha,staff,4457541,Tangerang,8,mobil
+202203A1001314392,41,keuangan dan asuransi,wirausaha,direktur,43815717,Tangerang,8,motor
+202303H301109854,36,keuangan dan asuransi,wirausaha,manager,11303358,Bekasi,26,mobil
+202303G601652294,35,hukum,pegawai BUMN,leader,8491403,Jakarta Utara,21,motor
+202203E501134039,30,perdagangan umum,pegawai BUMN,leader,6858587,Bekasi,26,transport umum
+202203B1601208333,35,perdagangan umum,wirausaha,spv,10074042,Jakarta Barat,28,transportasi umum
+202203D1301227936,28,keuangan dan asuransi,karyawan swasta,staff,6092624,Jakarta Selatan,25,transportasi umum
+202203D101323962,39,"aktifitas profesional, ilmiah, dan teknis",karyawan swasta,manager,11691496,Tangerang Selatan,10,motor
+202303H501220892,44,Administasi dan manajemen,PNS,direktur,17349957,Tangerang Selatan,10,mobil
+202203B901547192,30,"pertambangan, minyak, dan gas",pegawai BUMN,staff,4923293,Kab Tengerang,19,transport umum
+202203A1201429217,35,Administasi dan manajemen,pegawai BUMN,manager,10550237,Jakarta Utara,21,transportasi umum
+202403A701848730,25,Administasi dan manajemen,pegawai BUMN,staff,4236336,Jakarta Barat,28,transportasi umum
+202403H2001296930,42,Administasi dan manajemen,karyawan swasta,senior manager,12593487,Jakarta Timur,37,transport umum
+202203F901664817,44,teknologi dan informasi,wirausaha,senior manager,13932799,Tangerang Selatan,10,transportasi umum
+202403H2201127609,37,teknologi dan informasi,wirausaha,leader,7386491,Jakarta Pusat,17,transportasi umum
+202203H1502921274,37,Administasi dan manajemen,pegawai BUMN,spv,8763805,Bekasi,26,transport umum
+202203D1401175758,40,transportasi,pegawai BUMN,leader,6621537,Tangerang,8,motor
+202403E901278975,31,pengolahan industri,karyawan swasta,staff,6243431,Jakarta Barat,28,transportasi umum
+202303C1301216791,27,teknologi dan informasi,pegawai BUMN,leader,8143902,Tangerang Selatan,10,transport umum
+202203B501449940,37,teknologi dan informasi,pegawai BUMN,manager,11313717,Tangerang Selatan,10,mobil
+202403E302102225,42,Administasi dan manajemen,karyawan swasta,senior manager,12161465,Bekasi,26,mobil
+202203C701165915,44,pengolahan industri,karyawan swasta,senior manager,14960319,Jakarta Pusat,17,mobil
+202303B2101195205,43,Administasi dan manajemen,karyawan swasta,senior manager,14115654,Jakarta Utara,21,mobil
+202403F201111589,44,teknologi dan informasi,karyawan swasta,senior manager,14801114,Bekasi,26,motor
+202403H1402273790,44,teknologi dan informasi,PNS,senior manager,14996858,Tangerang Selatan,10,transportasi umum
+202303D1501206345,40,teknologi dan informasi,pegawai BUMN,spv,10163742,Jakarta Selatan,25,motor
+202203C1001133824,33,pendidikan,karyawan swasta,leader,6665852,Jakarta Pusat,17,mobil
+202403C1601244346,26,pengolahan industri,pegawai BUMN,staff,6313192,Tangerang,8,mobil
+202403C1402295046,25,Administasi dan manajemen,karyawan swasta,staff,5391238,Jakarta Barat,28,transportasi umum
+202303H601826045,44,hukum,PNS,senior manager,15408752,Jakarta Timur,37,transport umum
+202403D2201135881,34,properti,wirausaha,staff,4971696,Bekasi,26,transport umum
+202203D201180421,28,keuangan dan asuransi,PNS,leader,7246580,Tangerang Selatan,10,motor
+202203H702309642,43,keuangan dan asuransi,karyawan swasta,senior manager,13279065,Bekasi,26,mobil
+202403D1601803577,25,logistik,wirausaha,leader,6688412,Jakarta Selatan,25,motor
+202303A1502209362,37,keuangan dan asuransi,PNS,leader,7134755,Kabupaten Bekasi,43,motor
+202403A301475415,37,otomotif,karyawan swasta,leader,7574219,Tangerang,8,mobil
+202203A1301148997,33,Administasi dan manajemen,PNS,leader,7707378,Jakarta Barat,28,transportasi umum
+202303H1002215830,34,teknologi dan informasi,karyawan swasta,staff,5181991,Jakarta Barat,28,mobil
+202403G402335781,37,teknologi dan informasi,PNS,leader,8187377,Tangerang Selatan,10,mobil
+202403A101308923,25,transportasi,wirausaha,leader,7636563,Jakarta Pusat,17,motor
+202403B302280457,34,hukum,pengacara,staff,5395482,Kabupaten Bekasi,43,transportasi umum
+202403C1501165303,37,teknologi dan informasi,pegawai BUMN,leader,7827243,Kab Tengerang,19,transportasi umum
+202203C602480434,31,hukum,pengacara,leader,8135805,Tangerang,8,motor
+202303B801972722,31,keuangan dan asuransi,pegawai BUMN,leader,8357388,Jakarta Barat,28,mobil
+202303F401246810,26,Administasi dan manajemen,PNS,staff,6259063,Jakarta Barat,28,transportasi umum
+202203H1601108817,26,konstruksi,pegawai BUMN,staff,4882969,Jakarta Selatan,25,motor
+202203D701987639,38,"pertambangan, minyak, dan gas",pegawai BUMN,leader,6970434,Jakarta Utara,21,transportasi umum
+202203B101246645,37,Administasi dan manajemen,karyawan swasta,manager,10771340,Bekasi,26,motor
+202203B2301133830,45,hukum,pegawai BUMN,direktur,24522763,Tangerang Selatan,10,transportasi umum
+202403B1001120987,40,keuangan dan asuransi,wirausaha,leader,7447436,Tangerang Selatan,10,mobil
+202203B1302147788,44,pengolahan industri,pegawai BUMN,senior manager,13572376,Bekasi,26,mobil
+202403F1501118123,38,"aktifitas profesional, ilmiah, dan teknis",wirausaha,spv,8900807,Jakarta Barat,28,transportasi umum
+202203C1701179846,31,konstruksi,PNS,staff,5291542,Jakarta Utara,21,motor
+202203B201109026,25,hukum,pengacara,leader,7196554,Jakarta Timur,37,transportasi umum
+202403A801658283,37,hukum,pengacara,spv,10178387,Jakarta Selatan,25,mobil
+202203H202137999,41,keuangan dan asuransi,wirausaha,senior manager,12008569,Kabupaten Bekasi,43,motor
+202403H401873238,41,pengolahan industri,pegawai BUMN,senior manager,14964942,Kabupaten Bekasi,43,motor
+202303E801272421,30,teknologi dan informasi,pegawai BUMN,staff,5112585,Kab Tengerang,19,transportasi umum
+202303F1302126183,45,keuangan dan asuransi,karyawan swasta,senior manager,12181913,Kabupaten Bekasi,43,transport umum
+202403B1501324342,39,teknologi dan informasi,PNS,leader,8310070,Jakarta Selatan,25,transport umum
+202203D501257426,41,Administasi dan manajemen,karyawan swasta,senior manager,12594192,Bekasi,26,motor
+202203D2001107296,36,Administasi dan manajemen,karyawan swasta,spv,8513309,Jakarta Utara,21,transport umum
+202203F601243393,26,keuangan dan asuransi,PNS,leader,6759158,Jakarta Selatan,25,transportasi umum
+202203H1802294413,41,teknologi dan informasi,PNS,direktur,41345995,Jakarta Barat,28,transport umum
+202203H901431797,45,perdagangan umum,pegawai BUMN,senior manager,14179674,Bekasi,26,motor
+202203A201604186,39,Administasi dan manajemen,pegawai BUMN,manager,10729246,Jakarta Pusat,17,transportasi umum
+202403B1201156087,41,kesehatan,pegawai BUMN,direktur,15590473,Bekasi,26,motor
+202203H1901209011,36,keuangan dan asuransi,karyawan swasta,manager,11835773,Kab Tengerang,19,mobil
+202203B1401152918,32,pengolahan industri,wirausaha,leader,8153326,Kab Tengerang,19,transportasi umum
+202303G301213614,44,teknologi dan informasi,karyawan swasta,direktur,45914255,Jakarta Timur,37,transport umum
+202403D1901263826,30,keuangan dan asuransi,PNS,staff,4588538,Tangerang,8,transportasi umum
+202203G701183988,26,keuangan dan asuransi,karyawan swasta,leader,6743331,Jakarta Selatan,25,mobil
+202403F1001329986,35,teknologi dan informasi,karyawan swasta,spv,9519079,Tangerang,8,transportasi umum
+202303D2301123613,37,Administasi dan manajemen,karyawan swasta,spv,9434233,Tangerang Selatan,10,mobil
+202203F1401104557,45,media,karyawan swasta,senior manager,13626849,Jakarta Pusat,17,transport umum
+202403D1001146841,39,properti,wirausaha,leader,6942893,Jakarta Utara,21,mobil
+202203G1002337595,41,keuangan dan asuransi,karyawan swasta,senior manager,14623207,Kabupaten Bekasi,43,transport umum
+202303E102169870,35,keuangan dan asuransi,wirausaha,manager,11017179,Jakarta Timur,37,transportasi umum
+202203B2401141059,25,logistik,karyawan swasta,staff,4490368,Jakarta Selatan,25,mobil
+202303D2802241417,33,pengolahan industri,karyawan swasta,leader,7124401,Tangerang Selatan,10,transport umum
+202203H801263500,30,properti,karyawan swasta,leader,7503940,Jakarta Barat,28,mobil
+202203F1601203366,31,perdagangan umum,pegawai BUMN,leader,7689044,Jakarta Timur,37,motor
+202303C201338628,40,pengolahan industri,pegawai BUMN,spv,9706322,Bekasi,26,transportasi umum
+202203E702306142,34,hukum,karyawan swasta,leader,7854303,Tangerang Selatan,10,motor
+202303F1101113930,29,"pertambangan, minyak, dan gas",karyawan swasta,leader,8309162,Tangerang Selatan,10,mobil
+202403G1301219716,28,Administasi dan manajemen,karyawan swasta,leader,7502506,Jakarta Timur,37,mobil
+202403H2402144237,38,konstruksi,PNS,leader,8044688,Jakarta Pusat,17,motor
+202403D1701146338,29,perdagangan umum,wirausaha,staff,4000073,Kabupaten Bekasi,43,motor
+202303G501210424,32,teknologi dan informasi,wirausaha,staff,5397844,Jakarta Selatan,25,motor
+202403F701840492,36,properti,wirausaha,manager,11630288,Tangerang,8,mobil
+202203G202891331,39,Administasi dan manajemen,karyawan swasta,spv,9330663,Jakarta Timur,37,motor
+202203F801262359,40,Administasi dan manajemen,karyawan swasta,leader,7044664,Kab Tengerang,19,motor
+202403F301173185,36,keuangan dan asuransi,wirausaha,spv,10041111,Tangerang,8,transportasi umum
+202403A401275540,43,pendidikan,karyawan swasta,direktur,34520343,Jakarta Pusat,17,transportasi umum
+202203A601206031,38,Administasi dan manajemen,PNS,leader,8496762,Tangerang Selatan,10,motor
+202403A1102678244,26,teknologi dan informasi,PNS,leader,6906071,Bekasi,26,transportasi umum
+202203F1701185213,25,properti,karyawan swasta,leader,7093528,Kabupaten Bekasi,43,transportasi umum
+202403D902457460,25,keuangan dan asuransi,wirausaha,leader,7949175,Kabupaten Bekasi,43,motor
+202303F1801368209,35,Administasi dan manajemen,PNS,spv,9097831,Jakarta Utara,21,motor
+202403B1801149933,31,keuangan dan asuransi,wirausaha,leader,7479680,Jakarta Timur,37,transportasi umum
+202403D401113526,35,teknologi dan informasi,pegawai BUMN,manager,11303606,Jakarta Selatan,25,mobil
+202403B2201114740,25,perdagangan umum,karyawan swasta,staff,5088498,Jakarta Timur,37,transport umum
+202303E1001264395,43,hukum,PNS,senior manager,15183385,Kabupaten Bekasi,43,transportasi umum
+202403E201571358,43,Administasi dan manajemen,pegawai BUMN,direktur,19165976,Jakarta Utara,21,motor
+202403C1101101630,43,perdagangan umum,wirausaha,senior manager,12516572,Jakarta Pusat,17,motor
+202403G101130694,27,pendidikan,guru,staff,6557708,Jakarta Timur,37,mobil
+202303E602303076,37,pendidikan,karyawan swasta,leader,7530076,Tangerang,8,mobil
+202203G801100622,34,keuangan dan asuransi,wirausaha,leader,8482218,Jakarta Selatan,25,transport umum
+202203D2101228983,37,properti,karyawan swasta,manager,11054277,Jakarta Pusat,17,transportasi umum
+202303G1402245116,38,konstruksi,PNS,leader,7906866,Jakarta Pusat,17,transportasi umum
+202203D2601151103,30,Administasi dan manajemen,karyawan swasta,leader,8180417,Kab Tengerang,19,motor
+202403C901487836,34,pengolahan industri,karyawan swasta,staff,5778618,Tangerang Selatan,10,transportasi umum
+202403H1701127409,43,teknologi dan informasi,wirausaha,direktur,31808888,Bekasi,26,motor
+202203B701157125,37,properti,PNS,spv,9732807,Jakarta Barat,28,transportasi umum
+202303F1201241070,32,Administasi dan manajemen,karyawan swasta,staff,4628886,Kabupaten Bekasi,43,motor
+202203H1301295709,32,perdagangan umum,pegawai BUMN,leader,6896688,Kab Tengerang,19,mobil
+202203B601470767,45,konstruksi,karyawan swasta,direktur,48321616,Tangerang Selatan,10,transportasi umum
+202203C501226794,25,perdagangan umum,karyawan swasta,staff,6037028,Tangerang,8,transport umum
+202303C301125669,33,teknologi dan informasi,pegawai BUMN,staff,4171966,Kab Tengerang,19,transportasi umum
+202203H1102316053,25,keuangan dan asuransi,wirausaha,leader,8331338,Kabupaten Bekasi,43,transport umum
+202204D1901164765,42,keuangan dan asuransi,PNS,senior manager,15338578,Jakarta Utara,21,transport umum
+202404F901326641,34,perdagangan umum,karyawan swasta,staff,5686966,Jakarta Selatan,25,mobil
+202404B401216705,30,keuangan dan asuransi,PNS,staff,6305117,Jakarta Utara,21,mobil
+202404H1301215987,25,teknologi dan informasi,karyawan swasta,leader,8003496,Kabupaten Bekasi,43,transportasi umum
+202404H901425975,31,perdagangan umum,wirausaha,staff,6345001,Jakarta Barat,28,transport umum
+202204H1501182617,32,properti,karyawan swasta,leader,6601770,Tangerang Selatan,10,transportasi umum
+202204F801423199,29,pengolahan industri,wirausaha,leader,7699396,Bekasi,26,transport umum
+202204B1901256452,40,keuangan dan asuransi,karyawan swasta,spv,8758323,Tangerang Selatan,10,mobil
+202204D601316282,38,keuangan dan asuransi,karyawan swasta,leader,7886080,Jakarta Utara,21,mobil
+202404G1501462471,27,teknologi dan informasi,karyawan swasta,staff,4255697,Jakarta Selatan,25,mobil
+202404D2801741030,43,teknologi dan informasi,karyawan swasta,direktur,45108353,Tangerang Selatan,10,mobil
+202304D2702852366,30,teknologi dan informasi,wirausaha,staff,5026759,Tangerang,8,transportasi umum
+202404C201164310,36,pendidikan,karyawan swasta,leader,6934500,Jakarta Barat,28,motor
+202204B801197239,44,Administasi dan manajemen,pegawai BUMN,direktur,43258258,Kab Tengerang,19,mobil
+202304C1801847516,31,properti,wirausaha,staff,6354096,Tangerang,8,transport umum
+202404E401308752,41,perdagangan umum,pegawai BUMN,senior manager,12156952,Tangerang Selatan,10,motor
+202304F301121757,40,kesehatan,dokter,spv,8588884,Jakarta Utara,21,motor
+202304A401278605,29,teknologi dan informasi,pegawai BUMN,leader,8471574,Jakarta Pusat,17,transportasi umum
+202204E801108719,38,keuangan dan asuransi,karyawan swasta,leader,6690452,Tangerang Selatan,10,transport umum
+202304F1201296937,25,keuangan dan asuransi,karyawan swasta,staff,6201085,Jakarta Barat,28,mobil
+202204C2001148004,25,pengolahan industri,pegawai BUMN,staff,6399792,Kabupaten Bekasi,43,transportasi umum
+202404B2001268674,25,keuangan dan asuransi,karyawan swasta,staff,4310040,Kabupaten Bekasi,43,transport umum
+202304C101147790,37,konstruksi,pegawai BUMN,spv,9219645,Jakarta Selatan,25,motor
+202204E502117549,42,Administasi dan manajemen,karyawan swasta,direktur,34750964,Jakarta Barat,28,transportasi umum
+202204C901139635,28,keuangan dan asuransi,pegawai BUMN,leader,7613483,Jakarta Pusat,17,transportasi umum
+202304D2001277197,30,keuangan dan asuransi,karyawan swasta,leader,7316704,Bekasi,26,transportasi umum
+202404C502174563,40,properti,PNS,manager,10553938,Jakarta Pusat,17,mobil
+202304E701884866,42,keuangan dan asuransi,wirausaha,direktur,17075867,Tangerang,8,mobil
+202404H1901142516,29,pengolahan industri,wirausaha,staff,4179980,Jakarta Selatan,25,transportasi umum
+202204G501308149,30,keuangan dan asuransi,PNS,leader,6785028,Bekasi,26,transport umum
+202404D2601331110,28,pengolahan industri,karyawan swasta,leader,7511872,Kab Tengerang,19,transportasi umum
+202304C702113204,44,Administasi dan manajemen,karyawan swasta,direktur,40639405,Tangerang,8,transport umum
+202204G1801173353,44,perdagangan umum,wirausaha,senior manager,12355796,Tangerang Selatan,10,mobil
+202204C2101131088,29,kesehatan,perawat,leader,8425791,Jakarta Pusat,17,mobil
+202204H2001505193,30,kesehatan,PNS,leader,7537339,Jakarta Pusat,17,mobil
+202404G101282721,39,keuangan dan asuransi,PNS,leader,7680102,Kab Tengerang,19,motor
+202204A601160608,37,pendidikan,karyawan swasta,spv,9180066,Jakarta Pusat,17,transport umum
+202204G601297486,33,Administasi dan manajemen,PNS,leader,6842521,Jakarta Selatan,25,transportasi umum
+202204D401287097,39,hukum,pengacara,manager,10651673,Tangerang,8,motor
+202304A301887019,44,pengolahan industri,wirausaha,direktur,33094209,Kabupaten Bekasi,43,mobil
+202404G1101322919,36,perdagangan umum,wirausaha,leader,7762157,Kabupaten Bekasi,43,mobil
+202304H601186699,27,Administasi dan manajemen,karyawan swasta,staff,6591486,Tangerang Selatan,10,mobil
+202404H2201172626,28,Administasi dan manajemen,karyawan swasta,leader,7471268,Bekasi,26,motor
+202204F201271209,34,Administasi dan manajemen,karyawan swasta,staff,4715621,Tangerang Selatan,10,transportasi umum
+202404H1101244647,41,Administasi dan manajemen,karyawan swasta,senior manager,15138891,Jakarta Utara,21,motor
+202404H401238752,43,keuangan dan asuransi,wirausaha,direktur,32241112,Jakarta Pusat,17,transportasi umum
+202204B1501333159,30,pengolahan industri,wirausaha,staff,5505232,Bekasi,26,transportasi umum
+202204B2402683619,37,Administasi dan manajemen,karyawan swasta,spv,9594295,Jakarta Selatan,25,transportasi umum
+202404B2201148440,35,teknologi dan informasi,karyawan swasta,manager,11087986,Jakarta Utara,21,motor
+202204G1401291206,28,Administasi dan manajemen,karyawan swasta,leader,7359621,Tangerang Selatan,10,transport umum
+202204G202152887,35,keuangan dan asuransi,karyawan swasta,leader,8331725,Kab Tengerang,19,mobil
+202404H701171834,41,otomotif,karyawan swasta,direktur,43929814,Bekasi,26,mobil
+202204C602223288,44,otomotif,karyawan swasta,direktur,31048528,Kabupaten Bekasi,43,mobil
+202304A702905622,43,keuangan dan asuransi,pegawai BUMN,senior manager,14829768,Jakarta Pusat,17,mobil
+202204H2501185854,41,"pertambangan, minyak, dan gas",pegawai BUMN,direktur,22791401,Tangerang,8,motor
+202204A801315338,25,Administasi dan manajemen,pegawai BUMN,leader,6670820,Jakarta Timur,37,mobil
+202304G901425924,30,pengolahan industri,karyawan swasta,leader,8103719,Tangerang Selatan,10,mobil
+202204D701261460,36,Administasi dan manajemen,pegawai BUMN,spv,10244874,Jakarta Selatan,25,motor
+202204B301179861,31,keuangan dan asuransi,pegawai BUMN,leader,7559066,Tangerang,8,mobil
+202204H1701339447,45,pengolahan industri,wirausaha,direktur,25673799,Jakarta Barat,28,mobil
+202404B101303360,44,keuangan dan asuransi,pegawai BUMN,direktur,29400377,Kab Tengerang,19,transport umum
+202404H801186252,38,Administasi dan manajemen,karyawan swasta,spv,9378064,Kabupaten Bekasi,43,transportasi umum
+202304H1802121540,28,Administasi dan manajemen,pegawai BUMN,leader,7864088,Kab Tengerang,19,mobil
+202304G1601313448,33,Administasi dan manajemen,karyawan swasta,staff,5834064,Tangerang Selatan,10,transportasi umum
+202404C1201315933,31,teknologi dan informasi,pegawai BUMN,staff,5327359,Kabupaten Bekasi,43,mobil
+202204A201235672,27,Administasi dan manajemen,karyawan swasta,staff,6310407,Tangerang,8,motor
+202404E1602247621,41,Administasi dan manajemen,PNS,senior manager,13602915,Jakarta Timur,37,transport umum
+202204B901173219,30,pengolahan industri,karyawan swasta,leader,7105005,Jakarta Barat,28,mobil
+202404A1301275391,36,Administasi dan manajemen,karyawan swasta,leader,7817661,Kabupaten Bekasi,43,transport umum
+202404D1001829653,36,kesehatan,perawat,spv,9830521,Tangerang,8,mobil
+202304C401113416,40,Administasi dan manajemen,PNS,spv,9866052,Tangerang Selatan,10,mobil
+202204H2301759657,40,teknologi dan informasi,karyawan swasta,leader,7934392,Jakarta Barat,28,transportasi umum
+202204E1301848777,37,teknologi dan informasi,PNS,spv,9396338,Jakarta Barat,28,motor
+202304E101756498,31,teknologi dan informasi,wirausaha,leader,8366366,Tangerang,8,motor
+202404H301954737,34,perdagangan umum,pegawai BUMN,leader,8298864,Kabupaten Bekasi,43,transportasi umum
+202204A1201201535,30,hukum,karyawan swasta,staff,5598360,Tangerang,8,transportasi umum
+202304D101141035,38,hukum,PNS,spv,9097556,Jakarta Timur,37,transportasi umum
+202404C1101120516,31,teknologi dan informasi,wirausaha,leader,7860962,Kab Tengerang,19,transport umum
+202404F1302138965,27,pendidikan,karyawan swasta,leader,8083693,Jakarta Barat,28,transport umum
+202204F1001167407,30,kesehatan,dokter,staff,6089846,Tangerang Selatan,10,transport umum
+202204D2401714192,44,logistik,pegawai BUMN,senior manager,12044796,Kab Tengerang,19,motor
+202404A901162794,29,media,wartawan,leader,7549156,Jakarta Utara,21,transportasi umum
+202404B1201319750,26,Administasi dan manajemen,PNS,leader,7041848,Jakarta Selatan,25,transportasi umum
+202304A1401230276,36,keuangan dan asuransi,karyawan swasta,leader,7323734,Kab Tengerang,19,transport umum
+202204H1401266437,33,pengolahan industri,pegawai BUMN,staff,5525796,Tangerang,8,mobil
+202204E1101238248,40,teknologi dan informasi,pegawai BUMN,spv,9293137,Kab Tengerang,19,motor
+202204D1702224691,44,pengolahan industri,karyawan swasta,senior manager,14335336,Bekasi,26,transportasi umum
+202404G301688096,34,keuangan dan asuransi,PNS,staff,6256014,Jakarta Timur,37,mobil
+202404B202322370,36,Administasi dan manajemen,karyawan swasta,manager,11947602,Jakarta Timur,37,mobil
+202204H501102478,37,keuangan dan asuransi,pegawai BUMN,manager,11874147,Tangerang Selatan,10,mobil
+202204A101183585,25,properti,wirausaha,staff,5069820,Kabupaten Bekasi,43,transportasi umum
+202204C1501285096,34,pengolahan industri,karyawan swasta,leader,7925906,Tangerang Selatan,10,motor
+202404F502164267,30,teknologi dan informasi,karyawan swasta,leader,7556772,Kabupaten Bekasi,43,transportasi umum
+202204F1501120952,28,teknologi dan informasi,pegawai BUMN,leader,7185141,Bekasi,26,motor
+202204E1502221383,28,kesehatan,pegawai BUMN,leader,7132943,Jakarta Utara,21,transport umum
+202204D1801293350,45,pendidikan,karyawan swasta,senior manager,13846456,Jakarta Utara,21,transport umum
+202304D501193423,26,Administasi dan manajemen,pegawai BUMN,leader,7634480,Jakarta Selatan,25,mobil
+202304F401153396,25,keuangan dan asuransi,PNS,leader,7228411,Jakarta Utara,21,transport umum
+202404F1601237891,44,hukum,PNS,direktur,44863786,Jakarta Selatan,25,transportasi umum
+202304F1701944800,38,hukum,karyawan swasta,leader,7877334,Bekasi,26,transportasi umum
+202304E1001625646,35,properti,wirausaha,spv,9080652,Kabupaten Bekasi,43,transportasi umum
+202404D1401222944,44,pengolahan industri,wirausaha,senior manager,13480374,Jakarta Timur,37,mobil
+202204G1201140324,30,keuangan dan asuransi,pegawai BUMN,leader,7746018,Kab Tengerang,19,transportasi umum
+202204A1701305934,28,teknologi dan informasi,PNS,leader,7026993,Bekasi,26,transportasi umum
+202404C1701189048,33,pengolahan industri,karyawan swasta,staff,5919451,Bekasi,26,mobil
+202404F701387887,41,teknologi dan informasi,karyawan swasta,senior manager,14837211,Tangerang Selatan,10,transportasi umum
+202404C301161984,27,perdagangan umum,karyawan swasta,staff,4262767,Tangerang,8,transportasi umum
+202204C1601627721,28,pengolahan industri,wirausaha,staff,4975893,Jakarta Pusat,17,mobil
+202204G1701203205,32,properti,PNS,staff,5390685,Bekasi,26,transportasi umum
+202404B501297795,25,"aktifitas profesional, ilmiah, dan teknis",wirausaha,leader,6736828,Tangerang,8,mobil
+202404B1401281974,32,teknologi dan informasi,wirausaha,staff,6438957,Jakarta Selatan,25,mobil
+202304A502155370,29,Administasi dan manajemen,PNS,leader,8383286,Tangerang,8,mobil
+202204H102127990,35,pendidikan,karyawan swasta,manager,10758235,Jakarta Utara,21,transport umum
+202204H1201214717,37,konstruksi,pegawai BUMN,spv,9855646,Jakarta Utara,21,mobil
+202404B1101150111,42,pendidikan,karyawan swasta,senior manager,14091111,Jakarta Pusat,17,transport umum
+202204B1001379337,38,keuangan dan asuransi,PNS,manager,11963246,Jakarta Timur,37,transport umum
+202404B1601128953,32,Administasi dan manajemen,pegawai BUMN,staff,6507372,Jakarta Utara,21,transport umum
+202304C801243624,43,keuangan dan asuransi,PNS,senior manager,14368335,Jakarta Timur,37,mobil
+202204D2301330384,28,media,wartawan,leader,6927433,Jakarta Barat,28,motor
+202204D201192978,43,properti,karyawan swasta,senior manager,12225883,Kabupaten Bekasi,43,transportasi umum
+202404A1501408083,26,Administasi dan manajemen,karyawan swasta,leader,7234532,Tangerang,8,mobil
+202204F101231580,38,properti,PNS,manager,11947051,Jakarta Timur,37,mobil
+202404F1101151351,33,keuangan dan asuransi,karyawan swasta,leader,7682584,Kabupaten Bekasi,43,motor
+202304D1101972339,44,"pertambangan, minyak, dan gas",pegawai BUMN,direktur,21920800,Bekasi,26,transport umum
+202404A1901780993,36,pengolahan industri,karyawan swasta,spv,8813035,Jakarta Timur,37,transportasi umum
+202204D1601588854,35,teknologi dan informasi,karyawan swasta,manager,11718095,Jakarta Pusat,17,transport umum
+202304A1101266245,43,keuangan dan asuransi,PNS,senior manager,13110047,Tangerang,8,mobil
+202204C1901257804,33,hukum,pegawai BUMN,leader,6823983,Kabupaten Bekasi,43,mobil
+202404D2501160865,28,perikanan dan peternakan,karyawan swasta,leader,7705748,Jakarta Selatan,25,mobil
+202304B1301147196,42,otomotif,karyawan swasta,senior manager,12224623,Jakarta Timur,37,motor
+202204H2401196089,38,"aktifitas profesional, ilmiah, dan teknis",karyawan swasta,leader,7546034,Kab Tengerang,19,mobil
+202404A1801142793,42,teknologi dan informasi,karyawan swasta,senior manager,15369239,Jakarta Utara,21,mobil
+202404G1001304833,44,Administasi dan manajemen,pegawai BUMN,direktur,42197862,Tangerang,8,motor
+202204F601335078,44,Administasi dan manajemen,PNS,direktur,15720335,Jakarta Selatan,25,transportasi umum
+202304B2301126887,44,teknologi dan informasi,wirausaha,direktur,16732156,Tangerang,8,mobil
+202404D2101228615,36,teknologi dan informasi,PNS,manager,11581304,Kabupaten Bekasi,43,mobil
+202204H201323800,42,properti,PNS,senior manager,14821748,Kabupaten Bekasi,43,transportasi umum
+202204E1201247964,42,logistik,pegawai BUMN,senior manager,13715938,Jakarta Timur,37,transport umum
+202304C1001335689,40,Administasi dan manajemen,karyawan swasta,spv,8687772,Jakarta Timur,37,mobil
+202204D301167570,25,teknologi dan informasi,PNS,leader,7978982,Jakarta Timur,37,transport umum
+202204C1301250375,29,teknologi dan informasi,pegawai BUMN,staff,6092423,Jakarta Selatan,25,motor
+202304B1702291010,39,perkebunan,wirausaha,leader,8399809,Tangerang,8,transportasi umum
+202304H1001113075,34,keuangan dan asuransi,PNS,leader,7042607,Kab Tengerang,19,motor
+202204D1301150619,29,keuangan dan asuransi,karyawan swasta,leader,6964180,Jakarta Selatan,25,mobil
+202204G801309306,38,teknologi dan informasi,karyawan swasta,spv,10074601,Kabupaten Bekasi,43,motor
+202304H2101895386,25,pendidikan,karyawan swasta,leader,7126512,Tangerang Selatan,10,mobil
+202204G401182094,41,teknologi dan informasi,PNS,senior manager,13931641,Tangerang,8,mobil
+202404A1601144037,30,teknologi dan informasi,pegawai BUMN,staff,6548910,Jakarta Utara,21,transportasi umum
+202204D901235040,28,otomotif,wirausaha,leader,8094909,Tangerang Selatan,10,transportasi umum
+202304B2101152066,43,teknologi dan informasi,karyawan swasta,senior manager,12615862,Jakarta Pusat,17,mobil
+202204E601281692,30,pengolahan industri,wirausaha,staff,4060717,Jakarta Pusat,17,transport umum
+202204A1002318087,25,Administasi dan manajemen,pegawai BUMN,staff,5950425,Jakarta Utara,21,motor
+202404G702168896,36,keuangan dan asuransi,pegawai BUMN,manager,10916594,Bekasi,26,transport umum
+202304D801591748,38,Administasi dan manajemen,PNS,spv,9050477,Tangerang,8,motor
+202404G1301180583,45,perdagangan umum,karyawan swasta,direktur,22414054,Kabupaten Bekasi,43,mobil
+202304D1201191989,36,"pertambangan, minyak, dan gas",PNS,leader,7048327,Jakarta Timur,37,mobil
+202404B701245270,28,Administasi dan manajemen,pegawai BUMN,leader,7399520,Jakarta Utara,21,mobil
+202204D2201110048,40,pendidikan,guru,manager,11375720,Jakarta Barat,28,transport umum
+202404E201198430,32,teknologi dan informasi,PNS,leader,7297778,Tangerang Selatan,10,transportasi umum
+202404E901328743,30,keuangan dan asuransi,PNS,staff,5461482,Tangerang,8,mobil
+202404C1401481177,28,keuangan dan asuransi,PNS,leader,7394780,Tangerang Selatan,10,transport umum
+202204F1401319546,39,keuangan dan asuransi,PNS,spv,9454893,Jakarta Pusat,17,mobil
+202404E1401224636,35,Administasi dan manajemen,pegawai BUMN,spv,10093869,Tangerang,8,motor
+202404B1801254349,35,keuangan dan asuransi,PNS,leader,8252076,Kabupaten Bekasi,43,mobil
+202204B601171832,42,pengolahan industri,pegawai BUMN,senior manager,12255891,Jakarta Timur,37,transport umum
+202204H1601103639,25,teknologi dan informasi,PNS,staff,6498214,Jakarta Timur,37,transportasi umum
+202404E301281793,29,pengolahan industri,wirausaha,leader,6947638,Jakarta Utara,21,transportasi umum
+202404D1501118793,37,Administasi dan manajemen,karyawan swasta,spv,10296034,Bekasi,26,motor
+202201C1401853179,44,Administasi dan manajemen,karyawan swasta,senior manager,14209915,Kabupaten Bekasi,43,mobil
+202401F601359754,38,pengolahan industri,pegawai BUMN,manager,11685414,Jakarta Barat,28,mobil
+202401E201297920,45,Administasi dan manajemen,PNS,senior manager,14087629,Kabupaten Bekasi,43,transportasi umum
+202401F1401235688,25,keuangan dan asuransi,karyawan swasta,staff,5692763,Tangerang Selatan,10,transportasi umum
+202401G301101004,25,keuangan dan asuransi,karyawan swasta,staff,4688314,Bekasi,26,transport umum
+202201C801317909,43,kesehatan,pegawai BUMN,direktur,24872125,Jakarta Selatan,25,mobil
+202401A201191724,42,teknologi dan informasi,karyawan swasta,direktur,21607268,Jakarta Timur,37,motor
+202301F301188942,34,pendidikan,karyawan swasta,staff,5903361,Tangerang Selatan,10,transportasi umum
+202401D1201107894,27,perikanan dan peternakan,PNS,leader,7505887,Bekasi,26,transportasi umum
+202201C1202809227,43,konstruksi,wirausaha,senior manager,12352519,Jakarta Barat,28,motor
+202201A1201426948,30,"pertambangan, minyak, dan gas",karyawan swasta,staff,5897202,Kab Tengerang,19,motor
+202401B102234701,38,teknologi dan informasi,PNS,leader,7467688,Kabupaten Bekasi,43,mobil
+202301D502974343,29,teknologi dan informasi,PNS,staff,6014998,Bekasi,26,mobil
+202301F801276693,32,Administasi dan manajemen,pegawai BUMN,staff,4971799,Jakarta Barat,28,transportasi umum
+202401E801252445,34,Administasi dan manajemen,PNS,staff,6416703,Jakarta Utara,21,mobil
+202201F102790146,29,pendidikan,karyawan swasta,leader,7171389,Jakarta Utara,21,mobil
+202201C1501199660,40,perkebunan,karyawan swasta,spv,9587488,Jakarta Selatan,25,transport umum
+202401E1001106670,45,keuangan dan asuransi,PNS,direktur,43574146,Tangerang,8,transportasi umum
+202301C701179134,32,pengolahan industri,karyawan swasta,leader,7713983,Kab Tengerang,19,mobil
+202301A801904281,35,pengolahan industri,wirausaha,spv,8809262,Tangerang,8,mobil
+202401B1701109505,38,pengolahan industri,pegawai BUMN,spv,9404146,Jakarta Selatan,25,mobil
+202401F201202238,31,pendidikan,karyawan swasta,leader,7949142,Jakarta Utara,21,transport umum
+202201G202541683,34,hukum,PNS,leader,7455449,Jakarta Selatan,25,motor
+202201D101158382,39,teknologi dan informasi,karyawan swasta,leader,8061314,Kabupaten Bekasi,43,transportasi umum
+202401F1201779217,43,keuangan dan asuransi,PNS,direktur,28521477,Jakarta Timur,37,transport umum
+202201B601106424,32,otomotif,karyawan swasta,staff,5888240,Jakarta Selatan,25,transport umum
+202401G801179356,44,logistik,karyawan swasta,direktur,46607304,Bekasi,26,transportasi umum
+202301C201982309,27,keuangan dan asuransi,PNS,staff,6557501,Kabupaten Bekasi,43,mobil
+202401B701695024,41,keuangan dan asuransi,pegawai BUMN,direktur,21386916,Jakarta Timur,37,mobil
+202201F902905924,34,teknologi dan informasi,karyawan swasta,leader,7589879,Kab Tengerang,19,mobil
+202401E901143075,34,teknologi dan informasi,karyawan swasta,leader,8220644,Bekasi,26,mobil
+202401D601653378,43,properti,wirausaha,senior manager,13102299,Jakarta Utara,21,transport umum
+202201B1201113844,37,keuangan dan asuransi,wirausaha,spv,8779480,Bekasi,26,mobil
+202301B1301213627,42,Administasi dan manajemen,karyawan swasta,direktur,16687532,Kabupaten Bekasi,43,transport umum
+202301B201546846,41,keuangan dan asuransi,PNS,direktur,18552449,Jakarta Selatan,25,transportasi umum
+202201G401244245,34,pengolahan industri,karyawan swasta,staff,4931655,Tangerang,8,motor
+202201G1301253610,39,keuangan dan asuransi,wirausaha,spv,8966817,Jakarta Utara,21,mobil
+202201B1001207358,39,Administasi dan manajemen,pegawai BUMN,leader,7000178,Kabupaten Bekasi,43,motor
+202201D702362677,25,teknologi dan informasi,karyawan swasta,staff,4024244,Kab Tengerang,19,motor
+202201G1001608779,26,Administasi dan manajemen,karyawan swasta,staff,5129309,Jakarta Pusat,17,transportasi umum
+202401G701246853,30,keuangan dan asuransi,karyawan swasta,leader,8417849,Kabupaten Bekasi,43,transport umum
+202401C401326861,31,pengolahan industri,wirausaha,leader,6955358,Jakarta Timur,37,mobil
+202301A1502183388,37,Administasi dan manajemen,pegawai BUMN,leader,7544847,Kab Tengerang,19,transport umum
+202201F701108260,39,teknologi dan informasi,pegawai BUMN,leader,7230984,Jakarta Barat,28,motor
+202301G901113940,41,Administasi dan manajemen,pegawai BUMN,senior manager,14365631,Kab Tengerang,19,mobil
+202401E101318264,33,pengolahan industri,pegawai BUMN,staff,5809715,Jakarta Timur,37,motor
+202401D301150783,44,properti,wirausaha,direktur,49838129,Jakarta Timur,37,transportasi umum
+202401B1101243838,42,pengolahan industri,karyawan swasta,senior manager,13118460,Tangerang,8,mobil
+202301C601327311,43,teknologi dan informasi,PNS,senior manager,14510769,Kab Tengerang,19,mobil
+202401G1201334212,27,pengolahan industri,wirausaha,leader,7405644,Kabupaten Bekasi,43,mobil
+202401A501146235,43,teknologi dan informasi,karyawan swasta,senior manager,13785462,Jakarta Barat,28,motor
+202201A901507026,27,teknologi dan informasi,pegawai BUMN,staff,4860178,Jakarta Timur,37,transportasi umum
+202301F1502154785,34,teknologi dan informasi,pegawai BUMN,staff,5340858,Kabupaten Bekasi,43,motor
+202401A102228816,35,perdagangan umum,wirausaha,spv,8694811,Jakarta Pusat,17,mobil
+202201F1101221815,38,properti,PNS,spv,8870129,Kabupaten Bekasi,43,motor
+202401F1301173506,38,teknologi dan informasi,karyawan swasta,spv,9550627,Jakarta Pusat,17,transport umum
+202401C1101107649,38,kesehatan,PNS,spv,9023611,Tangerang Selatan,10,motor
+202301C1002133645,45,keuangan dan asuransi,PNS,senior manager,12430076,Jakarta Timur,37,motor
+202401D1101627363,27,otomotif,karyawan swasta,staff,5802800,Kabupaten Bekasi,43,mobil
+202401A1101190007,45,Administasi dan manajemen,karyawan swasta,direktur,19499450,Tangerang,8,mobil
+202301D801308666,37,perdagangan umum,karyawan swasta,manager,10732232,Jakarta Pusat,17,mobil
+202401A601280325,26,otomotif,wirausaha,staff,5194737,Kabupaten Bekasi,43,mobil
+202401E301225335,28,teknologi dan informasi,pegawai BUMN,leader,7452424,Jakarta Timur,37,motor
+202301G102216110,35,hukum,karyawan swasta,spv,9202046,Kabupaten Bekasi,43,motor
+202201D1301145223,34,pengolahan industri,karyawan swasta,leader,7368090,Jakarta Timur,37,transportasi umum
+202301G501200667,29,keuangan dan asuransi,PNS,leader,6634733,Kabupaten Bekasi,43,transportasi umum
+202301B901146591,27,keuangan dan asuransi,karyawan swasta,leader,7489391,Jakarta Selatan,25,transport umum
+202401D201540929,32,Administasi dan manajemen,karyawan swasta,leader,6837413,Jakarta Timur,37,mobil
+202401B801179872,37,keuangan dan asuransi,karyawan swasta,spv,8615683,Kabupaten Bekasi,43,mobil
+202201G1401719738,31,otomotif,karyawan swasta,staff,5393383,Kab Tengerang,19,transportasi umum
+202301A1001253569,26,teknologi dan informasi,karyawan swasta,leader,6697883,Tangerang Selatan,10,mobil
+202401A701148881,30,perdagangan umum,pegawai BUMN,leader,8079949,Tangerang Selatan,10,transportasi umum
+202401C501122022,29,properti,wirausaha,leader,6602971,Kabupaten Bekasi,43,motor
+202401E601136387,39,properti,karyawan swasta,leader,8146285,Jakarta Utara,21,mobil
+202301A401642809,42,teknologi dan informasi,PNS,direktur,33660673,Jakarta Utara,21,motor
+202401C1302208095,44,perdagangan umum,karyawan swasta,senior manager,15112914,Tangerang Selatan,10,mobil
+202401E501110403,33,teknologi dan informasi,karyawan swasta,leader,8428238,Tangerang Selatan,10,transport umum
+202301B301224486,27,properti,karyawan swasta,staff,6552953,Jakarta Timur,37,mobil
+202401C301167805,40,teknologi dan informasi,PNS,manager,11597202,Tangerang,8,motor
+202301D901176102,28,keuangan dan asuransi,pegawai BUMN,leader,7556979,Jakarta Utara,21,transportasi umum
+202201B1401850401,32,konstruksi,wirausaha,leader,7182016,Jakarta Timur,37,transportasi umum
+202201C901322212,25,keuangan dan asuransi,karyawan swasta,leader,7394891,Jakarta Pusat,17,motor
+202201F1001217139,44,teknologi dan informasi,PNS,senior manager,15407351,Kabupaten Bekasi,43,transportasi umum
+202401D1001284240,38,transportasi,wirausaha,spv,8503311,Jakarta Barat,28,transport umum
+202401B1501205318,44,keuangan dan asuransi,pegawai BUMN,direktur,22702734,Kab Tengerang,19,transport umum
+202401G601112118,29,kesehatan,pegawai BUMN,leader,7148599,Kab Tengerang,19,transportasi umum
+202201A301108298,30,Administasi dan manajemen,karyawan swasta,staff,5150496,Jakarta Pusat,17,transport umum
+202201B1601123726,38,transportasi,wirausaha,manager,11762923,Jakarta Pusat,17,transportasi umum
+202401G1101107053,41,Administasi dan manajemen,karyawan swasta,direktur,20764076,Jakarta Selatan,25,transport umum
+202201E701491693,34,logistik,wirausaha,staff,4830621,Jakarta Barat,28,mobil
+202201D401300318,32,kesehatan,pegawai BUMN,leader,6619128,Tangerang Selatan,10,transportasi umum
+202201F501115170,26,"aktifitas profesional, ilmiah, dan teknis",wirausaha,staff,5405844,Jakarta Barat,28,transportasi umum
+202401B501203099,38,Administasi dan manajemen,PNS,leader,6748134,Jakarta Selatan,25,transport umum
+202401F401167127,25,pengolahan industri,karyawan swasta,staff,4532634,Jakarta Utara,21,transport umum
+202201G1501107924,39,properti,PNS,manager,11140518,Jakarta Pusat,17,transportasi umum
+202401B401149207,30,keuangan dan asuransi,wirausaha,leader,6936318,Tangerang,8,transport umum
+202201A1301288974,25,Administasi dan manajemen,pegawai BUMN,leader,8230079,Jakarta Selatan,25,transport umum
+202201E402758418,29,teknologi dan informasi,PNS,staff,6185850,Jakarta Pusat,17,transportasi umum
+202201C101288165,28,Administasi dan manajemen,pegawai BUMN,leader,7971939,Jakarta Timur,37,mobil
+202201A1402124801,38,teknologi dan informasi,PNS,spv,9064361,Kabupaten Bekasi,43,transport umum
+202402A201239827,30,konstruksi,wirausaha,leader,8058273,Jakarta Pusat,17,mobil
+202202C701229873,30,teknologi dan informasi,karyawan swasta,leader,7737703,Kabupaten Bekasi,43,transportasi umum
+202202D1301552394,40,pengolahan industri,wirausaha,manager,11740037,Tangerang Selatan,10,motor
+202402A1701120005,29,Administasi dan manajemen,pegawai BUMN,leader,6734575,Kabupaten Bekasi,43,motor
+202302E302100388,42,teknologi dan informasi,karyawan swasta,direktur,17721244,Jakarta Selatan,25,transport umum
+202402C1701143547,40,teknologi dan informasi,karyawan swasta,spv,9667913,Jakarta Utara,21,transport umum
+202402C801265119,35,perdagangan umum,wirausaha,leader,7149476,Jakarta Barat,28,mobil
+202302F1302195246,43,teknologi dan informasi,karyawan swasta,senior manager,12861719,Bekasi,26,mobil
+202402D1601872975,38,teknologi dan informasi,wirausaha,manager,11431672,Jakarta Timur,37,transportasi umum
+202202D101962373,31,teknologi dan informasi,wirausaha,leader,7715112,Jakarta Barat,28,mobil
+202202C1201172437,30,otomotif,wirausaha,staff,5635544,Tangerang,8,mobil
+202402E502319942,42,teknologi dan informasi,pegawai BUMN,senior manager,13855284,Kab Tengerang,19,mobil
+202202F1101424127,30,Administasi dan manajemen,PNS,leader,7027580,Jakarta Utara,21,transportasi umum
+202402D1501209193,36,teknologi dan informasi,PNS,manager,11135206,Tangerang,8,mobil
+202402D1101596820,35,teknologi dan informasi,pegawai BUMN,manager,11768788,Bekasi,26,motor
+202202C501800334,26,keuangan dan asuransi,karyawan swasta,staff,4922981,Tangerang Selatan,10,motor
+202402A101166842,30,perdagangan umum,wirausaha,leader,7361274,Jakarta Utara,21,transportasi umum
+202202A901138368,25,keuangan dan asuransi,PNS,staff,5507644,Jakarta Timur,37,mobil
+202202A701333112,42,kesehatan,PNS,direktur,35208635,Jakarta Timur,37,transport umum
+202202E601336341,28,perikanan dan peternakan,wirausaha,leader,7945020,Kabupaten Bekasi,43,motor
+202402F1502224143,28,perdagangan umum,karyawan swasta,leader,6749476,Kab Tengerang,19,motor
+202302D901324382,27,Administasi dan manajemen,karyawan swasta,staff,4057985,Tangerang,8,transport umum
+202302B1701328116,45,teknologi dan informasi,PNS,direktur,29127728,Bekasi,26,transportasi umum
+202302A301633979,44,perdagangan umum,karyawan swasta,direktur,30357195,Tangerang Selatan,10,motor
+202302C601298963,26,keuangan dan asuransi,karyawan swasta,leader,7248746,Jakarta Barat,28,mobil
+202202B601299496,29,hukum,pegawai BUMN,staff,5420991,Jakarta Pusat,17,transportasi umum
+202402B901239731,37,perdagangan umum,pegawai BUMN,spv,8513188,Bekasi,26,transport umum
+202202C1001505919,43,keuangan dan asuransi,karyawan swasta,direktur,38876559,Tangerang Selatan,10,transportasi umum
+202402C901126143,30,pengolahan industri,karyawan swasta,staff,6037853,Tangerang Selatan,10,transportasi umum
+202402D202265966,41,properti,wirausaha,direktur,19394317,Kabupaten Bekasi,43,mobil
+202402B801115149,33,keuangan dan asuransi,karyawan swasta,leader,7781141,Kab Tengerang,19,transportasi umum
+202402C1801132090,44,keuangan dan asuransi,pegawai BUMN,direktur,22983128,Jakarta Timur,37,mobil
+202202E201297512,30,keuangan dan asuransi,pegawai BUMN,leader,7107877,Kab Tengerang,19,mobil
+202402E101356311,26,teknologi dan informasi,pegawai BUMN,staff,5352663,Jakarta Pusat,17,transport umum
+202402D601307858,42,hukum,karyawan swasta,direktur,29605755,Bekasi,26,mobil
+202402E1001179160,35,teknologi dan informasi,wirausaha,leader,7787493,Kab Tengerang,19,mobil
+202202B501290772,43,Administasi dan manajemen,pegawai BUMN,senior manager,15425792,Kabupaten Bekasi,43,motor
+202302E1301521228,28,pendidikan,karyawan swasta,leader,7335412,Jakarta Selatan,25,mobil
+202202D302657812,45,pengolahan industri,karyawan swasta,direktur,25629786,Tangerang,8,motor
+202302A1801927507,45,keuangan dan asuransi,PNS,direktur,25489397,Kab Tengerang,19,motor
+202402B1601131742,44,Administasi dan manajemen,PNS,direktur,25620307,Kabupaten Bekasi,43,mobil
+202402F1201315533,38,teknologi dan informasi,PNS,leader,8228419,Kab Tengerang,19,mobil
+202402E901163144,32,keuangan dan asuransi,pegawai BUMN,leader,8066312,Tangerang,8,transportasi umum
+202202A1501230829,39,hukum,karyawan swasta,leader,6637014,Jakarta Utara,21,mobil
+202302B1001129721,43,keuangan dan asuransi,karyawan swasta,senior manager,12114273,Jakarta Utara,21,transport umum
+202302C1502813393,36,Administasi dan manajemen,PNS,leader,6635954,Tangerang Selatan,10,motor
+202402A1201241707,44,kesehatan,PNS,senior manager,13105895,Kabupaten Bekasi,43,transport umum
+202302F101968479,40,teknologi dan informasi,karyawan swasta,leader,8266508,Jakarta Barat,28,mobil
+202402D801748886,35,Administasi dan manajemen,karyawan swasta,leader,7314410,Jakarta Pusat,17,mobil
+202402C1102254400,33,pengolahan industri,pegawai BUMN,staff,4999035,Tangerang,8,mobil
+202402B201317470,40,transportasi,karyawan swasta,leader,7123941,Jakarta Timur,37,transportasi umum
+202202A602207641,36,hukum,PNS,manager,11195297,Kabupaten Bekasi,43,mobil
+202402B101938680,40,pengolahan industri,karyawan swasta,manager,11334980,Jakarta Timur,37,mobil
+202302F201244676,33,media,wartawan,staff,5561323,Jakarta Barat,28,transportasi umum
+202302C1401466789,29,Administasi dan manajemen,karyawan swasta,leader,7124891,Tangerang Selatan,10,transportasi umum
+202302F901987448,27,perikanan dan peternakan,karyawan swasta,leader,7386272,Kabupaten Bekasi,43,transportasi umum
+202202D1401138938,36,hukum,karyawan swasta,leader,7822362,Kabupaten Bekasi,43,transportasi umum
+202202B302731350,45,pengolahan industri,wirausaha,senior manager,14958647,Jakarta Timur,37,motor
+202202C102223243,35,teknologi dan informasi,pegawai BUMN,manager,11914309,Kabupaten Bekasi,43,transportasi umum
+202202C2201217456,25,keuangan dan asuransi,wirausaha,leader,6626945,Jakarta Pusat,17,transport umum
+202402D1201767228,26,properti,PNS,staff,4343777,Jakarta Barat,28,motor
+202402E1201290167,34,pengolahan industri,karyawan swasta,staff,5861109,Bekasi,26,transportasi umum
+202402A1901159184,41,hukum,pegawai BUMN,senior manager,12861795,Jakarta Barat,28,mobil
+202202A501223919,31,hukum,karyawan swasta,leader,8396993,Kab Tengerang,19,motor
+202402E401651754,31,perdagangan umum,karyawan swasta,leader,7174712,Tangerang,8,mobil
+202302A801305305,25,keuangan dan asuransi,karyawan swasta,staff,5812947,Kab Tengerang,19,transportasi umum
+202202A1002110304,38,keuangan dan asuransi,pegawai BUMN,leader,8127366,Jakarta Utara,21,transportasi umum
+202302C1901335849,31,properti,karyawan swasta,staff,4910591,Kab Tengerang,19,mobil
+202202B701240388,35,teknologi dan informasi,pegawai BUMN,leader,8115137,Jakarta Pusat,17,motor
+202402D2001152626,40,pengolahan industri,pegawai BUMN,manager,10715199,Kab Tengerang,19,mobil
+202202E701236217,26,properti,PNS,staff,5188794,Kab Tengerang,19,transportasi umum
+202202A1101302656,31,teknologi dan informasi,pegawai BUMN,staff,5784846,Jakarta Utara,21,mobil
+202202F802987140,44,keuangan dan asuransi,PNS,senior manager,14437480,Tangerang Selatan,10,transport umum
+202402F501168754,30,perdagangan umum,karyawan swasta,leader,7207710,Jakarta Pusat,17,mobil
+202202C1301286491,37,Administasi dan manajemen,PNS,manager,11961190,Tangerang,8,transport umum
+202402D701299670,37,Administasi dan manajemen,karyawan swasta,spv,8910424,Jakarta Selatan,25,mobil
+202402D1001178925,39,"aktifitas profesional, ilmiah, dan teknis",karyawan swasta,manager,11451761,Bekasi,26,motor
+202302A401113504,33,Administasi dan manajemen,karyawan swasta,staff,5319745,Jakarta Selatan,25,mobil
+202402F701162485,35,hukum,pegawai BUMN,spv,9970957,Kabupaten Bekasi,43,transportasi umum
+202402C2001275678,29,keuangan dan asuransi,pegawai BUMN,leader,8003768,Jakarta Utara,21,mobil
+202202B1401226233,39,Administasi dan manajemen,pegawai BUMN,leader,8096614,Jakarta Utara,21,transport umum
+202402E1102128092,43,teknologi dan informasi,pegawai BUMN,direktur,46883637,Jakarta Timur,37,transportasi umum
+202402B1201279945,34,teknologi dan informasi,PNS,leader,8434800,Jakarta Pusat,17,motor
+202202B401384147,33,Administasi dan manajemen,karyawan swasta,leader,7935901,Jakarta Pusat,17,mobil
+202202F602305637,26,teknologi dan informasi,PNS,staff,5152858,Jakarta Utara,21,transportasi umum
+202202C2101117723,32,properti,karyawan swasta,leader,8497691,Jakarta Barat,28,mobil
+202302A1401622676,32,hukum,PNS,staff,5107449,Kabupaten Bekasi,43,motor
+202302C2301320839,40,Administasi dan manajemen,karyawan swasta,leader,7311438,Kab Tengerang,19,mobil
+202202C1601195229,32,"aktifitas profesional, ilmiah, dan teknis",karyawan swasta,leader,7976707,Jakarta Selatan,25,mobil
+202202D1701182164,34,"aktifitas profesional, ilmiah, dan teknis",wirausaha,staff,6346836,Bekasi,26,transportasi umum
+202402D2101203838,29,Administasi dan manajemen,PNS,leader,7891237,Jakarta Utara,21,transport umum
+202202C301290842,37,pengolahan industri,pegawai BUMN,spv,8709851,Jakarta Pusat,17,mobil
+202202A1301127511,26,properti,karyawan swasta,leader,8432393,Tangerang Selatan,10,transportasi umum
+202202C201250005,38,teknologi dan informasi,pegawai BUMN,spv,9581278,Jakarta Timur,37,transportasi umum
+202402E1401327550,40,perdagangan umum,karyawan swasta,leader,6619055,Tangerang Selatan,10,transportasi umum
+202202F1402326018,29,hukum,karyawan swasta,staff,6591658,Tangerang,8,transport umum
+202202D501219378,43,pengolahan industri,pegawai BUMN,direktur,16654010,Jakarta Selatan,25,transport umum
+202202F1001197538,41,Administasi dan manajemen,karyawan swasta,direktur,29563849,Jakarta Utara,21,transportasi umum
+202402D1801213034,40,pendidikan,guru,spv,9997506,Jakarta Utara,21,transport umum
+202202F402101679,37,perdagangan umum,karyawan swasta,spv,9582981,Kabupaten Bekasi,43,transport umum
+202402D402143678,32,Administasi dan manajemen,pegawai BUMN,leader,7544039,Jakarta Utara,21,mobil
+202202B1301492479,37,keuangan dan asuransi,karyawan swasta,manager,11571282,Jakarta Timur,37,mobil
+202402A1601308211,29,hukum,pengacara,leader,6820369,Tangerang,8,transportasi umum
+202302D1901106684,45,hukum,pengacara,senior manager,14869590,Tangerang Selatan,10,mobil
+202402F1601271253,29,perdagangan umum,karyawan swasta,leader,7551313,Jakarta Pusat,17,mobil
+202202C2402312923,33,Administasi dan manajemen,PNS,staff,5020256,Jakarta Utara,21,mobil
+202202B1101246542,26,properti,PNS,leader,6790061,Kabupaten Bekasi,43,mobil
+202402B1501327618,32,media,wartawan,leader,8125349,Jakarta Pusat,17,mobil
+202402C401424971,44,kesehatan,pegawai BUMN,direktur,39938589,Kab Tengerang,19,motor
+202202F301263245,28,Administasi dan manajemen,pegawai BUMN,leader,7267413,Tangerang,8,motor
+202202E801189745,42,Administasi dan manajemen,PNS,direktur,20544471,Jakarta Utara,21,mobil
+202205F1201285985,35,Administasi dan manajemen,pegawai BUMN,manager,11923164,Tangerang Selatan,10,motor
+202305E1301295371,28,pengolahan industri,karyawan swasta,staff,5485969,Bekasi,26,transport umum
+202205D2601280272,25,"pertambangan, minyak, dan gas",PNS,staff,5494721,Tangerang,8,motor
+202305A701116633,42,teknologi dan informasi,pegawai BUMN,direktur,18550867,Kabupaten Bekasi,43,motor
+202205E1601109221,26,pengolahan industri,wirausaha,leader,7436923,Kabupaten Bekasi,43,mobil
+202205G1302218270,35,Administasi dan manajemen,pegawai BUMN,leader,8145978,Tangerang Selatan,10,mobil
+202405D2401218543,38,teknologi dan informasi,karyawan swasta,leader,7722841,Kab Tengerang,19,transportasi umum
+202305C801166506,36,Administasi dan manajemen,PNS,spv,8792420,Tangerang Selatan,10,mobil
+202205A1902132188,45,media,karyawan swasta,senior manager,14961611,Jakarta Selatan,25,transportasi umum
+202405F1101100006,41,teknologi dan informasi,pegawai BUMN,senior manager,14708718,Kab Tengerang,19,mobil
+202405G1101135940,32,properti,PNS,leader,7476939,Jakarta Selatan,25,transportasi umum
+202405D1301942024,25,Administasi dan manajemen,karyawan swasta,leader,8329191,Jakarta Barat,28,transportasi umum
+202405E601225422,29,Administasi dan manajemen,pegawai BUMN,staff,5445449,Kabupaten Bekasi,43,transport umum
+202205B101264950,28,perdagangan umum,karyawan swasta,staff,4123770,Jakarta Utara,21,transportasi umum
+202305E1901143096,29,Administasi dan manajemen,karyawan swasta,leader,7996609,Jakarta Selatan,25,transport umum
+202405E1801312459,38,keuangan dan asuransi,karyawan swasta,leader,7700369,Jakarta Selatan,25,transport umum
+202405E2101107242,43,hukum,pegawai BUMN,senior manager,15104960,Jakarta Selatan,25,mobil
+202405E101509831,44,teknologi dan informasi,pegawai BUMN,direktur,27088966,Jakarta Selatan,25,transportasi umum
+202205E1402246535,42,pengolahan industri,pegawai BUMN,senior manager,12103173,Jakarta Utara,21,motor
+202305B1301190727,33,Administasi dan manajemen,PNS,staff,5855087,Tangerang,8,mobil
+202305A1802852992,40,properti,wirausaha,leader,8014105,Bekasi,26,motor
+202205G1202279697,35,transportasi,karyawan swasta,manager,11258390,Jakarta Barat,28,mobil
+202405A1101349923,32,keuangan dan asuransi,pegawai BUMN,staff,5887743,Kabupaten Bekasi,43,motor
+202205E801236358,38,Administasi dan manajemen,karyawan swasta,spv,8600265,Tangerang Selatan,10,transportasi umum
+202405D2901241198,30,Administasi dan manajemen,pegawai BUMN,leader,7627742,Jakarta Pusat,17,motor
+202205D2501144382,32,perkebunan,karyawan swasta,leader,7753941,Tangerang Selatan,10,motor
+202205D2701175617,30,kesehatan,PNS,staff,4472481,Jakarta Utara,21,mobil
+202405G1401159917,37,Administasi dan manajemen,karyawan swasta,manager,11060818,Kabupaten Bekasi,43,mobil
+202405D1402221098,43,properti,PNS,direktur,27064148,Tangerang,8,transport umum
+202205B701776582,45,pendidikan,guru,senior manager,13465478,Kabupaten Bekasi,43,transport umum
+202205A1601283628,41,properti,karyawan swasta,direktur,20837726,Kab Tengerang,19,mobil
+202405C201742307,28,Administasi dan manajemen,pegawai BUMN,staff,5563994,Kabupaten Bekasi,43,mobil
+202205F1601256348,28,kesehatan,perawat,leader,7155666,Tangerang Selatan,10,mobil
+202205F1402314072,38,teknologi dan informasi,wirausaha,manager,10951753,Jakarta Pusat,17,transportasi umum
+202405F101738229,28,keuangan dan asuransi,pegawai BUMN,staff,6084404,Jakarta Pusat,17,transportasi umum
+202305D1502256196,27,keuangan dan asuransi,PNS,staff,6460009,Jakarta Utara,21,mobil
+202205F1501284189,25,hukum,pegawai BUMN,staff,4524109,Jakarta Utara,21,transport umum
+202205G801109789,42,kesehatan,perawat,senior manager,13839308,Jakarta Timur,37,transportasi umum
+202405G101900114,27,Administasi dan manajemen,PNS,staff,5145807,Kab Tengerang,19,motor
+202405E1501336632,30,keuangan dan asuransi,karyawan swasta,leader,7675255,Jakarta Barat,28,transport umum
+202305F401134483,34,keuangan dan asuransi,karyawan swasta,leader,7270084,Jakarta Barat,28,mobil
+202205D2801832921,29,teknologi dan informasi,pegawai BUMN,staff,4456955,Jakarta Timur,37,motor
+202205C501321139,25,perikanan dan peternakan,karyawan swasta,staff,5651590,Jakarta Utara,21,transportasi umum
+202405G301318301,25,Administasi dan manajemen,PNS,staff,4387253,Kab Tengerang,19,mobil
+202205E1001361193,32,Administasi dan manajemen,PNS,leader,7319872,Jakarta Barat,28,motor
+202205A1502216446,44,Administasi dan manajemen,karyawan swasta,senior manager,12657384,Tangerang Selatan,10,transport umum
+202205G602366386,29,teknologi dan informasi,PNS,staff,4720651,Bekasi,26,transportasi umum
+202205G201787901,34,keuangan dan asuransi,pegawai BUMN,staff,6362957,Kabupaten Bekasi,43,mobil
+202205G1601222543,39,Administasi dan manajemen,pegawai BUMN,manager,11768765,Tangerang,8,transportasi umum
+202205A1201200089,31,properti,wirausaha,staff,4482871,Jakarta Timur,37,mobil
+202205E1101186690,45,Administasi dan manajemen,PNS,direktur,15618579,Bekasi,26,motor
+202405B301740155,35,keuangan dan asuransi,wirausaha,leader,7814594,Kabupaten Bekasi,43,mobil
+202405B501315121,45,teknologi dan informasi,PNS,senior manager,14836240,Tangerang Selatan,10,mobil
+202405G1501196476,32,pengolahan industri,wirausaha,leader,8069168,Jakarta Barat,28,transport umum
+202205B1001253528,41,teknologi dan informasi,PNS,direktur,19319474,Jakarta Utara,21,mobil
+202205G1002295821,31,teknologi dan informasi,wirausaha,staff,5915525,Tangerang,8,transportasi umum
+202205G402280480,41,perdagangan umum,wirausaha,senior manager,12777424,Tangerang Selatan,10,motor
+202205D601850713,35,konstruksi,wirausaha,spv,10191738,Kab Tengerang,19,transportasi umum
+202305D1701234031,26,keuangan dan asuransi,PNS,staff,4816963,Bekasi,26,transportasi umum
+202305B1501329570,38,konstruksi,pegawai BUMN,manager,11847949,Tangerang Selatan,10,motor
+202405E501623818,37,perdagangan umum,wirausaha,leader,7783621,Tangerang,8,mobil
+202205D1101531840,28,perdagangan umum,karyawan swasta,staff,5853166,Jakarta Barat,28,mobil
+202405E401207239,31,Administasi dan manajemen,karyawan swasta,staff,4743754,Jakarta Timur,37,transportasi umum
+202205D1901102592,27,hukum,PNS,leader,7786817,Bekasi,26,mobil
+202305A401283221,33,kesehatan,pegawai BUMN,staff,6591343,Jakarta Utara,21,transport umum
+202205A301113441,44,perikanan dan peternakan,karyawan swasta,senior manager,12463775,Jakarta Utara,21,transportasi umum
+202205E901197032,29,keuangan dan asuransi,pegawai BUMN,leader,6921376,Jakarta Selatan,25,transportasi umum
+202405C302446920,39,Administasi dan manajemen,PNS,manager,10844701,Jakarta Pusat,17,transportasi umum
+202405C701140964,36,properti,PNS,manager,11653217,Tangerang Selatan,10,mobil
+202205F301332759,28,keuangan dan asuransi,pegawai BUMN,staff,4468434,Bekasi,26,motor
+202205B801111631,32,pengolahan industri,pegawai BUMN,staff,5697536,Kab Tengerang,19,transportasi umum
+202205A1701526396,44,teknologi dan informasi,PNS,senior manager,13593512,Jakarta Barat,28,transport umum
+202305A101308240,41,teknologi dan informasi,wirausaha,direktur,17262564,Jakarta Selatan,25,motor
+202405E202112760,27,perikanan dan peternakan,PNS,leader,6736081,Jakarta Timur,37,mobil
+202205E1701140408,41,logistik,wirausaha,direktur,24280927,Kab Tengerang,19,transport umum
+202205D1001560152,31,"pertambangan, minyak, dan gas",karyawan swasta,leader,7532611,Jakarta Utara,21,transportasi umum
+202405G1701145656,28,pengolahan industri,karyawan swasta,staff,5734233,Bekasi,26,transport umum
+202305D1601150735,44,properti,wirausaha,direktur,18916075,Bekasi,26,mobil
+202405A802133750,44,hukum,pegawai BUMN,direktur,27894481,Tangerang Selatan,10,transport umum
+202405D2002141807,26,Administasi dan manajemen,karyawan swasta,staff,5330314,Jakarta Barat,28,mobil
+202405F901292073,35,Administasi dan manajemen,karyawan swasta,leader,6884213,Jakarta Timur,37,transport umum
+202405D2302117470,34,teknologi dan informasi,wirausaha,leader,7142568,Tangerang Selatan,10,transportasi umum
+202205D301288532,39,hukum,karyawan swasta,leader,7609307,Jakarta Utara,21,mobil
+202205C1001480756,26,teknologi dan informasi,PNS,leader,8231878,Bekasi,26,mobil
+202405A501461539,44,otomotif,karyawan swasta,senior manager,12947605,Jakarta Timur,37,transportasi umum
+202205D2101461062,39,transportasi,wirausaha,manager,11987118,Jakarta Timur,37,motor
+202305F201111697,45,teknologi dan informasi,karyawan swasta,direktur,25296607,Jakarta Timur,37,transportasi umum
+202205F1301207251,45,keuangan dan asuransi,pegawai BUMN,direktur,17834350,Bekasi,26,mobil
+202405C1401265608,29,teknologi dan informasi,PNS,leader,7542999,Kab Tengerang,19,mobil
+202305B1402169207,29,pendidikan,guru,staff,5099583,Bekasi,26,mobil
+202405G1802152074,27,teknologi dan informasi,wirausaha,leader,8284266,Jakarta Pusat,17,mobil
+202305A601188975,39,teknologi dan informasi,wirausaha,manager,11146936,Tangerang,8,mobil
+202205B201199793,39,Administasi dan manajemen,pegawai BUMN,leader,7561888,Jakarta Barat,28,transportasi umum
+202405B1601121577,45,Administasi dan manajemen,karyawan swasta,senior manager,15450691,Jakarta Timur,37,motor
+202305G901277825,31,keuangan dan asuransi,wirausaha,leader,7144905,Jakarta Pusat,17,transport umum
+202305G701174259,30,properti,karyawan swasta,staff,4937825,Jakarta Barat,28,mobil
+202305E2001336624,36,Administasi dan manajemen,karyawan swasta,leader,7331610,Jakarta Pusat,17,transport umum
+202305C101495013,45,teknologi dan informasi,karyawan swasta,direktur,16389957,Bekasi,26,transportasi umum
+202205F802178239,34,Administasi dan manajemen,PNS,staff,4765585,Kab Tengerang,19,motor
+202405F501327312,35,Administasi dan manajemen,PNS,manager,10762629,Kab Tengerang,19,motor
+202305C1101330232,28,Administasi dan manajemen,karyawan swasta,leader,7229944,Jakarta Barat,28,mobil
+202305C601277661,36,"pertambangan, minyak, dan gas",karyawan swasta,spv,9834217,Tangerang,8,mobil
+202405C401119285,44,hukum,karyawan swasta,senior manager,12879301,Tangerang Selatan,10,motor
+202205A901273746,27,keuangan dan asuransi,pegawai BUMN,leader,8278468,Kab Tengerang,19,motor
+202405F602312162,38,keuangan dan asuransi,wirausaha,spv,9484822,Jakarta Selatan,25,transportasi umum
+202205D701240051,27,Administasi dan manajemen,karyawan swasta,staff,5620709,Tangerang Selatan,10,transport umum
+202305D1801316217,27,perdagangan umum,karyawan swasta,staff,4954953,Jakarta Selatan,25,motor
+202405B1701321590,44,keuangan dan asuransi,pegawai BUMN,senior manager,13546685,Bekasi,26,mobil
+202305D902220197,25,keuangan dan asuransi,karyawan swasta,leader,8307984,Kab Tengerang,19,transport umum
+202205B1201263787,25,teknologi dan informasi,pegawai BUMN,leader,7391887,Jakarta Timur,37,transport umum
+202405C1301493744,30,keuangan dan asuransi,pegawai BUMN,staff,5142494,Jakarta Selatan,25,transport umum
+202405A1001116809,30,keuangan dan asuransi,wirausaha,staff,5623497,Kab Tengerang,19,transportasi umum
+202405F1702232944,44,Administasi dan manajemen,karyawan swasta,senior manager,13041306,Jakarta Barat,28,motor
+202205B601145862,28,teknologi dan informasi,pegawai BUMN,leader,7757707,Tangerang,8,transportasi umum
+202205C901167922,27,teknologi dan informasi,pegawai BUMN,leader,7899084,Tangerang,8,mobil
+202305E301366610,34,Administasi dan manajemen,PNS,leader,8483389,Jakarta Utara,21,transport umum
+202205D801632854,35,teknologi dan informasi,wirausaha,manager,11801547,Jakarta Pusat,17,transportasi umum
+202305D1201575549,37,Administasi dan manajemen,karyawan swasta,spv,9311520,Tangerang Selatan,10,transport umum
+202305A1401246523,29,keuangan dan asuransi,wirausaha,staff,5096144,Kab Tengerang,19,mobil
+202405A1301163228,38,teknologi dan informasi,wirausaha,spv,10281598,Kabupaten Bekasi,43,transport umum
+202405F1001240087,35,konstruksi,PNS,spv,9457780,Jakarta Selatan,25,motor
+202205D2202159875,32,hukum,pegawai BUMN,leader,7210025,Jakarta Utara,21,mobil
+202405B1101324358,27,transportasi,wirausaha,staff,4248384,Kabupaten Bekasi,43,transport umum
+202305E701166824,44,pengolahan industri,karyawan swasta,direktur,30638985,Bekasi,26,motor
+202205B401648434,28,teknologi dan informasi,pegawai BUMN,leader,7845902,Kabupaten Bekasi,43,transportasi umum
+202205D201232212,43,keuangan dan asuransi,pegawai BUMN,direktur,24534200,Jakarta Timur,37,mobil
+202205C1201237014,29,pendidikan,karyawan swasta,leader,7488242,Jakarta Pusat,17,transport umum
+202405D101234747,32,otomotif,wirausaha,staff,6470024,Jakarta Utara,21,transportasi umum
+202405F701297344,36,Administasi dan manajemen,PNS,manager,11862120,Jakarta Pusat,17,transport umum
+202205G501188148,39,teknologi dan informasi,wirausaha,spv,9400100,Jakarta Utara,21,motor
+202205E1201125278,40,teknologi dan informasi,pegawai BUMN,manager,11635755,Kabupaten Bekasi,43,mobil
+202305A2001271174,36,keuangan dan asuransi,karyawan swasta,manager,10904822,Jakarta Selatan,25,mobil
+202405D502112396,38,pengolahan industri,karyawan swasta,spv,8663284,Tangerang,8,transportasi umum
+202405B1801142744,29,properti,karyawan swasta,staff,5196626,Jakarta Utara,21,motor
+202405A201105583,30,logistik,karyawan swasta,staff,6490844,Jakarta Barat,28,transport umum
+202205B901102355,26,perdagangan umum,wirausaha,leader,7048011,Bekasi,26,transportasi umum
+202405D401187664,37,pengolahan industri,pegawai BUMN,leader,7587210,Jakarta Pusat,17,mobil
+202206C202130077,31,teknologi dan informasi,pegawai BUMN,staff,6107716,Kab Tengerang,19,transport umum
+202206D2901210426,28,transportasi,karyawan swasta,leader,8001139,Jakarta Timur,37,mobil
+202206E1702128836,28,"pertambangan, minyak, dan gas",pegawai BUMN,leader,8255955,Kab Tengerang,19,transportasi umum
+202206E901169493,31,"pertambangan, minyak, dan gas",karyawan swasta,leader,6675577,Kab Tengerang,19,mobil
+202406A201144730,35,transportasi,pegawai BUMN,spv,10423499,Jakarta Utara,21,mobil
+202306A601106544,30,Administasi dan manajemen,karyawan swasta,leader,6627949,Jakarta Pusat,17,mobil
+202306A501336471,30,keuangan dan asuransi,karyawan swasta,leader,8012834,Jakarta Barat,28,mobil
+202206D702780727,26,pengolahan industri,pegawai BUMN,staff,4061537,Jakarta Selatan,25,transport umum
+202206C101559067,42,teknologi dan informasi,wirausaha,senior manager,14593327,Bekasi,26,mobil
+202406E602319818,28,keuangan dan asuransi,pegawai BUMN,leader,7389612,Bekasi,26,transportasi umum
+202206B901124420,41,konstruksi,karyawan swasta,senior manager,12068346,Tangerang,8,motor
+202406E1601259473,36,teknologi dan informasi,karyawan swasta,spv,9738474,Jakarta Selatan,25,mobil
+202206A1501283043,26,pengolahan industri,pegawai BUMN,staff,6305591,Jakarta Utara,21,motor
+202306D1001176872,45,keuangan dan asuransi,karyawan swasta,direktur,15734338,Jakarta Selatan,25,mobil
+202206A1102254803,41,perdagangan umum,karyawan swasta,senior manager,14725221,Tangerang,8,transport umum
+202406E1301239003,31,properti,wirausaha,staff,5915473,Tangerang,8,transportasi umum
+202206B401226126,28,pengolahan industri,wirausaha,staff,4316892,Kabupaten Bekasi,43,transport umum
+202406F801229024,25,keuangan dan asuransi,karyawan swasta,leader,6941677,Jakarta Pusat,17,transportasi umum
+202406D2702336165,26,keuangan dan asuransi,PNS,staff,5792595,Jakarta Utara,21,motor
+202406E1801595594,41,logistik,wirausaha,direktur,30759074,Tangerang Selatan,10,mobil
+202406D1801201195,29,keuangan dan asuransi,PNS,staff,6319948,Bekasi,26,transport umum
+202406D1501233222,36,teknologi dan informasi,pegawai BUMN,leader,7995894,Jakarta Timur,37,transportasi umum
+202406E1401186634,28,"aktifitas profesional, ilmiah, dan teknis",wirausaha,leader,7414374,Bekasi,26,mobil
+202306B1101122700,26,Administasi dan manajemen,PNS,leader,8046825,Tangerang,8,motor
+202306C801324025,41,kesehatan,dokter,senior manager,13038154,Kab Tengerang,19,motor
+202206A701138450,30,Administasi dan manajemen,PNS,leader,7773731,Jakarta Timur,37,transport umum
+202406D1301203708,39,Administasi dan manajemen,PNS,spv,9594452,Jakarta Selatan,25,mobil
+202206F1201303738,38,keuangan dan asuransi,karyawan swasta,spv,9358074,Jakarta Timur,37,mobil
+202206D1201923432,35,Administasi dan manajemen,karyawan swasta,leader,8220750,Jakarta Barat,28,mobil
+202406E1901234715,36,kesehatan,perawat,spv,10063639,Jakarta Timur,37,motor
+202406A301778260,37,properti,wirausaha,manager,10667996,Tangerang,8,transportasi umum
+202306D2001184176,28,perdagangan umum,wirausaha,leader,7317153,Tangerang,8,transport umum
+202406E102237069,25,hukum,karyawan swasta,leader,8295489,Bekasi,26,mobil
+202206E1502287930,38,teknologi dan informasi,wirausaha,manager,11403291,Tangerang,8,mobil
+202406C501192063,38,Administasi dan manajemen,pegawai BUMN,leader,8161311,Jakarta Timur,37,motor
+202206E201339961,37,properti,wirausaha,manager,11127623,Tangerang,8,transportasi umum
+202206C401350998,41,teknologi dan informasi,PNS,direktur,26225437,Tangerang Selatan,10,transport umum
+202206D801254703,37,Administasi dan manajemen,PNS,spv,10467541,Tangerang,8,mobil
+202206E701171270,25,properti,karyawan swasta,leader,7445885,Kab Tengerang,19,motor
+202206D501839185,39,Administasi dan manajemen,karyawan swasta,spv,9816903,Jakarta Selatan,25,transportasi umum
+202206A802223259,44,teknologi dan informasi,karyawan swasta,direktur,42795691,Tangerang Selatan,10,motor
+202406B1701679487,43,keuangan dan asuransi,PNS,direktur,24996963,Tangerang Selatan,10,transport umum
+202206D2601316002,45,Administasi dan manajemen,PNS,direktur,44158505,Bekasi,26,motor
+202406A1201167551,43,properti,wirausaha,direktur,38766545,Jakarta Timur,37,mobil
+202406C901313408,34,teknologi dan informasi,pegawai BUMN,leader,8440512,Jakarta Utara,21,transportasi umum
+202206A1301465933,42,otomotif,wirausaha,senior manager,13260213,Bekasi,26,motor
+202206D2302190663,25,teknologi dan informasi,karyawan swasta,staff,5723577,Jakarta Barat,28,motor
+202206A901269732,39,logistik,wirausaha,manager,11427400,Tangerang Selatan,10,transportasi umum
+202406A2001143554,39,hukum,pengacara,leader,7424569,Jakarta Barat,28,transport umum
+202206F901264793,25,perdagangan umum,pegawai BUMN,leader,7190310,Tangerang,8,motor
+202206F1102132096,44,pendidikan,guru,direktur,32899999,Tangerang Selatan,10,mobil
+202406E1201136649,34,properti,karyawan swasta,staff,4536406,Jakarta Pusat,17,transport umum
+202206B1502254951,25,keuangan dan asuransi,karyawan swasta,leader,6894594,Kabupaten Bekasi,43,motor
+202206D1101114395,40,keuangan dan asuransi,pegawai BUMN,manager,10815399,Jakarta Pusat,17,mobil
+202406E2101215629,44,pengolahan industri,wirausaha,senior manager,14954809,Jakarta Selatan,25,transport umum
+202306E1101201702,28,logistik,karyawan swasta,leader,6671776,Jakarta Pusat,17,transportasi umum
+202206B1302154200,29,Administasi dan manajemen,pegawai BUMN,leader,7330313,Bekasi,26,motor
+202306E1001202558,41,Administasi dan manajemen,karyawan swasta,direktur,16822272,Tangerang,8,transportasi umum
+202406A1701251650,37,teknologi dan informasi,PNS,spv,9439987,Bekasi,26,transportasi umum
+202206A1601925302,44,properti,karyawan swasta,senior manager,14893797,Jakarta Pusat,17,transport umum
+202206E2001801822,31,teknologi dan informasi,pegawai BUMN,staff,5519755,Tangerang,8,motor
+202406C1401172450,39,media,karyawan swasta,leader,6984848,Kab Tengerang,19,transport umum
+202406D2501255607,29,Administasi dan manajemen,karyawan swasta,staff,5357239,Jakarta Barat,28,mobil
+202206D102117970,34,keuangan dan asuransi,karyawan swasta,staff,4057512,Bekasi,26,transport umum
+202406B1201104445,38,hukum,PNS,leader,7074706,Kab Tengerang,19,motor
+202306F301272813,44,keuangan dan asuransi,karyawan swasta,senior manager,13803368,Jakarta Pusat,17,transportasi umum
+202206D1601169629,35,Administasi dan manajemen,pegawai BUMN,manager,11642460,Jakarta Pusat,17,transport umum
+202306C1201110502,30,perikanan dan peternakan,wirausaha,staff,5300457,Bekasi,26,transport umum
+202406F502120811,44,teknologi dan informasi,pegawai BUMN,direktur,33322526,Jakarta Pusat,17,mobil
+202206B801308195,34,keuangan dan asuransi,pegawai BUMN,staff,6488285,Jakarta Timur,37,transport umum
+202406F1001214014,29,Administasi dan manajemen,karyawan swasta,staff,6074686,Jakarta Barat,28,transportasi umum
+202206B601226954,30,keuangan dan asuransi,karyawan swasta,leader,7921518,Tangerang,8,transport umum
+202406B501144336,31,teknologi dan informasi,PNS,leader,6955374,Jakarta Timur,37,mobil
+202206F101329788,35,otomotif,karyawan swasta,manager,11040817,Jakarta Timur,37,mobil
+202206A1401338695,45,pengolahan industri,wirausaha,senior manager,15460869,Jakarta Selatan,25,transport umum
+202206B201218297,30,hukum,pegawai BUMN,leader,7955205,Tangerang Selatan,10,transport umum
+202406D201148732,30,keuangan dan asuransi,pegawai BUMN,staff,4305622,Kab Tengerang,19,mobil
+202206F1302338233,31,teknologi dan informasi,pegawai BUMN,staff,4472050,Jakarta Timur,37,transportasi umum
+202406A1901177085,39,Administasi dan manajemen,karyawan swasta,manager,11583308,Kabupaten Bekasi,43,transportasi umum
+202306C302955398,28,Administasi dan manajemen,PNS,staff,6529039,Kab Tengerang,19,transportasi umum
+202206E801280652,30,otomotif,karyawan swasta,leader,7043309,Jakarta Pusat,17,transportasi umum
+202406D2801403533,40,perdagangan umum,karyawan swasta,leader,8244007,Bekasi,26,transport umum
+202406F401113300,33,keuangan dan asuransi,PNS,leader,7273700,Tangerang Selatan,10,transport umum
+202206C701571492,40,"pertambangan, minyak, dan gas",pegawai BUMN,spv,9850610,Tangerang Selatan,10,transportasi umum
+202206C1001297572,45,transportasi,pegawai BUMN,senior manager,13650169,Bekasi,26,motor
+202306B1601181587,25,Administasi dan manajemen,karyawan swasta,staff,4117141,Jakarta Pusat,17,transport umum
+202306C1101653287,27,logistik,wirausaha,leader,7145645,Bekasi,26,mobil
+202306D2201203796,25,teknologi dan informasi,karyawan swasta,staff,4783739,Tangerang,8,transport umum
+202206D901196388,38,hukum,PNS,spv,9623256,Jakarta Pusat,17,transport umum
+202406A1801210953,42,teknologi dan informasi,karyawan swasta,direktur,49003620,Tangerang,8,mobil
+202306D301735124,35,kesehatan,PNS,spv,10017420,Tangerang,8,motor
+202406D1901170712,45,teknologi dan informasi,wirausaha,senior manager,12648093,Kab Tengerang,19,transportasi umum
+202206D2401226968,32,Administasi dan manajemen,karyawan swasta,staff,5780799,Jakarta Barat,28,mobil
+202206B301294309,29,teknologi dan informasi,pegawai BUMN,leader,7721520,Jakarta Utara,21,motor
+202206E401708348,26,pendidikan,karyawan swasta,leader,7660089,Jakarta Utara,21,transport umum
+202206D601191240,26,konstruksi,wirausaha,staff,4089684,Jakarta Selatan,25,transportasi umum
+202206F201195965,34,keuangan dan asuransi,PNS,staff,5441597,Jakarta Selatan,25,transportasi umum
+202206B1801196806,36,teknologi dan informasi,wirausaha,manager,11577161,Kabupaten Bekasi,43,motor
+202206B1001110151,27,Administasi dan manajemen,karyawan swasta,leader,7267273,Kabupaten Bekasi,43,mobil
+202206E501337440,42,properti,PNS,direktur,24102639,Tangerang,8,mobil
+202406F601263064,44,teknologi dan informasi,pegawai BUMN,direktur,48113731,Jakarta Selatan,25,transport umum
+202306D401115813,45,keuangan dan asuransi,pegawai BUMN,senior manager,15444662,Bekasi,26,motor
+202406B101897168,29,kesehatan,PNS,leader,7384996,Jakarta Selatan,25,mobil
+202406D1701301372,31,properti,PNS,leader,6802682,Tangerang Selatan,10,mobil
+202406D2101241196,25,Administasi dan manajemen,pegawai BUMN,leader,7214166,Jakarta Selatan,25,motor
+202206F1702240926,40,konstruksi,PNS,spv,10302855,Bekasi,26,transportasi umum
+202406F1401144992,32,teknologi dan informasi,pegawai BUMN,leader,8222904,Jakarta Barat,28,transport umum
+202206E301202951,31,transportasi,wirausaha,staff,4437645,Jakarta Timur,37,transport umum
+202206C1301284351,37,Administasi dan manajemen,karyawan swasta,spv,8609087,Jakarta Barat,28,motor
+202406A401298954,45,perdagangan umum,wirausaha,senior manager,14704446,Kabupaten Bekasi,43,transport umum
+202306F701120139,30,keuangan dan asuransi,karyawan swasta,staff,4814979,Kabupaten Bekasi,43,transportasi umum
+202406A102244727,38,pengolahan industri,pegawai BUMN,leader,7744332,Jakarta Barat,28,motor
+202306F1601599036,41,pendidikan,karyawan swasta,direktur,30531893,Tangerang Selatan,10,mobil
+202206B701220346,45,Administasi dan manajemen,PNS,senior manager,12959632,Jakarta Selatan,25,transportasi umum
+202306C601771793,35,pengolahan industri,karyawan swasta,spv,10072895,Jakarta Barat,28,mobil
+202206F1501125594,44,hukum,karyawan swasta,direktur,31113351,Jakarta Selatan,25,transportasi umum
+202306A1001204032,25,perdagangan umum,wirausaha,leader,6760049,Tangerang Selatan,10,transport umum
+202206B1401296048,27,pengolahan industri,wirausaha,leader,8480934,Tangerang,8,mobil
+202306D1402203158,40,Administasi dan manajemen,pegawai BUMN,spv,9205854,Bekasi,26,mobil
