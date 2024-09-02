@@ -1,0 +1,16 @@
+name_merchant,merchant_id,merchant_group,dist_ancol,dist_kemayoran,dist_darmawangsa,dist_menteng,dist_senayan,dist_thamrin,count,rating
+Indomaret,00,grocery,1.3,0.8,1.2,0.8,1.8,0.3,1,3.0
+Alfamart,01,grocery,1.3,1.0,1.5,0.6,1.3,0.8,5,1.8
+Idolmart,02,grocery,1.2,1.5,1.4,0.3,1.4,0.2,5,3.4
+Superindo,03,grocery,1.4,0.9,1.2,0.8,1.2,0.4,14,3.5
+Mixue,04,fnb,0.9,0.5,1.2,0.4,1.1,0.6,3,3.0
+Haus,05,fnb,0.6,0.7,1.8,0.8,1.9,0.9,4,2.25
+Mie Gacoan,06,fnb,1.2,1.6,0.7,0.3,0.8,0.6,7,3.0
+Sederhana,07,fnb,0.3,1.6,1.8,0.9,1.1,0.2,2,2.5
+Fore Coffee,08,fnb,0.5,1.1,1.3,0.6,1.3,0.4,9,4.3
+Kopi Kenangan,09,fnb,1.1,0.8,1.6,0.6,1.2,0.5,11,3.6
+Ceria,10,laundry,0.5,1.1,1.4,0.9,0.9,1.1,6,3.7
+Si Bersih,11,laundry,1.0,0.9,0.8,0.5,1.9,0.2,4,2.0
+Miniso,12,retail,0.8,1.5,1.7,0.6,1.7,0.9,5,3.0
+Nice So,13,retail,1.3,1.2,1.3,0.7,1.8,0.9,4,2.5
+Intermedia,14,retail,0.6,1.1,0.8,0.6,1.8,1.1,6,3.0

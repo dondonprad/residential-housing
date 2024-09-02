@@ -1,0 +1,151 @@
+merchant_name,category,rating,review,date,sentiment
+grocery 89,grocery,3,"makanan dan minumannya sangat baik, dimohon untuk makanan dan minumannya ditingkatkan lagi.",2023-08-22,positive
+grocery 356,grocery,3, pelayanan baik.,2023-02-02,positive
+grocery 397,grocery,5,Saya mengalami pengalaman sangat baik secara keseluruhan.,2023-01-03,positive
+grocery 455,grocery,2,"pelayanannya buruk, dimohon untuk pelayanannya ditingkatkan lagi.",2023-02-28,negative
+grocery 944,grocery,5, pelayanan baik.,2023-12-31,positive
+grocery 427,grocery,2,"barangnya sangat buruk, dimohon untuk barangnya ditingkatkan lagi.",2023-10-22,negative
+grocery 51,grocery,5,"suasananya buruk, dimohon untuk suasananya ditingkatkan lagi.",2023-04-05,negative
+grocery 514,grocery,1,"pelayanannya buruk, dimohon untuk pelayanannya ditingkatkan lagi.",2023-07-28,negative
+grocery 325,grocery,4,Saya mengalami pengalaman sangat buruk secara keseluruhan.,2023-04-24,negative
+grocery 164,grocery,4,"pelayanannya buruk, dimohon untuk pelayanannya ditingkatkan lagi.",2023-07-26,negative
+grocery 640,grocery,4, barang sangat buruk.,2023-07-08,negative
+grocery 261,grocery,4, suasana buruk.,2023-08-10,negative
+grocery 399,grocery,5,Saya mengalami pengalaman sangat baik secara keseluruhan.,2023-02-07,positive
+grocery 488,grocery,2,Saya mengalami pengalaman sangat baik secara keseluruhan.,2023-10-01,positive
+grocery 497,grocery,2,Saya mengalami pengalaman buruk secara keseluruhan.,2023-07-12,negative
+grocery 300,grocery,4, barang sangat baik.,2023-10-22,positive
+grocery 115,grocery,1, pelayanan sangat buruk.,2023-07-18,negative
+grocery 845,grocery,2, barang sangat buruk.,2023-07-19,negative
+grocery 365,grocery,4,"pelayanannya sangat buruk, dimohon untuk pelayanannya ditingkatkan lagi.",2023-10-24,negative
+grocery 90,grocery,2, barang buruk.,2023-07-09,negative
+grocery 707,grocery,2,"makanan dan minumannya baik, dimohon untuk makanan dan minumannya ditingkatkan lagi.",2023-09-10,positive
+grocery 546,grocery,2,"makanan dan minumannya buruk, dimohon untuk makanan dan minumannya ditingkatkan lagi.",2023-10-20,negative
+grocery 800,grocery,3, barang buruk.,2023-10-11,negative
+grocery 470,grocery,3, suasana baik.,2023-08-17,positive
+grocery 687,grocery,1,"makanan dan minumannya baik, dimohon untuk makanan dan minumannya ditingkatkan lagi.",2023-11-16,positive
+grocery 950,grocery,4,"suasananya buruk, dimohon untuk suasananya ditingkatkan lagi.",2023-09-16,negative
+grocery 904,grocery,2,"suasananya baik, dimohon untuk suasananya ditingkatkan lagi.",2023-06-08,positive
+grocery 592,grocery,3,"makanan dan minumannya baik, dimohon untuk makanan dan minumannya ditingkatkan lagi.",2023-12-15,positive
+grocery 381,grocery,1,Saya mengalami pengalaman buruk secara keseluruhan.,2023-06-29,negative
+grocery 915,grocery,4,Saya mengalami pengalaman buruk secara keseluruhan.,2023-03-19,negative
+grocery 579,grocery,2,Saya mengalami pengalaman sangat buruk secara keseluruhan.,2023-03-06,negative
+grocery 489,grocery,3, pelayanan sangat baik.,2023-08-13,positive
+grocery 152,grocery,1,"makanan dan minumannya baik, dimohon untuk makanan dan minumannya ditingkatkan lagi.",2023-09-27,positive
+grocery 75,grocery,3,"pelayanannya sangat baik, dimohon untuk pelayanannya ditingkatkan lagi.",2023-09-22,positive
+grocery 255,grocery,4,"suasananya sangat buruk, dimohon untuk suasananya ditingkatkan lagi.",2023-06-22,negative
+grocery 212,grocery,1,"barangnya sangat baik, dimohon untuk barangnya ditingkatkan lagi.",2023-08-15,positive
+grocery 25,grocery,1, pelayanan baik.,2023-07-03,positive
+grocery 685,grocery,1,Saya mengalami pengalaman sangat baik secara keseluruhan.,2023-02-07,positive
+grocery 547,grocery,2, pelayanan baik.,2023-08-19,positive
+grocery 984,grocery,5,"barangnya buruk, dimohon untuk barangnya ditingkatkan lagi.",2023-05-14,negative
+fnb 146,fnb,5,"penyajiannya baik, dimohon untuk penyajiannya ditingkatkan lagi.",2023-06-17,positive
+fnb 342,fnb,5, makanan dan minuman sangat buruk.,2023-01-31,negative
+fnb 681,fnb,2,"penyajiannya sangat baik, dimohon untuk penyajiannya ditingkatkan lagi.",2023-09-22,positive
+fnb 209,fnb,2,"suasananya buruk, dimohon untuk suasananya ditingkatkan lagi.",2023-11-27,negative
+fnb 903,fnb,4, harga buruk.,2023-10-19,negative
+fnb 192,fnb,4,"harganya sangat baik, dimohon untuk harganya ditingkatkan lagi.",2023-04-12,positive
+fnb 418,fnb,1,"penyajiannya buruk, dimohon untuk penyajiannya ditingkatkan lagi.",2023-11-18,negative
+fnb 249,fnb,5,"suasananya buruk, dimohon untuk suasananya ditingkatkan lagi.",2023-07-21,negative
+fnb 647,fnb,3,"penyajiannya sangat buruk, dimohon untuk penyajiannya ditingkatkan lagi.",2023-10-26,negative
+fnb 141,fnb,1, penyajian buruk.,2023-11-01,negative
+fnb 196,fnb,2,"penyajiannya sangat buruk, dimohon untuk penyajiannya ditingkatkan lagi.",2023-11-18,negative
+fnb 151,fnb,2,Saya mengalami pengalaman baik secara keseluruhan.,2023-03-19,positive
+fnb 567,fnb,3, makanan dan minuman buruk.,2023-10-28,negative
+fnb 421,fnb,4,"suasananya baik, dimohon untuk suasananya ditingkatkan lagi.",2023-02-26,positive
+fnb 929,fnb,2,Saya mengalami pengalaman baik secara keseluruhan.,2023-01-16,positive
+fnb 349,fnb,4,Saya mengalami pengalaman buruk secara keseluruhan.,2023-10-16,negative
+fnb 355,fnb,1, suasana buruk.,2023-03-15,negative
+fnb 468,fnb,3,Saya mengalami pengalaman sangat buruk secara keseluruhan.,2023-01-04,negative
+fnb 147,fnb,5, suasana buruk.,2023-07-30,negative
+fnb 10,fnb,1, harga sangat baik.,2023-05-03,positive
+fnb 365,fnb,3,Saya mengalami pengalaman sangat baik secara keseluruhan.,2023-04-19,positive
+fnb 715,fnb,1,"penyajiannya sangat buruk, dimohon untuk penyajiannya ditingkatkan lagi.",2023-10-12,negative
+fnb 555,fnb,5, suasana baik.,2023-01-02,positive
+fnb 518,fnb,4,Saya mengalami pengalaman sangat baik secara keseluruhan.,2023-10-31,positive
+fnb 223,fnb,3,"penyajiannya sangat buruk, dimohon untuk penyajiannya ditingkatkan lagi.",2023-08-11,negative
+fnb 657,fnb,4,Saya mengalami pengalaman baik secara keseluruhan.,2023-11-01,positive
+fnb 741,fnb,3, suasana baik.,2023-04-19,positive
+fnb 348,fnb,2,Saya mengalami pengalaman sangat baik secara keseluruhan.,2023-05-01,positive
+fnb 762,fnb,5, harga sangat baik.,2023-03-14,positive
+fnb 820,fnb,4, harga sangat baik.,2023-01-25,positive
+fnb 621,fnb,1,"harganya sangat buruk, dimohon untuk harganya ditingkatkan lagi.",2023-10-04,negative
+fnb 92,fnb,2, harga sangat baik.,2023-04-19,positive
+fnb 833,fnb,2,Saya mengalami pengalaman baik secara keseluruhan.,2023-10-17,positive
+fnb 786,fnb,3,Saya mengalami pengalaman baik secara keseluruhan.,2023-12-02,positive
+fnb 890,fnb,3, suasana sangat buruk.,2023-03-03,negative
+fnb 760,fnb,5,"harganya sangat buruk, dimohon untuk harganya ditingkatkan lagi.",2023-10-08,negative
+fnb 84,fnb,1,"suasananya sangat baik, dimohon untuk suasananya ditingkatkan lagi.",2023-01-12,positive
+fnb 627,fnb,2,"penyajiannya sangat baik, dimohon untuk penyajiannya ditingkatkan lagi.",2023-08-31,positive
+fnb 186,fnb,5,Saya mengalami pengalaman buruk secara keseluruhan.,2023-07-07,negative
+fnb 861,fnb,2,"harganya sangat baik, dimohon untuk harganya ditingkatkan lagi.",2023-03-10,positive
+fnb 606,fnb,3, harga buruk.,2023-01-15,negative
+fnb 907,fnb,5,"harganya baik, dimohon untuk harganya ditingkatkan lagi.",2023-08-30,positive
+fnb 453,fnb,2,Saya mengalami pengalaman buruk secara keseluruhan.,2023-03-24,negative
+fnb 999,fnb,2, suasana sangat baik.,2023-07-13,positive
+fnb 164,fnb,2, harga buruk.,2023-06-04,negative
+fnb 79,fnb,5,"suasananya sangat buruk, dimohon untuk suasananya ditingkatkan lagi.",2023-03-23,negative
+fnb 182,fnb,2,Saya mengalami pengalaman buruk secara keseluruhan.,2023-10-18,negative
+fnb 292,fnb,3,Saya mengalami pengalaman buruk secara keseluruhan.,2023-06-09,negative
+fnb 717,fnb,4, penyajian sangat buruk.,2023-01-15,negative
+fnb 565,fnb,2,"penyajiannya baik, dimohon untuk penyajiannya ditingkatkan lagi.",2023-08-25,positive
+fnb 475,fnb,2,"penyajiannya sangat buruk, dimohon untuk penyajiannya ditingkatkan lagi.",2023-09-14,negative
+fnb 920,fnb,1,"suasananya sangat buruk, dimohon untuk suasananya ditingkatkan lagi.",2023-08-03,negative
+fnb 985,fnb,2, suasana buruk.,2023-09-11,negative
+fnb 351,fnb,4,"suasananya baik, dimohon untuk suasananya ditingkatkan lagi.",2023-01-30,positive
+fnb 285,fnb,5, suasana baik.,2023-04-28,positive
+fnb 178,fnb,2, suasana baik.,2023-09-22,positive
+fnb 715,fnb,1, harga buruk.,2023-03-30,negative
+fnb 904,fnb,5,"suasananya buruk, dimohon untuk suasananya ditingkatkan lagi.",2023-09-07,negative
+fnb 647,fnb,2, suasana buruk.,2023-08-11,negative
+fnb 195,fnb,2,Saya mengalami pengalaman sangat baik secara keseluruhan.,2023-01-21,positive
+laundry 582,laundry,5, suasana buruk.,2023-10-21,negative
+laundry 161,laundry,3,"harganya sangat baik, dimohon untuk harganya ditingkatkan lagi.",2023-03-26,positive
+laundry 936,laundry,2, harga buruk.,2023-10-03,negative
+laundry 148,laundry,5, suasana baik.,2023-06-30,positive
+laundry 603,laundry,1,Saya mengalami pengalaman buruk secara keseluruhan.,2023-06-18,negative
+laundry 99,laundry,5, harga sangat buruk.,2023-01-06,negative
+laundry 106,laundry,5, penyajian sangat baik.,2023-01-08,positive
+laundry 279,laundry,4,"harganya sangat buruk, dimohon untuk harganya ditingkatkan lagi.",2023-06-17,negative
+laundry 399,laundry,3,"penyajiannya sangat baik, dimohon untuk penyajiannya ditingkatkan lagi.",2023-11-23,positive
+laundry 810,laundry,5, penyajian sangat buruk.,2023-04-28,negative
+laundry 278,laundry,3, suasana sangat baik.,2023-07-12,positive
+laundry 188,laundry,5,"harganya sangat buruk, dimohon untuk harganya ditingkatkan lagi.",2023-11-09,negative
+laundry 484,laundry,2,"suasananya sangat baik, dimohon untuk suasananya ditingkatkan lagi.",2023-05-14,positive
+laundry 840,laundry,2, penyajian sangat buruk.,2023-05-24,negative
+laundry 486,laundry,2,"penyajiannya baik, dimohon untuk penyajiannya ditingkatkan lagi.",2023-06-07,positive
+laundry 409,laundry,1,Saya mengalami pengalaman sangat baik secara keseluruhan.,2023-05-04,positive
+laundry 189,laundry,3,Saya mengalami pengalaman sangat buruk secara keseluruhan.,2023-09-14,negative
+laundry 428,laundry,3,Saya mengalami pengalaman sangat baik secara keseluruhan.,2023-11-24,positive
+laundry 113,laundry,3,"suasananya baik, dimohon untuk suasananya ditingkatkan lagi.",2023-01-24,positive
+laundry 678,laundry,2,Saya mengalami pengalaman buruk secara keseluruhan.,2023-03-26,negative
+retail 861,retail,3,Saya mengalami pengalaman sangat baik secara keseluruhan.,2023-09-04,positive
+retail 218,retail,2,"harganya sangat baik, dimohon untuk harganya ditingkatkan lagi.",2023-06-15,positive
+retail 809,retail,1, harga baik.,2023-09-10,positive
+retail 913,retail,1,Saya mengalami pengalaman sangat baik secara keseluruhan.,2023-06-17,positive
+retail 950,retail,5, harga baik.,2023-01-04,positive
+retail 723,retail,5,Saya mengalami pengalaman baik secara keseluruhan.,2023-05-02,positive
+retail 730,retail,1, harga sangat buruk.,2023-11-19,negative
+retail 819,retail,2,"suasananya sangat baik, dimohon untuk suasananya ditingkatkan lagi.",2023-07-11,positive
+retail 910,retail,3, penyajian sangat buruk.,2023-06-20,negative
+retail 735,retail,4,Saya mengalami pengalaman buruk secara keseluruhan.,2023-03-19,negative
+retail 963,retail,1, harga baik.,2023-05-31,positive
+retail 644,retail,3,"harganya sangat buruk, dimohon untuk harganya ditingkatkan lagi.",2023-01-05,negative
+retail 763,retail,1,"harganya baik, dimohon untuk harganya ditingkatkan lagi.",2023-05-15,positive
+retail 441,retail,2,Saya mengalami pengalaman sangat buruk secara keseluruhan.,2023-05-20,negative
+retail 587,retail,3, penyajian baik.,2023-01-06,positive
+retail 814,retail,1, suasana baik.,2023-08-30,positive
+retail 274,retail,2, penyajian sangat baik.,2023-06-06,positive
+retail 350,retail,2,Saya mengalami pengalaman baik secara keseluruhan.,2023-04-01,positive
+retail 184,retail,5, penyajian sangat buruk.,2023-07-05,negative
+retail 510,retail,4,"harganya sangat baik, dimohon untuk harganya ditingkatkan lagi.",2023-02-02,positive
+retail 205,retail,2, harga sangat baik.,2023-05-18,positive
+retail 164,retail,4, suasana sangat buruk.,2023-10-17,negative
+retail 190,retail,2,"harganya baik, dimohon untuk harganya ditingkatkan lagi.",2023-04-17,positive
+retail 442,retail,2,Saya mengalami pengalaman baik secara keseluruhan.,2023-07-03,positive
+retail 967,retail,1,Saya mengalami pengalaman sangat buruk secara keseluruhan.,2023-03-04,negative
+retail 144,retail,5,"harganya buruk, dimohon untuk harganya ditingkatkan lagi.",2023-03-13,negative
+retail 325,retail,2,"suasananya baik, dimohon untuk suasananya ditingkatkan lagi.",2023-07-26,positive
+retail 185,retail,4,"harganya sangat buruk, dimohon untuk harganya ditingkatkan lagi.",2023-06-30,negative
+retail 701,retail,5,Saya mengalami pengalaman sangat baik secara keseluruhan.,2023-08-03,positive
+retail 274,retail,4, harga sangat baik.,2023-08-14,positive
